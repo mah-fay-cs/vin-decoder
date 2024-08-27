@@ -8,7 +8,7 @@ phases:
     commands:
       - (cd dependencies; zip ../vin_decoder_artifact.zip -r .)
       - zip vin_decoder_artifact.zip -u *.py
-      - zip vin_decoder_artifact.zip -u *.txt
+      - zip vin_decoder_artifact.zip -u *.csv
 
 artifacts:
   files:
