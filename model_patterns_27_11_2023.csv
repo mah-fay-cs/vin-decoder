@@ -1,0 +1,3159 @@
+model,pattern,wmi,make
+H1,"['^ZA903.*$', '^.*3$', '^ZA8.*3$', '^YA8.*3$']",137,Hummer
+JAAZ,['^149LO.*$'],137,Hummer
+CUMMINS,['^899LO.*$'],194,Generator
+RAND,['^817LO.*$'],194,Generator
+TL,"['^UA.*$', '^UA9F.*$', '^UA566.*$']",19U,Acura
+CL,['^YA4.*6$'],19U,Acura
+ILX,['^DE2F.*$'],19U,Acura
+NSX,['^NC1B0.*$'],19U,Acura
+TLX ELITE A-SPEC SH-AWD,['^UB3F8.*$'],19U,Acura
+ILX,"['^DE.*$', '^DE1F.*$', '^DE3F7.*$']",19V,Acura
+CIVIC,"['^FA1.*$', '^FC2.*$', '^FC267.*$', '^FB4F2.*$', '^FC1.*$', '^FB2.*$', '^F.*$', '^FB4F.*$', '^FL1H.*$']",19X,Honda
+INSIGHT,['^ZE4F.*$'],19X,Honda
+AVENGER,"['^LC56.*$', '^AC56.*$', '^LC46.*$', '^BD1F.*$']",1B3,Dodge
+CALIBER,"['^HBG8.*$', '^HB28.*$', '^CB4HA.*$', '^HB48.*$', '^HBC8.*$']",1B3,Dodge
+DYTOUNA TURBO,['^XG64J.*$'],1B3,Dodge
+NEON,['^ES.*$'],1B3,Dodge
+VIPER,['^JZ65Z.*$'],1B3,Dodge
+200,"['^CCC.*$', '^CCB.*$', '^BC2F.*$', '^BC1F.*$']",1C3,Chrysler
+AVENGER,['^CDZ.*$'],1C3,Chrysler
+CABRIOLET,['^AYB5X.*$'],1C3,Chrysler
+CALIBER,['^CDWAA.*$'],1C3,Chrysler
+CHRYSLER,['^AS46C.*$'],1C3,Chrysler
+CROSS FIRE,"['^ANE.*L$', '^.*L$', '^AN.*$']",1C3,Chrysler
+DART,"['^CDFAA.*$', '^CDF.*$']",1C3,Chrysler
+FIFTH AVENUE,['^BF66P.*$'],1C3,Chrysler
+LEBARON,['^BC55D.*$'],1C3,Chrysler
+NEON LE / LX,['^ES46C.*$'],1C3,Chrysler
+NEW YORKER,['^XC663.*$'],1C3,Chrysler
+PROWLER,['^EW65G.*$'],1C3,Chrysler
+SEBRING,"['^CC5F.*$', '^EL4.*$', '^EL56.*$', '^EL6.*R$', '^LC5.*$', '^LC4.*$', '^CC4F.*$']",1C3,Chrysler
+SEBRING LXI,['^EL55R.*$'],1C3,Chrysler
+STRATUS,['^EMB6H.*$'],1C3,Chrysler
+VIPER,['^BDE.*Z$'],1C3,Chrysler
+VIPER GTS,['^ADEBZ.*$'],1C3,Chrysler
+VISION,['^HEB6F.*$'],1C3,Chrysler
+CHEROKEE,"['^PJL.*$', '^PJMCB.*$', '^PJM.*$']",1C4,Jeep
+CHEROKEE 2.2,['^PJM.*U$'],1C4,Jeep
+COMPASS,"['^NJD.*B$', '^NJC.*$']",1C4,Jeep
+DURANGO,"['^RDJ.*G$', '^SDH.*T$', '^SDJ.*$', '^SDJDT.*$', '^RDH.*G$']",1C4,Jeep
+GRAND CHEROKEE,"['^HJW.*G$', '^RJFDJ.*$', '^RJFBG.*$', '^RJG.*G$', '^RJFCM.*$', '^RJK.*G$', '^PJM.*$', '^BJW.*G$', '^RJE.*$', '^.*G$', '^RJH.*$', '^RJF.*$', '^RJF.*G$', '^PJL.*$', '^RJFAG.*$', '^RJFCG.*$']",1C4,Jeep
+GRAND CHEROKEE 4XE,['^RJY.*6$'],1C4,Jeep
+GRAND CHEROKEE L,"['^RJJ.*G$', '^RJK.*$']",1C4,Jeep
+GRAND VOYAGER,"['^GY.*$', '^GYB.*$']",1C4,Jeep
+LIBERTY,"['^PJL.*K$', '^PJM.*K$', '^P.*K$']",1C4,Jeep
+PATRIOT,"['^NJR.*B$', '^NJP.*$']",1C4,Jeep
+PT CRUISER,['^FYN89.*$'],1C4,Jeep
+RENEGADE 2.4,['^BU000.*$'],1C4,Jeep
+TOWN  COUNTRY,['^GHB5R.*$'],1C4,Jeep
+TOWN & COUNTRY,['^GKB5R.*$'],1C4,Jeep
+TOWN AND COUNTRY,['^GP.*$'],1C4,Jeep
+VOYAGER,['^GJ25B.*$'],1C4,Jeep
+WRANGLER,"['^BJWAG.*$', '^BJW.*$', '^HJXDG.*$', '^8JW.*G$', '^GJXA.*$', '^HJW.*$', '^JJX.*$', '^AJW.*G$', '^GJW.*G$', '^HJWCG.*$', '^HJX.*$']",1C4,Jeep
+1500,"['^SRF.*$', '^RD6.*$', '^RR6.*$', '^RRF.*G$', '^RR7.*$', '^RR7FT.*$', '^RR7MT.*$', '^RD7.*$', '^RRE.*$']",1C6,Ram
+1500 ST,['^RD7FP.*$'],1C6,Ram
+GLADIATOR,"['^JJT.*$', '^HJT.*G$']",1C6,Ram
+RAM PICKUP 1500,['^RR7YG.*$'],1C6,Ram
+RAM 1500,"['^HB1.*$', '^HV1.*$', '^HV1.*T$', '^HB16.*$']",1D3,Dodge
+CARAVAN,"['^GP25.*$', '^GP.*$']",1D4,Dodge
+DURANGO,"['^HB48.*$', '^HB58.*$', '^RD4GG.*$', '^HB482.*$']",1D4,Dodge
+GRAND CARAVAN,['^GP24.*$'],1D4,Dodge
+NITRO,"['^PT5G.*$', '^PU5G.*$', '^P.*$', '^PU4G.*$', '^PT2GK.*$']",1D4,Dodge
+1500,"['^RV1.*$', '^RV1CT.*$', '^RB1.*$']",1D7,Dodge
+DAKOTA,['^HW4.*N$'],1D7,Dodge
+DAKOTA QUAD SLT,['^HE48K.*$'],1D7,Dodge
+DAKOTA SXT,['^RE3BK.*$'],1D7,Dodge
+RAM 1500,"['^HG38.*$', '^HU1.*$', '^HE4.*N$', '^HA1.*$', '^H.*$', '^HE2.*$']",1D7,Dodge
+RAM 2500,['^KS28D.*$'],1D7,Dodge
+CARAVAN,['^GP25R.*$'],1D8,Dodge
+NITRO,"['^GT58K.*$', '^G.*$', '^GT28K.*$', '^GU.*8K$', '^GU58.*$', '^GT58.*$']",1D8,Dodge
+DURANGO,"['^HB48.*$', '^HB58.*$', '^HB582.*$', '^HD48.*$']",1D8,Dodge
+GRAND CARAVAN,['^HN44.*$'],1D8,Dodge
+2-DOOR,['^BP10D.*$'],1FA,Ford
+MUSTANG,"['^LP4.*$', '^6P8TH.*$', '^FP4.*$', '^TP8.*$', '^6P8.*$', '^TP8FF.*$', '^6P8CF.*$', '^TP8EM.*$', '^BP2.*$', '^BP4.*$', '^CP4.*$', '^6P8AM.*$']",1FA,Ford
+500,['^HP241.*$'],1FA,Ford
+C-MAX HYBRID,"['^DP5BU.*$', '^DP5AU.*$', '^DP5.*$', '^DP5.*U$']",1FA,Ford
+C-MAX ENERGI,['^DP5EU.*$'],1FA,Ford
+CONTOUR,"['^LP653.*$', '^LP6.*$']",1FA,Ford
+TAURUS,"['^CP5.*$', '^HP2D9.*$', '^HP2.*$', '^FP5.*$', '^FP53U.*$', '^LP5.*$']",1FA,Ford
+FOCUS,"['^DP3R4.*$', '^DP3L9.*$', '^HP3.*$', '^DP3.*$', '^FP3.*$']",1FA,Ford
+FUSION,['^6P0.*$'],1FA,Ford
+TEMPO,['^BP36X.*$'],1FA,Ford
+SHELBY GT350,['^6P8JZ.*$'],1FA,Ford
+THUNDER BIRD,['^BP42D.*$'],1FA,Ford
+THUNDERBIRD,['^HP6.*A$'],1FA,Ford
+ZIMMER,['^BP26M.*$'],1FA,Ford
+E-SERIES WAGON,['^SS3BL.*$'],1FB,Ford
+ECONOLINE,['^NE31L.*$'],1FB,Ford
+TRANSIT,['^ZX2YG.*$'],1FB,Ford
+C.MAX,['^AP5AU.*$'],1FD,Ford
+E 150,['^EE14H.*$'],1FD,Ford
+ECONOLINE,"['^WE3.*$', '^KE30.*$', '^SS3.*$', '^XE4FS.*$', '^XE4.*$']",1FD,Ford
+F 150,['^EF365.*$'],1FD,Ford
+F 350,['^WF37.*$'],1FD,Ford
+F 550,['^AF5.*P$'],1FD,Ford
+F-350,['^KF37G.*$'],1FD,Ford
+F-450,['^XF4.*$'],1FD,Ford
+F-450 SUPER DUTY SD,['^UF4HT.*$'],1FD,Ford
+F-450 SUPER DUTY SD SD SD,['^UF4GT.*$'],1FD,Ford
+F-350 SD,['^8X3H6.*$'],1FD,Ford
+L 8000,['^Z.*$'],1FD,Ford
+,['^KE3DG.*$'],1FD,Ford
+TRANSIT,['^BW.*$'],1FD,Ford
+AEROSTAR,['^DA31X.*$'],1FM,Ford
+BRONCO,"['^EE5.*$', '^DE5.*$']",1FM,Ford
+ECONOLINE,['^RE11W.*$'],1FM,Ford
+ESCAPE HYBRID,"['^YU0.*$', '^CU4.*$', '^YU9.*1$', '^YU0.*1$', '^CU0.*Z$', '^CU9.*$', '^CU5K3.*$', '^YU9.*$', '^CUO.*$', '^CU0.*$', '^CU6.*3$', '^CU5.*$']",1FM,Ford
+ESCAPE,['^CU0GD.*$'],1FM,Ford
+EXCURSION,['^NU4.*S$'],1FM,Ford
+EXPEDITION,"['^PU1.*$', '^JU2A.*$', '^FU1.*$', '^RU1.*$', '^JK1H5.*$', '^JU1.*$', '^JK1.*$', '^FK1.*5$', '^JK2A.*$']",1FM,Ford
+EXPEDITION EDDIE BAUER / XLT,['^RU17L.*$'],1FM,Ford
+EXPLORAR,['^ZU77K.*$'],1FM,Ford
+EXPLORER,"['^EU7EE.*$', '^HK7.*$', '^5K7.*$', '^SK8.*$', '^DU7.*$', '^DU24.*$', '^SK7.*H$', '^ZU6.*$', '^5K8HC.*$', '^ZU3.*$', '^EU2.*E$', '^EU5.*$', '^EU7.*$', '^HK8.*8$', '^EU1.*$', '^5K8FH.*$', '^ZU7.*$', '^EU6.*$', '^5K8.*$', '^5K8F8.*$', '^DU3.*$', '^ZU72E.*$']",1FM,Ford
+EXPLORER 2.3,['^SK8FH.*$'],1FM,Ford
+EXPLORER HYBRID,['^5K.*FW$'],1FM,Ford
+EXPLORER SPORT,['^ZU70E.*$'],1FM,Ford
+EXPLORER SPORT TRAC,"['^ZU77.*$', '^EU5.*$', '^EU2.*8$', '^EU3.*$']",1FM,Ford
+FREESTYLE,['^ZK0.*1$'],1FM,Ford
+TAURUS X,['^DK02W.*$'],1FM,Ford
+TRANSIT,['^ZK1YM.*$'],1FM,Ford
+F 350,['^8W3.*T$'],1FT,Ford
+E 150,['^NE1EL.*$'],1FT,Ford
+E 250,['^NE2EL.*$'],1FT,Ford
+E 350,['^SE3EL.*$'],1FT,Ford
+E-SERIES VAN,['^NE1EW.*$'],1FT,Ford
+E350 VANS ECONOLINE,['^SE34L.*$'],1FT,Ford
+ECONOLINE,['^SS3.*$'],1FT,Ford
+F-150,"['^NF1.*$', '^EW1.*$', '^RF1.*$', '^ZX1.*$', '^PW1.*$', '^EX1.*$', '^RW0.*$', '^PX04.*$', '^PX1.*$', '^DF1.*$', '^MF1.*$', '^FW1ET.*$', '^EW1CM.*$', '^VX1.*$', '^RW1.*$', '^EW1E8.*$', '^FW1.*$', '^FX1.*$', '^RX1.*$']",1FT,Ford
+F 250,"['^BF2.*6$', '^BF2B6.*$']",1FT,Ford
+F-250,['^HX26G.*$'],1FT,Ford
+F-250 SD,"['^NW2.*$', '^SW2.*$', '^NF2.*5$', '^7W2B.*$']",1FT,Ford
+F-250 SUPER DUTY SD SD SD,['^HF26H.*$'],1FT,Ford
+F-350 SD,"['^8W3.*$', '^WW3.*$']",1FT,Ford
+F-350 SUPER DUTY,['^WW3.*P$'],1FT,Ford
+PICK,['^SX30P.*$'],1FT,Ford
+PICK UP,['^CR10A.*$'],1FT,Ford
+RANGER,"['^ER4.*H$', '^YR1.*U$', '^ER1.*H$', '^KR1A.*$']",1FT,Ford
+TRANSIT,"['^BW3.*$', '^YR2.*M$']",1FT,Ford
+COLUMBIA,['^JF0CV.*$'],1FU,Freightliner
+FREIGHTLINER,['^YDSEB.*$'],1FU,Freightliner
+M2,['^ACWCT.*$'],1FV,Freightliner
+M2 6X4,['^HCYDJ.*$'],1FV,Freightliner
+BOLT EV,"['^FD1R.*$', '^FP33.*$', '^FB1R.*$', '^FD3D.*$', '^FY6.*$', '^FB3D.*$', '^FW6S.*$', '^F91R.*$', '^F.*6S0$', '^FP2.*$', '^F.*$', '^F76E0.*$', '^FA1R.*$']",1G1,Chevrolet
+CAMARO SS,['^AS87A.*$'],1G1,Chevrolet
+CRUZE,"['^BE5SM.*$', '^BU5.*E$', '^P.*$', '^PG5S.*$', '^BU51.*$', '^PC5S.*$', '^PF5S.*$', '^B.*$', '^BL52.*$', '^BN5.*$', '^PA5S.*$', '^BL5.*$', '^PE5S.*$', '^PB5S.*$', '^PJ5S.*$']",1G1,Chevrolet
+CAVALIER,['^JC524.*$'],1G1,Chevrolet
+CHEVROLET BOLT EUV,['^F66S0.*$'],1G1,Chevrolet
+IMPALA,"['^1X5S.*$', '^155SA.*$', '^1.*$', '^1.*5S3$', '^1Z5S.*$', '^155S.*$', '^105S.*$', '^115S.*$', '^155S3.*$', '^135S.*$']",1G1,Chevrolet
+COBALT,"['^AL5.*F$', '^A.*$', '^AK5.*F$']",1G1,Chevrolet
+CORVETTE,"['^YG2D.*$', '^YK2D.*$', '^YB2D.*$', '^Y.*D7$', '^YY3.*$', '^YL2D.*$', '^Y92D.*$', '^YY2.*$', '^AY87.*$', '^YE2D.*$', '^YB3D.*$', '^YN2D.*$', '^Y93D.*$']",1G1,Chevrolet
+MALIBU,"['^ZC5.*$', '^ZA5.*$', '^ZB5EU.*$', '^ZH5.*$', '^1.*5SA$', '^ZJ5.*$', '^Z95E.*$', '^1H5S.*$', '^ZS5.*F$', '^ND52.*$', '^1F5.*$', '^1B5S.*$', '^ZG5.*$', '^ZE5.*$', '^ZB5.*$', '^ZF5.*$', '^1C5S.*$', '^ZD5.*$', '^1E5S.*$', '^1D5.*$', '^ZT5.*$']",1G1,Chevrolet
+MALIBU MAXX,['^ZT68N.*$'],1G1,Chevrolet
+MONTECARLO,['^GZ11G.*$'],1G1,Chevrolet
+SONIC,"['^JA6.*H$', '^JD5S.*$', '^JC5S.*$', '^JD6S.*$', '^JG6S.*$', '^JB5S.*$', '^J.*$', '^JC6S.*$', '^JE5S.*$']",1G1,Chevrolet
+VOLT,"['^RA6.*$', '^RD6.*$', '^RB6.*$', '^RC6.*$', '^R.*$']",1G1,Chevrolet
+BONNEVILLE,['^H.*$'],1G2,Pontiac
+BONNEVILLE SE,['^HX52K.*$'],1G2,Pontiac
+F 355,['^PG119.*$'],1G2,Pontiac
+FIERO,['^AM37R.*$'],1G2,Pontiac
+FIRE BIRD,['^AW87.*$'],1G2,Pontiac
+FIREBIRD,['^A.*$'],1G2,Pontiac
+G6,['^Z.*$'],1G2,Pontiac
+GRAND AM,"['^NE5.*$', '^N.*$']",1G2,Pontiac
+GRAND PRIX,['^W.*$'],1G2,Pontiac
+PARISIENNE,['^BT69H.*$'],1G2,Pontiac
+SOLSTICE,"['^MB3.*B$', '^M.*$']",1G2,Pontiac
+TRANS AM,"['^F.*$', '^FW2.*$']",1G2,Pontiac
+98,['^AX69Y.*$'],1G3,Oldsmobile
+ACHIEVA,['^NL52M.*$'],1G3,Oldsmobile
+CUTLASS CIERA,['^AG55N.*$'],1G3,Oldsmobile
+CUTLASS CIERA SL,['^AM11W.*$'],1G3,Oldsmobile
+CUTLASS SUPREME,['^AM54N.*$'],1G3,Oldsmobile
+DELTA 88,['^A.*Y$'],1G3,Oldsmobile
+DELTA 88 ROYALE,['^AY37Y.*$'],1G3,Oldsmobile
+NINETY-EIGHT,['^AX.*$'],1G3,Oldsmobile
+,['^BP83E.*$'],1G3,Oldsmobile
+TORONADO,['^AZ57Y.*$'],1G3,Oldsmobile
+CENTURY,['^AH55M.*$'],1G4,Buick
+CENTURY WAGON,['^AH81N.*$'],1G4,Buick
+ELECTRA,['^AU69.*$'],1G4,Buick
+LACROSSE,"['^ZP5S.*$', '^GC5.*$']",1G4,Buick
+LESABRE,['^BP.*Y$'],1G4,Buick
+LUCERNE,['^HP572.*$'],1G4,Buick
+PARK,['^CU521.*$'],1G4,Buick
+ROADMASTER,"['^BN5.*$', '^BT5.*$']",1G4,Buick
+VERANO,['^P.*5SK$'],1G4,Buick
+WRANGLER,['^AJWAG.*$'],1G4,Buick
+ATS,"['^AA5R.*$', '^AH5R.*$', '^AB5.*$', '^A91R.*$', '^A95.*$', '^A.*$']",1G6,Cadillac
+ATS COUPE,['^AA1RX.*$'],1G6,Cadillac
+BROUGHAM,"['^AB69.*$', '^DW5.*$', '^CB5.*$']",1G6,Cadillac
+CTS,"['^D.*$', '^DV5.*$', '^D95E.*$', '^DM5.*$', '^DP5.*$', '^AR5S.*$', '^DA5E.*$', '^DS5E.*$', '^DF57.*$', '^A85.*$', '^AX5S.*$', '^DG5.*$', '^KE5.*Y$', '^DZ5.*$', '^D91E.*$']",1G6,Cadillac
+CIVIL,['^AS69.*$'],1G6,Cadillac
+CT4,['^DK5RK.*$'],1G6,Cadillac
+DEVILLE,"['^K.*$', '^KD5.*Y$', '^AD47.*$', '^KD5.*$', '^CD5.*$', '^K95RS.*$', '^KF5.*$', '^K95R.*$']",1G6,Cadillac
+CTS V,['^A85S6.*$'],1G6,Cadillac
+ELDORADO,"['^AL57.*$', '^EL1.*$']",1G6,Cadillac
+ELR,['^R.*1E4$'],1G6,Cadillac
+STS,"['^KY5.*$', '^DW6.*$']",1G6,Cadillac
+XLR,['^YV34A.*$'],1G6,Cadillac
+AURA HYBRID,['^ZR575.*$'],1G8,Saturn
+BLAZER,['^EK18H.*$'],1G8,Saturn
+L200,['^JU54F.*$'],1G8,Saturn
+SC,['^ZY127.*$'],1G8,Saturn
+SKY,['^MG35X.*$'],1G8,Saturn
+SL,['^Z.*$'],1G8,Saturn
+3500,['^JK342.*$'],1GB,Chevrolet
+ASTRO,"['^DM1.*$', '^EL19.*$', '^.*19W$']",1GB,Chevrolet
+BOLT EV,['^JF1G0.*$'],1GB,Chevrolet
+C3500HD,['^KC34F.*$'],1GB,Chevrolet
+C4500,['^E4E32.*$'],1GB,Chevrolet
+C7,['^J7C1G.*$'],1GB,Chevrolet
+CHEVY,['^EG25K.*$'],1GB,Chevrolet
+EXPRESS,"['^HG3.*$', '^FG15.*$', '^GG29.*$']",1GB,Chevrolet
+G-SERIES VAN,['^GG35K.*$'],1GB,Chevrolet
+KODIAK,['^E4C3G.*$'],1GB,Chevrolet
+SILVERADO,['^EC19.*$'],1GB,Chevrolet
+SILVERADO 3500,"['^J.*$', '^JG31.*$', '^JP37.*$']",1GB,Chevrolet
+SILVERADO CLASSIC 2500HD,['^HK24U.*$'],1GB,Chevrolet
+1/2 TON PICKUPS,['^DR14K.*$'],1GC,Chevrolet
+3500,['^HC33J.*$'],1GC,Chevrolet
+ASTRO,"['^D.*$', '^DM1.*$']",1GC,Chevrolet
+C 10,['^EC24L.*$'],1GC,Chevrolet
+C/K 1500,['^.*14K$'],1GC,Chevrolet
+C/K 3500 SERIES,['^HK39J.*$'],1GC,Chevrolet
+CHEVELLE,['^EG15M.*$'],1GC,Chevrolet
+COLORADO,"['^HSBE.*$', '^GTDE.*$', '^CS1.*$', '^GSCE.*$', '^GSDE.*$', '^GSBE.*$', '^GTBE.*$', '^CSB.*9$', '^DT1.*$']",1GC,Chevrolet
+COLORADO AWD,['^PT9EN.*$'],1GC,Chevrolet
+ELCAMINO,['^CW80H.*$'],1GC,Chevrolet
+EXPRESS,"['^G.*29U$', '^HG3.*$', '^GG2.*$', '^WGBF.*$']",1GC,Chevrolet
+K 1500,['^DK14K.*$'],1GC,Chevrolet
+S-10 PICKUP,['^CS19.*$'],1GC,Chevrolet
+S10 PICKUP,['^CS144.*$'],1GC,Chevrolet
+SIERRA,['^EK14R.*$'],1GC,Chevrolet
+SILVERADO,"['^EC14.*$', '^RKTE.*$', '^1KV.*G$', '^VK9E.*$', '^VKRE.*$', '^EK1.*$', '^EK2.*J$', '^HC2.*$', '^4.*$', '^RK9E.*$', '^RKSE.*$', '^NK9E.*$', '^HK2.*$', '^PKSE.*$', '^1K9.*$', '^NC9E.*$', '^JK9.*K$', '^NKPE.*$', '^GC24.*$', '^DC14.*$', '^JK3.*$', '^RCRE.*$']",1GC,Chevrolet
+SILVERADO 1500,"['^RYBE.*$', '^RYDE.*$', '^VKNE.*$', '^NKNE.*$', '^VKRE.*$', '^EK1.*$', '^PCPE.*$', '^RCNE.*$', '^EK29.*$', '^VKPE.*$', '^RKSE.*$', '^NK9E.*$', '^PWBEK.*$', '^UYHE.*$', '^PKSE.*$', '^VKSE.*$', '^EC1.*$', '^UYDE.*$', '^UYGE.*$', '^NC9E.*$', '^NKPE.*$', '^PYBE.*$', '^EC19X.*$', '^NCPE.*$', '^UYEE.*$', '^RCSE.*$', '^NKRE.*$', '^RCRE.*$', '^PYFE.*$', '^RCPE.*$']",1GC,Chevrolet
+SILVERADO CLASSIC 2500HD,['^H.*24U$'],1GC,Chevrolet
+SSR,['^ES14.*$'],1GC,Chevrolet
+ACADIA,"['^KVS.*D$', '^ER23.*$', '^KNKL.*$', '^KVP.*D$', '^KVR.*D$', '^KRT.*D$', '^ER33.*$', '^EV33.*$', '^KV9.*D$', '^KNML.*$', '^KRP.*D$', '^KNLL.*$', '^KVT.*D$', '^EV23.*$', '^KNRL.*$', '^EV1.*$', '^ER13.*$', '^KRR.*D$']",1GK,GMC
+ACADIA LIMITED,['^K.*SKD$'],1GK,GMC
+ENVOY,"['^D.*13S$', '^ET1.*$', '^DT13.*$', '^ET6.*M$', '^.*3W$', '^E.*16S$', '^ES1.*$']",1GK,GMC
+SAFARI,"['^DM19.*$', '^EL19.*$']",1GK,GMC
+SUBURBAN,"['^GK2.*$', '^GC26.*$', '^GV26K.*$', '^FK16.*$']",1GK,GMC
+YUKON,"['^S2KE.*$', '^S27.*$', '^FK1.*$', '^EK1.*$', '^EC13T.*$', '^FK3.*$', '^S2AE0.*$', '^EC13.*$', '^S28.*$', '^FC13.*$', '^FK2.*$', '^S2E.*$', '^S1A.*$', '^S2C.*$', '^S2A.*$', '^FK0.*2$', '^S17.*$', '^S1BK.*$', '^S1C.*$', '^FK6.*$', '^FC23.*$', '^S2BK.*$', '^FC33.*$']",1GK,GMC
+YUKON XL,"['^S1H.*$', '^S2H.*$', '^S1KE.*$', '^FK66.*$', '^S1GK.*$', '^FK16.*$', '^S2F.*$', '^S18.*$', '^GC26.*$', '^EC16.*$', '^S28.*$', '^S2JK.*$', '^S2GK.*$', '^FC16.*$']",1GK,GMC
+MONTANA,['^D.*3E$'],1GM,Pontiac
+TRAVERSE,['^LVGED.*$'],1GM,Pontiac
+ASTRO,"['^DM19.*$', '^EL19.*$']",1GN,Chevrolet
+TRAILBLAZER,"['^D.*$', '^D.*13S$', '^DT23S.*$', '^DT13S.*$', '^ET1.*$', '^DT13.*$', '^EV1.*K$', '^DV33.*$', '^DV23.*$', '^DS13.*$', '^DT23.*$', '^DV03.*$', '^ES1.*$']",1GN,Chevrolet
+EQUINOX,['^ALAEK.*$'],1GN,Chevrolet
+EXPRESS,['^UHCD4.*$'],1GN,Chevrolet
+S-10 BLAZER,['^CS18Z.*$'],1GN,Chevrolet
+SUBURBAN,"['^SKJ.*$', '^SKCK.*$', '^SKK.*$', '^SKEK.*$', '^SCH.*$', '^FC16J.*$', '^FC26.*$', '^FK16.*$', '^SKG.*$', '^SCJ.*$', '^SK8.*C$', '^SC8E.*$', '^SKH.*$', '^EC16.*$', '^SCK.*$', '^FC16.*$']",1GN,Chevrolet
+TAHOE,"['^UCBE.*$', '^FK1.*$', '^SKC.*$', '^LC2E.*$', '^SK6.*$', '^EK1.*$', '^FC13J.*$', '^SKB.*$', '^SKRK.*$', '^SKF.*C$', '^E.*$', '^ES16.*$', '^FK3.*$', '^SK8.*$', '^FC3.*$', '^SCB.*$', '^SCA.*$', '^SK2E.*$', '^MCAE.*$', '^SK6E0.*$', '^FC13.*$', '^EC1.*$', '^SKA.*$', '^FK2.*$', '^SCRK.*$', '^SK7.*$', '^SCC.*$', '^SC7.*C$', '^FC23.*$', '^SC6.*$', '^SKSK.*$', '^GK26.*$']",1GN,Chevrolet
+TAHOE HYBRID,['^SKD.*J$'],1GN,Chevrolet
+TRAVERSE,"['^KRJ.*D$', '^KVG.*D$', '^EV23.*$', '^KRF.*D$', '^KR8.*D$', '^KRG.*D$', '^KVF.*D$', '^KV8.*D$']",1GN,Chevrolet
+VENTURE,"['^DU0.*E$', '^D.*E$']",1GN,Chevrolet
+VENTURI,['^DU23E.*$'],1GN,Chevrolet
+3500,['^JK33K.*$'],1GT,GMC
+4X4,['^GG25R.*$'],1GT,GMC
+ASTRO,['^GC24M.*$'],1GT,GMC
+C 1500 JEEP,['^DC14N.*$'],1GT,GMC
+C/K 1500,['^DC14H.*$'],1GT,GMC
+C/K 1500 SERIES,['^EK14H.*$'],1GT,GMC
+C/K 2500,['^GC24W.*$'],1GT,GMC
+C/K 3500,['^HC34W.*$'],1GT,GMC
+CABALLERO,['^CW80H.*$'],1GT,GMC
+CANYON,"['^GC24.*$', '^DT1.*$', '^G5CE.*$', '^G6DE.*$']",1GT,GMC
+CHEVROLET,['^CM15Z.*$'],1GT,GMC
+SIERRA,"['^12SE.*$', '^EC14.*$', '^R9CE.*$', '^R2TE.*$', '^N29E.*$', '^EC19.*$', '^V2LE.*$', '^EK1.*$', '^JK8.*K$', '^EK2.*J$', '^E.*$', '^U9FE.*$', '^R29E.*$', '^N2UE.*$', '^HK2.*$', '^N1TE.*$', '^V2NE.*$', '^EK2.*0$', '^N2LE.*$', '^U9DE.*$', '^N2TE.*$', '^GK2.*$', '^U9CE.*$', '^120.*$', '^HK3.*$', '^R2VE.*$', '^PCTE.*$', '^N1LE.*$', '^P9EE.*$', '^EK14X.*$', '^V2UE.*$', '^JK3.*$', '^SKWE.*$', '^HK4.*K$']",1GT,GMC
+GMC,['^CS144.*$'],1GT,GMC
+HUMMER EV,['^40FDA.*$'],1GT,GMC
+R CONVENTIONAL,['^GR24N.*$'],1GT,GMC
+SAFARI,['^DM19W.*$'],1GT,GMC
+SAVANA,"['^W79.*G$', '^HG39.*$', '^GG2.*$']",1GT,GMC
+SERA,['^R29EA.*$'],1GT,GMC
+SIERRA 3500HD,['^42YE.*$'],1GT,GMC
+SIERRA 2500HD,['^HK24U.*$'],1GT,GMC
+SIERRA C/K 3500,['^HK34J.*$'],1GT,GMC
+SIERRA K1500 SLT,['^R2WE3.*$'],1GT,GMC
+SIERRA K2500 HD,['^HK291.*$'],1GT,GMC
+SONOMA,['^DT19W.*$'],1GT,GMC
+V CONVENTIONAL,['^EV14H.*$'],1GT,GMC
+VANDURA,['^GG39K.*$'],1GT,GMC
+ESCALADE,"['^S47.*$', '^S47KJ.*$', '^FK3.*$', '^S4B.*$', '^S4GK.*$', '^S3H.*$', '^FK6.*8$', '^S3C.*$', '^S4E.*$', '^S4D.*$', '^S48.*$', '^S4MK.*$', '^UK9E.*$', '^FK1.*2$', '^S4C.*$', '^EC63.*$', '^EK63.*$']",1GY,Cadillac
+SRX,"['^DE63.*$', '^EE63.*$']",1GY,Cadillac
+XT 4,['^FZ9R4.*$'],1GY,Cadillac
+XT4,['^.*R4$'],1GY,Cadillac
+XT5,['^KPDRS.*$'],1GY,Cadillac
+117CI,['^1T.*$'],1HD,Harley-Davidson
+CVO BREAKOUT,['^1TD91.*$'],1HD,Harley-Davidson
+CVO SOFTAIL DELUXE,['^1JDV1.*$'],1HD,Harley-Davidson
+DAVIDSON,"['^1KRM1.*$', '^1.*$']",1HD,Harley-Davidson
+DAVIDSON ELE,['^1KEM3.*$'],1HD,Harley-Davidson
+DAVIDSONFLHRCI,['^1FRW1.*$'],1HD,Harley-Davidson
+FXDF,['^1GY41.*$'],1HD,Harley-Davidson
+ULTRA,['^1FC41.*$'],1HD,Harley-Davidson
+ELECTRA GLIDE ULTRA LIMITED,['^1KEM2.*$'],1HD,Harley-Davidson
+FLHCS / HERITAGE CLASSIC 114,['^1YBK1.*$'],1HD,Harley-Davidson
+FLHRCI,['^1FR43.*$'],1HD,Harley-Davidson
+FLHTCU,['^1FCM1.*$'],1HD,Harley-Davidson
+FLHTCU/ELECTRA GLIDE ULTRA CLASSIC,['^1FCC1.*$'],1HD,Harley-Davidson
+FLHTCUTG,['^1MAD1.*$'],1HD,Harley-Davidson
+FLHTCUTGSE / CVO TRI GLIDE,['^1TBH1.*$'],1HD,Harley-Davidson
+FLHTI,['^1FVW1.*$'],1HD,Harley-Davidson
+FLHTKSE ANV / 115TH ANNIVERSARY CVO LIMI,['^1THH1.*$'],1HD,Harley-Davidson
+FLHXS / STREET GLIDE SPECIAL,['^1KRP1.*$'],1HD,Harley-Davidson
+FLSTSB,['^1JM51.*$'],1HD,Harley-Davidson
+FLTHTK,['^1KEF1.*$'],1HD,Harley-Davidson
+FLTRXS ROAD GLIDE SP,['^1KTM1.*$'],1HD,Harley-Davidson
+FLTRXST,['^1ACL1.*$'],1HD,Harley-Davidson
+FORTY-EIGHT,['^1LC31.*$'],1HD,Harley-Davidson
+ROAD GLIDE,['^1KTP1.*$'],1HD,Harley-Davidson
+ROAD GLIDE ULTRA,['^1KGM1.*$'],1HD,Harley-Davidson
+SPORTSTER,['^4LE24.*$'],1HD,Harley-Davidson
+STREET 750,['^4NBB1.*$'],1HD,Harley-Davidson
+DAVIDSON TOURING ROAD KING CLASSIC,['^1KBM1.*$'],1HD,Harley-Davidson
+STREET ROD,['^1HCZ4.*$'],1HD,Harley-Davidson
+TRIM,['^1TCL1.*$'],1HD,Harley-Davidson
+ULTRA LIMITED,['^1KEL1.*$'],1HD,Harley-Davidson
+VRSCDX,['^1HHH1.*$'],1HD,Harley-Davidson
+XG750A / STREET ROD,['^4NCG1.*$'],1HD,Harley-Davidson
+XL1200C,['^1CT31.*$'],1HD,Harley-Davidson
+XL1200XSFORTY-EIGHT SPECIAL,['^1LR31.*$'],1HD,Harley-Davidson
+XL883N,['^4LE21.*$'],1HD,Harley-Davidson
+XL883N / IRON 883,['^4LE23.*$'],1HD,Harley-Davidson
+XL883N/IRON 883,['^4LE22.*$'],1HD,Harley-Davidson
+3000GT,['^BH41J.*$'],1HG,Honda
+ACCORD,"['^CR6F.*$', '^CF9.*$', '^CG56.*$', '^CM5.*$', '^CV3.*$', '^CP2.*$', '^CV1.*$', '^CV2.*$', '^C522.*$', '^CE18.*$', '^CR2.*$', '^CT2.*$', '^CD72.*$', '^CY2F.*$', '^CV263.*$', '^CY1F.*$', '^CG32.*$', '^CS1.*$', '^CF8.*$', '^CP3.*$', '^CT1.*$', '^CV1F9.*$', '^CS2.*$', '^CM7.*$', '^CR3.*$', '^CM66.*$', '^CD5.*$', '^CD26.*$', '^CP263.*$', '^CG66.*$', '^CG16.*$', '^CM82.*$']",1HG,Honda
+ACCORD 3.5,['^CR368.*$'],1HG,Honda
+ACCORD HYBRID,"['^CR6F.*$', '^CV3.*$']",1HG,Honda
+CIVIC,"['^E.*$', '^ES16.*$', '^FA16.*$', '^EJ6.*7$', '^EJ7.*$', '^EJ8.*4$', '^EJ6.*$', '^EM2.*$']",1HG,Honda
+CIVIC LX,['^EG865.*$'],1HG,Honda
+GRAND CHEROKEE,"['^FJ28.*$', '^FF2.*$', '^GWB8.*$', '^FJ58.*$', '^FJ88.*$', '^GX58.*$', '^RR4G.*$', '^G248S.*$', '^RS4G.*$', '^FF58.*$', '^G248.*$', '^FJ7.*$', '^FF28.*$', '^GWS8.*$', '^FF68.*$', '^FT2.*$', '^RR6.*$', '^GW58.*$', '^FJ6.*$', '^GZ58.*$', '^RR5G.*$', '^FJ78.*$', '^HR48N.*$', '^GZ78.*$', '^GW48.*$', '^GX48.*$', '^RS6G.*$', '^GL48.*$', '^RS5G.*$', '^GZ88.*$', '^GW68.*$', '^HR58.*$', '^FF4.*S$', '^.*K$', '^HS58.*$']",1J4,Jeep
+COMMANDER,['^R.*4GK$'],1J4,Jeep
+COMPASS,['^NF5FB.*$'],1J4,Jeep
+PATRIOT,['^NT1G.*$'],1J4,Jeep
+WRANGLER,"['^FY19.*$', '^FY29.*$', '^FA2.*$', '^FA5.*$', '^FY49.*$', '^FY69.*$', '^GA2.*1$', '^FA4.*$', '^BA5.*1$', '^GA5.*1$']",1J4,Jeep
+GRAND CHEROKEE,"['^HC68.*$', '^GW68J.*$', '^HR78.*$', '^G25.*$', '^HC78.*$', '^G.*$', '^HR58.*$', '^H.*783$', '^H.*$', '^GW58.*$', '^HC58.*$', '^HR48.*$', '^GS48K.*$', '^HR68.*$', '^G.*8K$', '^HS58.*$', '^GWE8.*$', '^HS48.*$']",1J8,Jeep
+COMMANDER,"['^HG48.*$', '^H358.*$', '^HH48.*$', '^HG58.*$', '^HH58.*$', '^H.*$']",1J8,Jeep
+COMPASS,['^F.*W$'],1J8,Jeep
+LIBERTY CHEROKEE,['^GNB8K.*$'],1J8,Jeep
+CHEROKEE,['^GL58K.*$'],1J8,Jeep
+PATRIOT,"['^FT28.*$', '^F.*$', '^FF48.*$']",1J8,Jeep
+WRANGLER,['^.*41$'],1J8,Jeep
+CONTINENTAL,['^6L9.*$'],1LN,Lincoln
+TOWN CAR,"['^HM9.*$', '^HM8.*$', '^CM8.*$', '^BM8.*F$', '^HL9.*$', '^LM8.*W$', '^HM87A.*$']",1LN,Lincoln
+MARK VII,['^BM9.*E$'],1LN,Lincoln
+MKS,['^HL9D.*$'],1LN,Lincoln
+TOWN,['^BP96F.*$'],1LN,Lincoln
+612 CH,['^AA.*$'],1M1,Mack
+DUMP TRUCK,['^P26.*C$'],1M2,Mack
+GU 8013,['^AX16C.*$'],1M2,Mack
+MERCURY,['^ZU86E.*$'],1M2,Mack
+MR,['^K197C.*$'],1M2,Mack
+MERCURY,['^FM55S.*$'],1ME,Mercury
+MERCURY SAIBLE,['^LM653.*$'],1ME,Mercury
+SABEL,['^LM53S.*$'],1ME,Mercury
+MONTEGO,['^HM4.*W$'],1ME,Mercury
+MYSTIQUE,['^FM66L.*$'],1ME,Mercury
+TAURUS,['^LM53U.*$'],1ME,Mercury
+TIFFANY,['^BM60F.*$'],1ME,Mercury
+TOMBO,['^BM37X.*$'],1ME,Mercury
+TOPAZ,['^BM36X.*$'],1ME,Mercury
+TRACER,['^LM13P.*$'],1ME,Mercury
+LEAF,"['^AZ.*CP$', '^BZ1.*$', '^AZ1.*$', '^.*CP$', '^AZ0CP.*$']",1N4,Nissan
+ALTIMA HYBRID,"['^CL21E.*$', '^CL2.*$']",1N4,Nissan
+ALTIMA,"['^AL2.*$', '^DL01.*$', '^AL11D.*$', '^BL3A.*$', '^BL11.*$', '^AL3AP.*$', '^BL11D.*$', '^AL3.*$', '^ALC.*$', '^AL4.*$', '^BL4.*$', '^AL11.*$', '^AL3A9.*$', '^BL2.*$', '^BL3A9.*$']",1N4,Nissan
+MAXIMA,"['^AA5.*$', '^AA6.*$']",1N4,Nissan
+PICKUP,['^PB21S.*$'],1N4,Nissan
+SUNNY,['^AB4.*D$'],1N4,Nissan
+FRONTIER,"['^ED1E.*$', '^AD0.*$', '^DD0.*$', '^BD0.*T$', '^.*Y$', '^ED2.*$', '^DD2.*$']",1N6,Nissan
+PICKUP,['^SD16S.*$'],1N6,Nissan
+TITAN,"['^BA0.*$', '^AA1E.*$', '^AA0.*$']",1N6,Nissan
+TITAN XD,['^AA1F.*$'],1N6,Nissan
+TRUCK,['^SD11S.*$'],1N6,Nissan
+URVAN,['^FE52S.*$'],1N6,Nissan
+COROLLA,"['^BU4.*E$', '^AE0.*$', '^BR1.*E$', '^AE9.*$', '^BR3.*E$', '^BB0.*E$']",1NX,Toyota
+ATLAS,['^.*2CA$'],1V2,Volkswagen
+ID4,['^.*NPE8$'],1V2,Volkswagen
+PASSAT,['^.*7A3$'],1VW,Volkswagen
+PASSAT 2.0 TSI,['^ZZZA3.*$'],1VW,Volkswagen
+T880,['^ZD40X.*$'],1XK,Kenworth
+379,['^5DB9X.*$'],1XP,Peterbilt
+384,['^VDP9X.*$'],1XP,Peterbilt
+6,"['^FP8.*$', '^HP8.*$', '^HZ8.*$']",1YV,Mazda
+626,['^G.*22C$'],1YV,Mazda
+MAZDA,['^GE31B.*$'],1YV,Mazda
+MX-6,['^GD31B.*$'],1YV,Mazda
+MUSTANG,"['^FT8.*$', '^HT8.*S$', '^BP8.*$', '^HT8.*$']",1ZV,Ford
+GRAND VOYAGER,"['^P.*$', '^PS6D.*$']",2A4,Chrysler
+PACIFICA,['^GM484.*$'],2A4,Chrysler
+TOWN & COUNTRY,['^RR5D.*$'],2A4,Chrysler
+CHALLENGER,"['^CJ4D.*$', '^CJ7D.*$']",2B3,Dodge
+CHARGER,"['^AA4C.*$', '^KA33.*$', '^CA4C.*$', '^LA53.*$', '^LA43.*$', '^KA53.*$', '^KA43.*$', '^LA.*$']",2B3,Dodge
+DODGE,['^KA43C.*$'],2B3,Dodge
+INTERBED,['^HD56F.*$'],2B3,Dodge
+INTREPID,['^HD46R.*$'],2B3,Dodge
+RAM,['^HB21X.*$'],2B7,Dodge
+RAM 2500,['^HB21Y.*$'],2B7,Dodge
+300,"['^KA63.*$', '^CA5C.*$', '^KA33.*$', '^CA6C.*$', '^CA4C.*$', '^LA53.*$', '^CCA.*G$', '^LA43.*$', '^KA53.*$', '^HA63.*$', '^KA43.*$', '^CCA.*$']",2C3,Dodge
+CHARGER,"['^CDX.*G$', '^CDZ.*$', '^CDX.*$', '^C.*$', '^CDXCT.*$', '^CCA.*G$', '^C.*G$', '^CDY.*$']",2C3,Dodge
+300 C,['^CCAFJ.*$'],2C3,Dodge
+300M,['^.*E66G$'],2C3,Dodge
+SRT8,['^HA73W.*$'],2C3,Dodge
+CHALLENGER,"['^CDZ.*$', '^CDY.*$']",2C3,Dodge
+CONCORD,"['^HD46.*$', '^HD.*$']",2C3,Dodge
+M 300,['^HE76K.*$'],2C3,Dodge
+NEW YORKER,['^HK56F.*$'],2C3,Dodge
+GRAND CARAVAN,"['^RDGCG.*$', '^RDGBG.*$', '^RDGEG.*$', '^RDG.*G$', '^R.*G$']",2C4,Dodge
+CARGO VAN,['^J.*GAG$'],2C4,Dodge
+GRAND VOYAGER,['^PC1BG.*$'],2C4,Dodge
+TOWN & COUNTRY,"['^RC1BG.*$', '^RC1.*G$']",2C4,Dodge
+PACIFICA HYBRID,['^RC1.*7$'],2C4,Dodge
+VAN,['^GP25B.*$'],2C4,Dodge
+EQUINOX,"['^FLEE.*$', '^ALBE.*$', '^ALPE.*$', '^ALDE.*$']",2CN,Chevrolet
+TRACKER,['^BJ1.*$'],2CN,Chevrolet
+VITARA,['^BJ18U.*$'],2CN,Chevrolet
+GRAND CARAVAN,"['^RN5D.*$', '^GP44.*$', '^RN4D.*$']",2D4,Dodge
+MAGNUM,"['^FV4.*$', '^FV47V.*$', '^GV5.*2$']",2D4,Dodge
+CROWN VICTORIA,"['^FP7.*W$', '^BP7BW.*$', '^BP7.*W$', '^CP7.*$', '^HP7.*$', '^BP7.*$', '^.*W$', '^FP7.*$', '^LP7.*$']",2FA,Ford
+LINEA,['^GA492.*$'],2FA,Ford
+NEON,['^CDAAD.*$'],2FA,Ford
+PUNTO,['^17600.*$'],2FA,Ford
+EDGE,"['^TK4.*$', '^DK4.*$', '^DKU.*C$', '^PK4.*$', '^TK3.*$', '^DK4AK.*$', '^DK3.*$', '^DK.*GC$', '^PK3.*$']",2FM,Ford
+FLEX,"['^HK6.*$', '^DK5.*C$', '^GK5.*$']",2FM,Ford
+FREESTAR,"['^ZA5.*$', '^DA5.*$']",2FM,Ford
+WINDSTAR,"['^ZA5.*4$', '^DA5.*4$']",2FM,Ford
+F-250,['^HF25H.*$'],2FT,Ford
+WINDSTAR CARGO,['^ZA544.*$'],2FT,Ford
+AMBALA,['^WH52K.*$'],2G1,Chevrolet
+CAMARO,"['^FB1.*$', '^FC1E.*$', '^FJ1E.*$', '^FB3D.*$', '^FA1E.*$', '^FD1E3.*$', '^FE1E.*$', '^FC3D.*$', '^FF1E.*$', '^F93D.*$', '^FZ1E.*$', '^FG1E.*$', '^F91E.*$', '^FP32.*$', '^FP22.*$']",2G1,Chevrolet
+CAPRICE,['^AN.*H$'],2G1,Chevrolet
+CELEBRITY,['^AW19X.*$'],2G1,Chevrolet
+IMPALA,"['^1X5S.*$', '^WA5E.*$', '^1Z5S.*$', '^W.*5E3$', '^WT5.*$', '^1Y5S.*$', '^WC5E.*$', '^WF5.*$', '^105S.*$', '^WG5E.*$', '^175.*3$', '^WB5.*$', '^115S.*$', '^WU5.*$', '^135S.*$']",2G1,Chevrolet
+IMPALA LS,['^1X5S3.*$'],2G1,Chevrolet
+LUMINA,['^W.*52M$'],2G1,Chevrolet
+MONTE CARLO,['^WX1.*K$'],2G1,Chevrolet
+FIRE BIRD,"['^FS22.*$', '^FS.*$']",2G2,Pontiac
+FIREBIRD,['^FV22G.*$'],2G2,Pontiac
+GRAND PRIX,['^WS522.*$'],2G2,Pontiac
+TRANS,['^FV22P.*$'],2G2,Pontiac
+BUICK,['^WB52M.*$'],2G4,Buick
+CENTURY,['^WS52J.*$'],2G4,Buick
+POLARIS,['^WB54T.*$'],2G4,Buick
+REGAL,['^GR5.*$'],2G4,Buick
+XTS,"['^1.*$', '^185S.*$']",2G6,Cadillac
+C 10,['^CC14.*$'],2GC,Chevrolet
+SILVERADO 1500,"['^EK1.*$', '^E.*$', '^EC19.*$']",2GC,Chevrolet
+LAUGH,['^EC19K.*$'],2GC,Chevrolet
+SIERRA,['^GC24M.*$'],2GC,Chevrolet
+TERRAIN,"['^FLUE.*$', '^AL8EK.*$', '^FLRE.*$', '^FL8E.*$', '^FLWE.*$', '^AL8.*K$', '^FLNE3.*$', '^FLVE.*$', '^F.*$', '^FLSE.*$', '^FLXE.*$', '^FLTE.*$']",2GK,GMC
+YUKON,['^FK13J.*$'],2GK,GMC
+EQUINOX,"['^AXTE.*$', '^FLFE.*$', '^FLNE.*$', '^FLEE.*$', '^AXVE.*$', '^ALDE.*$', '^ALBE.*$', '^AXKE.*$']",2GN,Chevrolet
+CIVIC,"['^FC3B.*$', '^FA1.*$', '^FC2.*$', '^E.*$', '^EJ66.*$', '^ES16.*$', '^FC4.*$', '^FG1.*$', '^FC1.*$', '^FE1F.*$', '^FE2F.*$', '^ES2.*$', '^FG3B.*$', '^EJ6.*$', '^FB2F.*$', '^ES1.*$']",2HG,Honda
+CIVIC SI,['^FC3A5.*$'],2HG,Honda
+RIDGELINE,['^YK165.*$'],2HJ,Honda
+CR-V,"['^RM4H.*$', '^RW1H.*$', '^RW2H.*$', '^RM3H.*$', '^R.*$']",2HK,Honda
+CR-V HYBRID,['^RS5H5.*$'],2HK,Honda
+MRV,['^YF18.*$'],2HK,Honda
+ODYSSEY,"['^RLI8.*$', '^RL18.*$']",2HK,Honda
+ACURA,['^YD188.*$'],2HN,Acura
+HONDA,['^YD2H4.*$'],2HN,Acura
+MDX,"['^YD2.*$', '^YD18.*$']",2HN,Acura
+MKT,['^HJ5.*$'],2LM,Lincoln
+MKX,"['^PJ6.*R$', '^DJ6J.*$', '^TJ6.*R$']",2LM,Lincoln
+NAUTILUS,"['^PJ8.*$', '^PJ6.*9$']",2LM,Lincoln
+GRAND,['^BP95F.*$'],2ME,Mercury
+GRAND MARQUIS,"['^FM7.*$', '^BM7.*$', '^HM7.*$', '^LM7.*$', '^CM7.*$']",2ME,Mercury
+SOLARA,"['^CF2.*P$', '^CF22P.*$', '^FF2.*P$', '^.*P$', '^CG22P.*$', '^C.*P$']",2T1,Toyota
+COROLLA,"['^.*E$', '^BU4.*E$', '^BU40E.*$', '^AE0.*$', '^BR1.*E$', '^BE4.*E$', '^BURHE.*$', '^BU4EE.*$', '^BR3.*E$', '^BPRHE.*$', '^BA0.*E$', '^BB02.*$']",2T1,Toyota
+NX 350H,['^GKCEZ.*$'],2T2,Lexus
+RX 350,"['^HZM.*A$', '^BAM.*A$', '^2K1.*A$', '^.*A$']",2T2,Lexus
+RX 330,['^.*A31U$'],2T2,Lexus
+RAV4 EV,['^YL4DV.*$'],2T3,Toyota
+RAV4,"['^BK3.*V$', '^.*FREV$', '^.*V$', '^BF4.*V$', '^BF3.*V$']",2T3,Toyota
+RAV4 HYBRID,"['^DWRFV.*$', '^RWRFV.*$', '^.*RFV$']",2T3,Toyota
+ROUTAN,['^RW3D.*$'],2V4,Volkswagen
+ROUTAN,['^HW441.*$'],2V8,Volkswagen
+500E,"['^CFFGE.*$', '^CFF.*$']",3C3,FIAT
+CHRYSLER,['^FY48B.*$'],3C4,Dodge
+COMPASS,"['^NJD.*$', '^NJC.*B$', '^NJDCB.*$']",3C4,Dodge
+JOURNEY,"['^PDC.*B$', '^PDCCG.*$', '^PDD.*G$', '^PDC.*$']",3C4,Dodge
+PT CRUISER,['^FY4BB.*$'],3C4,Dodge
+1500,"['^RR6.*$', '^J.*$', '^JR6.*$', '^JD7.*$', '^JD7.*T$', '^RR7.*T$', '^JR7.*$']",3C6,Ram
+RAM,['^JR6.*$'],3C6,Ram
+3500,"['^3RR.*$', '^3R3.*L$']",3C6,Ram
+PROMASTER,"['^.*G$', '^TRV.*G$']",3C6,Ram
+PROMASTER CARGO VAN,['^URVJG.*$'],3C6,Ram
+CR-V,"['^RE3.*3$', '^RE4.*5$', '^RM3H.*$']",3CZ,Honda
+HR-V,"['^RU5H.*$', '^RZ2H.*$', '^RU6H.*$']",3CZ,Honda
+RAM,['^HA1.*H$'],3D3,Dodge
+JOURNEY,"['^PH9F.*$', '^PG5F.*$', '^PH6F.*$', '^GG57V.*$']",3D4,Dodge
+RAM 2500,['^K.*28D$'],3D7,Dodge
+RAM 3500,['^MU46D.*$'],3D7,Dodge
+RAM PICKUP 1500,['^HA16H.*$'],3D7,Dodge
+RAM PICKUP 3500,['^LX38C.*$'],3D7,Dodge
+FIESTA,['^DP4.*$'],3FA,Ford
+FOCUS,['^FP37Z.*$'],3FA,Ford
+FUSION HYBRID,"['^6P0.*U$', '^6PO.*$', '^6P0MU.*$', '^6P0.*$', '^HP0.*$', '^6P.*$', '^6P0UU.*$', '^6PO.*U$', '^6POSU.*$', '^6PORU.*$', '^6P.*LU$', '^6P.*RU$', '^6P0RU.*$', '^6PD.*$', '^HPO.*A$', '^DP0L3.*$']",3FA,Ford
+FUSION ENERGI,['^6P0PU.*$'],3FA,Ford
+CAPRICE,['^MK52B.*$'],3G1,Chevrolet
+CAVALIER,"['^JC12.*$', '^JF52.*$', '^J.*$', '^JC5.*$']",3G1,Chevrolet
+CRUZE,"['^B.*$', '^BE5SM.*$']",3G1,Chevrolet
+AVALANCHE,"['^TK7E.*$', '^FK22.*$', '^FK32.*$']",3GC,Chevrolet
+EL CAMINO,['^CW80H.*$'],3GC,Chevrolet
+SILVERADO,"['^UK9E.*$', '^RKSE.*$', '^PK9E.*$']",3GC,Chevrolet
+SILVERADO 1500,"['^PCSE.*$', '^UKNE.*$', '^EK23.*$', '^UKTE.*$', '^UKRE.*$', '^UKSE.*$', '^EC1.*$', '^NWAE.*$', '^PCRE.*$', '^EK1.*$', '^PKSE.*$']",3GC,Chevrolet
+SILVERADO 1500 LIMITED,['^PWEED.*$'],3GC,Chevrolet
+SILVERADO HYBRID,['^UKUEJ.*$'],3GC,Chevrolet
+TAHOE,['^EC28K.*$'],3GC,Chevrolet
+TERRAIN,"['^ALXE.*$', '^AL8E.*$', '^ALPE.*$', '^AL8EX.*$', '^AL8EV.*$', '^ALVE.*$', '^ALME.*$', '^ALSE.*$', '^ALTE.*$']",3GK,GMC
+AVALANCHE,['^EK18.*$'],3GK,GMC
+SUBURBAN,"['^EC16.*$', '^GK26.*$', '^GC26.*$', '^FK16.*$']",3GK,GMC
+YUKON XL,['^EC16T.*$'],3GK,GMC
+**,['^DA23P.*$'],3GN,Chevrolet
+AVALANCHE,"['^TKGE.*$', '^EC1.*$', '^TKEE.*$', '^FK32.*$', '^FK12.*$', '^EK1.*$']",3GN,Chevrolet
+BLAZER,"['^KBCR.*$', '^KB.*$']",3GN,Chevrolet
+CAPTIVA,['^FL2EK.*$'],3GN,Chevrolet
+CAPTIVA SPORT,"['^AL3E.*$', '^AL.*$']",3GN,Chevrolet
+EQUINOX,"['^AX9E8.*$', '^AX9.*$', '^AX.*$', '^AXKE.*$']",3GN,Chevrolet
+HHR,['^CA13.*$'],3GN,Chevrolet
+SUBERBAN,['^GC26U.*$'],3GN,Chevrolet
+SUBURBAN,"['^FK16.*$', '^GC26.*$', '^EC16.*$', '^FC16.*$', '^GK26.*$']",3GN,Chevrolet
+TAHOE,['^EK18.*$'],3GN,Chevrolet
+TRAX,"['^CJK.*B$', '^CJ.*B$', '^CJP.*B$']",3GN,Chevrolet
+AVALANCHE,"['^EK14.*$', '^EK.*$']",3GT,GMC
+SIERRA,"['^U2NE.*$', '^P2WE.*$', '^U29E.*$', '^P29E.*$']",3GT,GMC
+SIERRA 1500,"['^EC14.*$', '^EK23.*$', '^U2NE.*$', '^U2VE.*$', '^U2LE.*$', '^EK14.*$', '^U2PE.*$', '^U29E.*$', '^U2UE.*$', '^P2VE.*$', '^P9EE.*$', '^U9.*ED$']",3GT,GMC
+SIERRA CLASSIC 1500,['^EK13M.*$'],3GT,GMC
+SIERRA HYBRID,['^XKYEJ.*$'],3GT,GMC
+SILVERADO 1500,['^EK13.*$'],3GT,GMC
+SUBURBAN,['^GK26R.*$'],3GT,GMC
+ESCALADE,['^FK6.*$'],3GY,Cadillac
+ESCALADE EXT,['^EK62N.*$'],3GY,Cadillac
+SRX,"['^FNCE.*$', '^FNFE.*$', '^FNAE.*$', '^FNBE.*$', '^FN.*$', '^FN9E.*$', '^FNDE.*$']",3GY,Cadillac
+ACCORD,"['^CM56.*$', '^C.*$']",3HG,Honda
+FIT,['^GK5H.*$'],3HG,Honda
+MAVERICK,"['^VXAW4.*$', '^V.*AW4$']",3JB,CanAm
+MAVERICK X3 X RS,"['^VXAV7.*$', '^VXA.*$', '^VXAW7.*$']",3JB,CanAm
+MAVERICK X3 X DS,['^PDAR2.*$'],3JB,CanAm
+OUTLANDER,['^L.*2$'],3JB,CanAm
+RYKER600,['^2FEF2.*$'],3JB,CanAm
+RYKER 900 RALLY EDITION,['^2GEG2.*$'],3JB,CanAm
+SSV MAX XRSDPS 1000,['^PNDP1.*$'],3JB,CanAm
+ACCENT,"['^C25A.*$', '^C.*$', '^C24A.*$', '^C34A.*$']",3KP,KIA
+FORTE,"['^FL4A7.*$', '^FL4A.*$', '^F.*$', '^F24AD.*$', '^FK4A7.*$', '^FN4A8.*$']",3KP,KIA
+FORTE 5-DOOR,['^FN5A3.*$'],3KP,KIA
+RIO,"['^A34.*$', '^A25.*$', '^A351.*$', '^A24.*$']",3KP,KIA
+RIO5,"['^A25A.*$', '^A35A.*$', '^A35AB.*$']",3KP,KIA
+LINCOLN,['^HL2GC.*$'],3LN,Lincoln
+MKZ,"['^6L5E9.*$', '^6L2.*$', '^6L2.*U$', '^6L5.*$', '^6L5.*U$']",3LN,Lincoln
+MKZ HYBRID,['^6L5MU.*$'],3LN,Lincoln
+IA,['^DLBZV.*$'],3MY,Toyota
+YARIS IA,"['^DLBYV.*$', '^DLB.*V$']",3MY,Toyota
+3,['^BN1.*7$'],3MZ,Mazda
+MAZDA3,"['^BN1.*$', '^B.*$', '^BM1.*7$', '^BPA.*$']",3MZ,Mazda
+KICKS,"['^CP5.*$', '^BC1.*$', '^CC1.*$', '^CN8.*$', '^CPSC.*$']",3N1,Nissan
+MICRA,['^CK3CP.*$'],3N1,Nissan
+TIIDA,"['^BC1C6.*$', '^BC1.*$']",3N1,Nissan
+SENTRA,"['^AB6.*$', '^AB7AP.*$', '^AB7A.*$', '^AB8.*V$']",3N1,Nissan
+VERSA NOTE,['^CE2CP.*$'],3N1,Nissan
+2400,['^0D23X.*$'],3N6,Nissan
+NV200,['^CM0KN.*$'],3N6,Nissan
+PICKUP,"['^002.*$', '^DD2.*$']",3N6,Nissan
+TACOMA,"['^.*N$', '^LU4.*N$']",3TM,Toyota
+NEW BEETLE,"['^PG3.*$', '^PW3.*$', '^RW3.*$', '^RG3.*$']",3VW,Volkswagen
+BEETLE CONVERTIBLE,['^5.*7AT$'],3VW,Volkswagen
+CABRIO,['^BA81E.*$'],3VW,Volkswagen
+GOLF,"['^.*7AU$', '^.*17AU$', '^.*T7AU$']",3VW,Volkswagen
+GOLF ALLTRACK,['^H17AU.*$'],3VW,Volkswagen
+JETTA,"['^RZ7.*$', '^RL7.*$']",3VW,Volkswagen
+JETTA HYBRID,['^637AJ.*$'],3VW,Volkswagen
+JETTA SEL / SEL PREMIUM,['^LO7AJ.*$'],3VW,Volkswagen
+ECLIPSE,"['^AC84.*$', '^AK34.*$']",4A3,Mitsubishi
+GALANT,"['^AA46G.*$', '^A.*$', '^AB46.*$']",4A3,Mitsubishi
+LANCER,['^AA46H.*$'],4A3,Mitsubishi
+CHARIOT,['^MM21S.*$'],4A4,Mitsubishi
+ENDEAVOR,['^MN21S.*$'],4A4,Mitsubishi
+ENDOVER,['^MM31S.*$'],4A4,Mitsubishi
+OUTLANDER SPORT,['^AP.*AU$'],4A4,Mitsubishi
+RVR,['^AJ4AU.*$'],4A4,Mitsubishi
+R 350,['^CB65E.*$'],4JG,Mercedes-Benz
+EQE,['^GM2BB.*$'],4JG,Mercedes-Benz
+EQS,['^DM4EB.*$'],4JG,Mercedes-Benz
+M-CLASS,"['^BF7.*E$', '^.*E$', '^BB5.*$', '^DF7.*E$', '^BF8.*E$', '^BB7.*$', '^AB7.*E$', '^BB8.*$', '^BB77E.*$', '^DA5.*B$', '^AB5.*E$']",4JG,Mercedes-Benz
+GLE-CLASS,"['^DA6EB.*$', '^.*B$', '^DA6.*B$', '^FB5K.*$', '^DA5.*B$', '^FB4.*$']",4JG,Mercedes-Benz
+GLSCLASS,['^DF7FE.*$'],4JG,Mercedes-Benz
+ML 430,['^AB72E.*$'],4JG,Mercedes-Benz
+ML320,['^16315.*$'],4JG,Mercedes-Benz
+ML 63,['^DA7EB.*$'],4JG,Mercedes-Benz
+R,['^CB5HE.*$'],4JG,Mercedes-Benz
+R-CLASS,"['^CB5.*E$', '^CB6.*E$', '^CB.*E$']",4JG,Mercedes-Benz
+MARINER,['^YU571.*$'],4M2,Mercury
+MARINER HYBRID,"['^CU9.*$', '^CU39.*$', '^CN2K.*$', '^C.*$', '^CU29.*$']",4M2,Mercury
+MOUNTAINEER,"['^ZU86.*$', '^DU86.*$', '^EU4.*$', '^EU3.*$']",4M2,Mercury
+LANCER,['^SNC62.*$'],4MB,Mitsubishi
+ASX,"['^XTGA2.*$', '^.*A2$']",4P3,Mitsubishi
+ECLIPSE,['^M.*$'],4P3,Mitsubishi
+GALANT,"['^SRD.*$', '^SYDJ3.*$', '^SRDJ1.*$', '^S.*$']",4P3,Mitsubishi
+AVALON,"['^BF1.*B$', '^.*B$', '^BD1.*B$', '^BK3.*B$', '^BF2.*$', '^BZ1.*B$', '^BZ1FB.*$', '^BK36B.*$']",4T1,Toyota
+AVALON HYBRID,['^BD1EB.*$'],4T1,Toyota
+CAMRY,"['^BG2.*K$', '^BF2.*K$', '^BF22K.*$', '^G11.*K$', '^GK1.*$', '^BK3.*$', '^BF1FK.*$', '^BF1.*K$', '^BFIFK.*$', '^B11HK.*$', '^L11.*K$', '^C11.*K$', '^SK1.*$', '^BF3.*K$', '^VK1.*$', '^K61.*K$', '^B61HK.*$', '^BE3.*K$', '^R11.*K$', '^F11.*K$']",4T1,Toyota
+CAMRY HYBRID,"['^G11.*K$', '^BB9.*K$', '^BB4.*K$', '^BK4.*K$', '^BD4.*K$', '^BB1.*K$', '^BD.*FK$', '^BDF.*K$', '^T11.*K$', '^BE4.*K$', '^B31HK.*$', '^BD1.*K$', '^BP1.*K$', '^BB46K.*$', '^BD1FK.*$', '^.*K$', '^BB3.*K$', '^B31.*K$', '^F11.*K$']",4T1,Toyota
+CAMRY SOLARA,"['^CA3.*P$', '^CE3.*P$', '^.*P$']",4T1,Toyota
+AVALON,['^.*3BB$'],4T3,Toyota
+RAV4 HYBRID,"['^L6RFV.*$', '^.*RFV$']",4T3,Toyota
+SEAT,['^2F19C.*$'],4T3,Toyota
+SIENA,"['^ZF1.*C$', '^ZF1.*$', '^ZF19C.*$']",4T3,Toyota
+CAMRY,['^B.*K$'],4T4,Toyota
+CAMRY HYBRID,['^BE46K.*$'],4T4,Toyota
+WILD CAT TRAIL,"['^1.*MPV$', '^1.*V$', '^13M.*V$', '^1.*$']",4UF,ARCTICCAT
+500EFI,['^14ATV.*$'],4UF,ARCTICCAT
+TRV500,"['^17ATV.*$', '^1.*ATV$']",4UF,ARCTICCAT
+WILD CAT,['^14MPV.*$'],4UF,ARCTICCAT
+CAT,['^13MP.*$'],4UF,ARCTICCAT
+CAT 454,['^ACAT1.*$'],4UF,ARCTICCAT
+RT CT,['^03ATV.*$'],4UF,ARCTICCAT
+WILDCAT,['^12MPV.*$'],4UF,ARCTICCAT
+XR500,['^15ATV.*$'],4UF,ARCTICCAT
+3-SERIES,['^CC832.*$'],4US,BMW
+318I,['^CC732.*$'],4US,BMW
+X5,['^FE.*35$'],4US,BMW
+Z3,['^CH732.*$'],4US,BMW
+Z4,"['^B.*$', '^BT33.*$', '^BT53.*$']",4US,BMW
+FE160 FEC7TS,['^BVG11.*$'],4UZ,Freightliner
+FUSO,['^BVK11.*$'],4UZ,Freightliner
+M-LINE WALK-IN VAN,['^AAPCP.*$'],4UZ,Freightliner
+MT 45,"['^A.*$', '^AAN.*$']",4UZ,Freightliner
+RV,['^AAHBV.*$'],4UZ,Freightliner
+F12,['^SDBCF.*$'],4V1,Volvo
+VN 780,['^NC9TG.*$'],4V4,Volvo
+VNL,['^NC9.*$'],4V4,Volvo
+BUS SPARTAN,['^UN239.*$'],4VZ,Amphibious
+MOUNTAIN MASTER,['^BN099.*$'],4VZ,Amphibious
+TRAIL BLAZER,['^BA32A.*$'],4XA,Polaris
+400HD,['^RH45A.*$'],4XA,Polaris
+525,['^GJ50A.*$'],4XA,Polaris
+BUGGY,['^RUAD1.*$'],4XA,Polaris
+HAWKEYE,['^L.*27A$'],4XA,Polaris
+KAWASAKI,['^RRY99.*$'],4XA,Polaris
+OUTLAW,['^GP52A.*$'],4XA,Polaris
+PHONENIX 200CC,['^PB20A.*$'],4XA,Polaris
+POLARIS 325,['^AA32.*$'],4XA,Polaris
+R11TH90DG,['^TH90F.*$'],4XA,Polaris
+RANGER,"['^TH90.*$', '^WH90.*$']",4XA,Polaris
+RANGER 700 CC,['^RD50A.*$'],4XA,Polaris
+RANGER CREW,['^WH68A.*$'],4XA,Polaris
+POLARIS,['^WH76A.*$'],4XA,Polaris
+RZR,"['^VH76.*$', '^VA1.*A$', '^VH76A.*$', '^.*76A$', '^XH76A.*$', '^.*A$']",4XA,Polaris
+RZR 1000CC,"['^.*T1EA$', '^ST1EA.*$']",4XA,Polaris
+RZR 170CC,['^VA17A.*$'],4XA,Polaris
+RZR 900,"['^JT87A.*$', '^.*T87A$']",4XA,Polaris
+RZR TURBO WEBER,['^UH76A.*$'],4XA,Polaris
+RZR/1000XP-4,['^VFE99.*$'],4XA,Polaris
+RZR1000XP,['^VDK99.*$'],4XA,Polaris
+TRAIL,['^SA25C.*$'],4XA,Polaris
+ZERO SR/F,['^ZFAZ7.*$'],538,Zero
+C-CLASS,"['^WF4.*B$', '^WF6.*B$', '^WF4KB.*$', '^WF8.*B$']",55S,Mercedes-Benz
+ES 250,['^D11D1.*$'],58A,Lexus
+ES 300H,['^.*1$'],58A,Lexus
+MRV,"['^YF185.*$', '^YF18.*$']",5FN,Honda
+ODYSSEY,"['^RL3.*$', '^RL6H.*$', '^RL18.*$', '^RL5H.*$']",5FN,Honda
+PASSPORT,['^YF8H.*$'],5FN,Honda
+PILOT,"['^YF5.*$', '^YF18.*$', '^YF3.*$', '^YF6.*$', '^YF4.*$', '^Y.*$', '^YF488.*$']",5FN,Honda
+MDX,"['^YD4H.*$', '^YD3H.*$']",5FR,Acura
+MDX,"['^YD4H.*$', '^YD3H.*$']",5FR,Acura
+H3T,['^EN13.*$'],5GN,HUMMER
+H2,"['^G.*$', '^GN2.*$', '^GN22U.*$']",5GR,Hummer
+ACCORD CROSSTOUR,"['^TF1H.*$', '^TF28.*$']",5J6,Honda
+CRV,"['^RW28.*$', '^RE4.*$', '^RE3.*$', '^RM3.*$', '^RW58.*$', '^RM4.*$', '^RM3H.*$', '^RW68.*$', '^R.*$']",5J6,Honda
+CR-V 4WD,['^RW.*87$'],5J6,Honda
+CR-V HYBRID,['^RT6H.*$'],5J6,Honda
+CR-V4WD,['^RM487.*$'],5J6,Honda
+CROSSTOUR,['^TF2H5.*$'],5J6,Honda
+ELEMENT,"['^YH28.*$', '^YH.*$']",5J6,Honda
+MDX,['^YD.*$'],5J8,Acura
+RDX,"['^TB18.*$', '^TB.*$']",5J8,Acura
+ACCORD,['^CP3F8.*$'],5KB,Honda
+ODYSSEY,"['^RL38.*$', '^RL589.*$', '^RL.*$', '^RL58.*$']",5KB,Honda
+CORSAIR,['^CJ2D9.*$'],5LM,Lincoln
+MKC,"['^CJ3.*9$', '^CJ2.*9$', '^CJ1.*9$']",5LM,Lincoln
+NAVIGATOR,"['^FU2.*$', '^JJ2.*$', '^JJ3.*$', '^PU28.*$', '^FU285.*$']",5LM,Lincoln
+NAVIGATOR L,['^FL285.*$'],5LM,Lincoln
+PATHFINDER HYBRID,"['^CR2MN.*$', '^CR2MM.*$']",5N1,Nissan
+PATHFINDER,"['^AR1.*$', '^AR2.*$', '^DR2.*$', '^CR2M5.*$', '^DR3.*$', '^CR2M.*$', '^ARA.*$', '^BR1.*$', '^AR18B.*$']",5N1,Nissan
+19/11/2017 12:10:37,['^CB2MM.*$'],5N1,Nissan
+ARMADA,"['^BA0.*$', '^AAO.*C$', '^AA0.*$']",5N1,Nissan
+QX60,"['^CL0M.*$', '^AL0MM.*$', '^CL0MM.*$', '^DLOM.*$', '^DL0M.*$', '^AL0M.*$', '^AL.*$']",5N1,Nissan
+MURANO,"['^CZ2M.*$', '^AZ2.*$']",5N1,Nissan
+MURANO PLATINUM HYBRID / SL HYBRID,['^CZ2MH.*$'],5N1,Nissan
+QUEST,['^BV28U.*$'],5N1,Nissan
+ROGUE,"['^ET2M.*$', '^BT3.*$', '^AT2M.*$', '^AT3.*$']",5N1,Nissan
+XTERRA,"['^AN0.*$', '^ANON.*$', '^AN08W.*$', '^ED28.*$']",5N1,Nissan
+QX56,"['^AA08.*$', '^ZA0N.*$', '^AA08C.*$']",5N3,Infiniti
+SANTA FE,"['^ZUDL.*$', '^S3CA.*$', '^Z.*$', '^SGDA.*$', '^S53A.*$', '^S3DA.*$', '^SG73E.*$', '^S5CA.*$', '^SG13.*$', '^S33A.*$', '^SG73.*$']",5NM,Hyundai
+TUCSON,"['^J.*E$', '^JB3.*E$']",5NM,Hyundai
+ELANTRA,"['^D74LF.*$', '^D84LF.*$', '^DH4AE.*$']",5NP,Hyundai
+SONATA,"['^E.*$', '^EC4A.*$', '^ET4.*$', '^E.*C$', '^EB4A.*$', '^EG4.*A$', '^E24AF.*$', '^E34A.*$', '^E24A.*$', '^E34AF.*$', '^EU4.*$']",5NP,Hyundai
+HIGHLANDER,['^DK3EH.*$'],5TB,Toyota
+TUNDRA,"['^.*1$', '^DV5.*1$', '^RT3.*1$', '^BV5.*1$', '^DT4.*1$', '^ET3.*1$', '^BT4.*1$']",5TB,Toyota
+HIGHLANDER,"['^BZR.*H$', '^YZR.*H$', '^GZR.*H$', '^ZZR.*H$', '^.*H$', '^JZR.*H$', '^DZR.*H$', '^DGR.*H$', '^GZRBH.*$']",5TD,Toyota
+SEQUOIA,"['^.*Y64A$', '^BT4.*A$', '^BY6.*A$', '^.*Y68A$', '^B.*1$', '^ZY6.*A$', '^FY5.*1$', '^ZT3.*A$', '^DY5G1.*$']",5TD,Toyota
+SIENNA,"['^BA2.*C$', '^ZA2.*$', '^ZK2.*C$', '^BK2.*C$']",5TD,Toyota
+TACOMA,['^.*N$'],5TE,Toyota
+TUNDRA,['^KY5F1.*$'],5TE,Toyota
+TUNDRA,"['^DY5F1.*$', '^DV5.*1$', '^GY5F.*$', '^DW5.*1$', '^BV5.*1$', '^RU5.*1$', '^AW5F.*$', '^RV5.*1$', '^BW5.*1$', '^RT5.*1$', '^BT5.*1$', '^JA5D.*$', '^UY5F1.*$', '^LU5.*1$', '^JC5.*$']",5TF,Toyota
+SIENNA,['^LA5EC.*$'],5TF,Toyota
+TACOMA,"['^.*N$', '^TX4.*N$', '^JX4.*N$']",5TF,Toyota
+TUNDRA LIMITED,['^BW581.*$'],5TF,Toyota
+X5,"['^FE4.*5$', '^CR6C.*$', '^KR0C.*$', '^KT0C5.*$', '^FA535.*$', '^KT0C.*$', '^FE435.*$', '^KR2C.*$', '^.*0$', '^FA135.*$', '^FE8.*5$']",5UX,BMW
+X3,"['^WX7C.*$', '^WX9C.*$', '^WZ7C.*$']",5UX,BMW
+X4 M,['^2V5C0.*$'],5UX,BMW
+X6,"['^FG8.*5$', '^KU0C.*$', '^FG4.*5$']",5UX,BMW
+ATTACHMENT,['^XXXLO.*$'],5XX,KIA
+OPTIMA,"['^G.*$', '^GT4L3.*$', '^GR4A.*$', '^GT4L.*$', '^GU4L.*$', '^GN4A.*$']",5XX,KIA
+TELLURIDE,['^P.*81C$'],5XX,KIA
+SANTA FE,"['^ZU3L.*$', '^ZUDL.*$', '^ZGDA.*$', '^ZUDLB.*$', '^Z.*$', '^ZU3LB.*$']",5XY,KIA
+SORENTO,"['^KWDA.*$', '^PKDA.*$', '^PG4A.*$', '^PH4A.*$', '^KTCA.*$', '^PHDA.*$', '^PG.*$', '^KUCA.*$', '^KU3A.*$', '^KT3A.*$', '^PK4A.*$', '^PGDA.*$', '^KTDA.*$', '^KT4A.*$', '^KUDA.*$', '^KW4A.*$', '^KU4A.*$']",5XY,KIA
+SPORTAGE,['^K.*AF$'],5XY,KIA
+TELLURIDE,"['^P5D.*C$', '^P3D.*C$', '^P.*C$']",5XY,KIA
+COROLLA,"['^.*E$', '^BURHE.*$', '^BPR.*E$', '^B4M.*E$']",5YF,Toyota
+MODEL 3,"['^3E1EB.*$', '^3E7E.*$', '^3E1E.*$', '^3E1EA.*$']",5YJ,Tesla
+MODEL S,"['^SA1E2.*$', '^XCCE.*$', '^SA1CP.*$', '^SA7.*$', '^SA4H.*$', '^SA.*$', '^SA1S2.*$', '^SA1.*$', '^SA1E.*$']",5YJ,Tesla
+MODEL X,"['^XCCE.*$', '^XCAE4.*$', '^XCAE.*$', '^XCAE2.*$', '^XCCE2.*$', '^XCBE.*$', '^XCDE.*$', '^XCDE4.*$', '^XC.*$']",5YJ,Tesla
+MODEL Y,"['^YGDE.*$', '^YG.*$', '^YGDEE.*$', '^YGAE.*$']",5YJ,Tesla
+RANGER,['^EP61F.*$'],6FP,Ford
+CAPRICE,"['^MP5.*$', '^LL54.*$', '^.*F$', '^LK5.*$', '^ML5.*$', '^HK5.*$', '^MK5.*$', '^KL54.*$', '^MZ5.*$', '^KK5.*$', '^MK5C2.*$']",6G1,Chevrolet
+CAPRICE SS,['^MP5D2.*$'],6G1,Chevrolet
+LUMINA,"['^ZK54F.*$', '^YK52.*$', '^YK5.*$', '^ZK5.*$', '^VK14.*$', '^XK5.*$', '^ZK52B.*$', '^XK52B.*$', '^TK5.*$', '^EK5.*$', '^ZL5.*B$', '^EK54.*$', '^YK52F.*$', '^TK8.*J$', '^2K14.*$']",6G1,Chevrolet
+CR8,"['^EK54U.*$', '^EK54W.*$']",6G1,Chevrolet
+G8,['^EC57Y.*$'],6G2,Pontiac
+GTO,"['^VX12.*$', '^VX12U.*$']",6G2,Pontiac
+MAGNA,"['^AP.*$', '^AP67.*$', '^AP57P.*$', '^.*7P$', '^BP47P.*$', '^AP87P.*$', '^A.*$']",6MM,Mitsubishi
+AURION,['^BK4.*K$'],6T1,Toyota
+CAMRY,"['^BF3.*K$', '^BG2.*K$', '^BF2.*K$', '^EG2.*K$', '^72SK.*$', '^BE4.*$', '^BF4.*K$', '^53SK.*$', '^BE3.*K$', '^BF9F.*$']",6T1,Toyota
+CR-V,['^RW.*$'],7FA,Honda
+CR-V HYBRID,"['^RT6H.*$', '^RS6H.*$']",7FA,Honda
+MODEL X,"['^XC.*$', '^XCBE.*$']",7SA,Tesla
+MODEL Y,"['^YGDE.*$', '^YG.*$']",7SA,Tesla
+RANGER,['^DR10C.*$'],8AF,Ford
+CADDY,"['^L.*$', '^LC09.*$']",8AW,Volkswagen
+SPACEFOX,['^PB45Z.*$'],8AW,Volkswagen
+LUV-DMAX,['^TFSJ7.*$'],8GG,Chevrolet
+FORD,['^XH70P.*$'],9BF,Ford
+1836,['^RA1MB.*$'],9BM,Mercedes
+MCV C120,['^38218.*$'],9BM,Mercedes
+MCV 600,['^63401.*$'],9BM,Mercedes
+MCV400,"['^3.*$', '^368.*0$']",9BM,Mercedes
+,['^38217.*$'],9BM,Mercedes
+TRUCK,['^37653.*$'],9BM,Mercedes
+124C,['^P8X40.*$'],9BS,Scania
+R 400,"['^P6X40.*$', '^P.*0$', '^P.*X40$']",9BS,Scania
+420,['^R6X40.*$'],9BS,Scania
+K114,['^K4X20.*$'],9BS,Scania
+18.31,['^KR82T.*$'],9BW,Volkswagen
+AMAROK,['^U2RD5.*$'],9BW,Volkswagen
+BEETLE,['^ZZZ11.*$'],9BW,Volkswagen
+GOLF,['^G.*61J$'],9BW,Volkswagen
+GTI,['^.*E61J$'],9BW,Volkswagen
+SAVEIRO,['^EC05X.*$'],9BW,Volkswagen
+SVEIRO,['^ZZZ30.*$'],9BW,Volkswagen
+TRANSPORTER,['^AD52R.*$'],9BW,Volkswagen
+RANGER,"['^FP4.*P$', '^EP1L.*$', '^FP1.*P$', '^FP5MP.*$']",AFA,Ford
+HILUX,['^F.*22G$'],AHT,Toyota
+14M,['^0014M.*$'],CAT,Caterpillar
+140H,['^0140H.*$'],CAT,Caterpillar
+14H,['^0014H.*$'],CAT,Caterpillar
+216B,"['^00C.*$', '^0216.*$', '^0.*$', '^0216B.*$']",CAT,Caterpillar
+226B,['^0226B.*$'],CAT,Caterpillar
+300 PF,['^PF300.*$'],CAT,Caterpillar
+302.4D,['^3024D.*$'],CAT,Caterpillar
+302.5,['^03025.*$'],CAT,Caterpillar
+305.5,"['^3055.*$', '^00305.*$']",CAT,Caterpillar
+320C,['^0320C.*$'],CAT,Caterpillar
+320D,"['^0320D.*$', '^032.*$']",CAT,Caterpillar
+325,['^0325C.*$'],CAT,Caterpillar
+PILLER,['^0325D.*$'],CAT,Caterpillar
+330,['^0330D.*$'],CAT,Caterpillar
+330C,['^0330C.*$'],CAT,Caterpillar
+336DL,['^0336D.*$'],CAT,Caterpillar
+345 BL,['^0345B.*$'],CAT,Caterpillar
+365 B,['^0365B.*$'],CAT,Caterpillar
+EXCAVATOR,"['^034.*$', '^0345C.*$', '^0365C.*$']",CAT,Caterpillar
+422E,['^0422E.*$'],CAT,Caterpillar
+422F,['^0422F.*$'],CAT,Caterpillar
+424 D,"['^0424D.*$', '^0424.*$']",CAT,Caterpillar
+428,['^0428E.*$'],CAT,Caterpillar
+428F,['^0428F.*$'],CAT,Caterpillar
+914G,['^0914G.*$'],CAT,Caterpillar
+930,['^0930G.*$'],CAT,Caterpillar
+930H,['^0930H.*$'],CAT,Caterpillar
+938G,['^0938G.*$'],CAT,Caterpillar
+938H,['^0938H.*$'],CAT,Caterpillar
+938K,['^0938K.*$'],CAT,Caterpillar
+950 G,['^0950G.*$'],CAT,Caterpillar
+950GC,['^00950.*$'],CAT,Caterpillar
+950H,['^0950H.*$'],CAT,Caterpillar
+950K,['^0950K.*$'],CAT,Caterpillar
+962K,['^0962K.*$'],CAT,Caterpillar
+966G,['^0966G.*$'],CAT,Caterpillar
+966H,['^.*966H$'],CAT,Caterpillar
+966K,['^0966K.*$'],CAT,Caterpillar
+980 M,['^0980M.*$'],CAT,Caterpillar
+988K,['^0988K.*$'],CAT,Caterpillar
+CATERPILLAR,['^00000.*$'],CAT,Caterpillar
+CATERPILLAR 33KVA,['^00C33.*$'],CAT,Caterpillar
+CB 214 E,['^CB214.*$'],CAT,Caterpillar
+CS533D,"['^CS533.*$', '^CS5.*3$']",CAT,Caterpillar
+CS54,['^0C.*54$'],CAT,Caterpillar
+D9R,['^00D9R.*$'],CAT,Caterpillar
+D6R,['^00D6R.*$'],CAT,Caterpillar
+D8R,['^00D.*R$'],CAT,Caterpillar
+TH360B,['^TH360.*$'],CAT,Caterpillar
+M315,['^M315D.*$'],CAT,Caterpillar
+M318C,['^M318C.*$'],CAT,Caterpillar
+SHEOL,['^0980H.*$'],CAT,Caterpillar
+TH 560 B,['^TH560.*$'],CAT,Caterpillar
+TH 63,['^0TH63.*$'],CAT,Caterpillar
+FG WILSON,"['^PEPP5.*$', '^HPES.*$', '^PEP.*$', '^NAV0.*$']",FGW,Generator
+MARAPCO,['^RPES.*$'],FGW,Generator
+FG,['^NAV01.*$'],FGW,Generator
+CHARIOT,['^AM84J.*$'],JA3,Mitsubishi
+GALANT,['^BR56V.*$'],JA3,Mitsubishi
+I-MIEV,"['^215H4.*$', '^215H.*$']",JA3,Mitsubishi
+LANCER,"['^AH86.*$', '^AU86.*$']",JA3,Mitsubishi
+LEGACY,['^AP57J.*$'],JA3,Mitsubishi
+MIRAGE,['^AY26.*$'],JA3,Mitsubishi
+ECLIPSE CROSS,['^AT.*AA$'],JA4,Mitsubishi
+MONTERO,"['^LS31.*$', '^MW51.*$']",JA4,Mitsubishi
+OUTLANDER,"['^LX41.*$', '^LX31.*$']",JA4,Mitsubishi
+OUTLANDER PHEV,"['^J2.*$', '^J24A5.*$']",JA4,Mitsubishi
+OUTLANDER SPORT,"['^A.*$', '^AJ4A.*$', '^AP3A.*$']",JA4,Mitsubishi
+QKR,['^JP24F.*$'],JAA,Isuzu
+ISUZU,['^1KR55.*$'],JAA,Isuzu
+KB,"['^DL3.*$', '^TFR.*$', '^TFS.*$']",JAA,Isuzu
+NKR,"['^NKR.*$', '^JP2.*G$', '^DL3.*M$', '^JP2.*$']",JAA,Isuzu
+NPR,"['^KP3.*$', '^NPR.*$', '^LP34.*$', '^JP2.*$', '^.*4H$', '^DR3.*$', '^JP34.*$']",JAA,Isuzu
+PICK UP,['^DL3.*M$'],JAA,Isuzu
+DSL REG,['^E5W16.*$'],JAL,Isuzu
+EXR,['^.*Y$'],JAL,Isuzu
+EXZ,['^T9F49.*$'],JAL,Isuzu
+FSR,['^K6A1.*$'],JAL,Isuzu
+FTR,['^M7A13.*$'],JAL,Isuzu
+FVR 34L,['^P7S13.*$'],JAL,Isuzu
+ISUZU,['^FSR32.*$'],JAL,Isuzu
+NPR,['^C4W16.*$'],JAL,Isuzu
+NMR,['^JP2.*$'],JAM,Isuzu
+NPR,"['^LP34.*$', '^KP3.*$', '^JP34.*$']",JAM,Isuzu
+REWARD NP,['^KP34H.*$'],JAM,Isuzu
+1 CX,['^1CXWS.*$'],JCB,JCB
+140550,['^5AG.*G$'],JCB,JCB
+160,['^160WS.*$'],JCB,JCB
+ROBOT 170,['^170WS.*$'],JCB,JCB
+540 170,"['^5A.*G$', '^5AFKG.*$', '^.*G$', '^5AF.*G$']",JCB,JCB
+3CX,"['^3CX4T.*$', '^3CX.*$']",JCB,JCB
+411 HT,"['^411OO.*$', '^411.*$']",JCB,JCB
+436,['^436Z.*$'],JCB,JCB
+456 ZX,['^456Z.*$'],JCB,JCB
+4CX,['^4CX.*$'],JCB,JCB
+170 540,['^5AFSG.*$'],JCB,JCB
+8014,['^08014.*$'],JCB,JCB
+8016,['^08016.*$'],JCB,JCB
+8056,['^JS805.*$'],JCB,JCB
+8060,['^08040.*$'],JCB,JCB
+930,['^93004.*$'],JCB,JCB
+VMD 100,['^08018.*$'],JCB,JCB
+SIRION,"['^GM30.*$', '^GM301.*$']",JD1,Daihatsu
+MATERIA,['^GM402.*$'],JD1,Daihatsu
+GRAND MOVE,['^GG301.*$'],JD1,Daihatsu
+SUNNY,['^BN61D.*$'],JD1,Daihatsu
+HILUX,['^GJ322.*$'],JD2,Daihatsu
+ROCKY,['^MF929.*$'],JD2,Daihatsu
+SIRION,['^G.*$'],JD2,Daihatsu
+TERIOS,['^GJ2.*1$'],JD2,Daihatsu
+APPLAUSE,['^A101.*$'],JDA,Daihatsu
+CHARADE,['^G200S.*$'],JDA,Daihatsu
+CHRID CS,['^L251S.*$'],JDA,Daihatsu
+ROCKY,"['^000F.*$', '^00.*$']",JDA,Daihatsu
+FEROZA,['^00F30.*$'],JDA,Daihatsu
+GALANT,['^DJ30G.*$'],JE3,Mitsubishi
+LANCER,['^AB36.*$'],JE3,Mitsubishi
+SPACE WAGON,['^DF49H.*$'],JE3,Mitsubishi
+ASX,['^LP21.*$'],JE4,Mitsubishi
+ECLIPSE,['^L.*14$'],JE4,Mitsubishi
+NATIVA,['^MT52M.*$'],JE4,Mitsubishi
+OUTLANDER,['^LZ21W.*$'],JE4,Mitsubishi
+PAJERO,['^MR6.*$'],JE4,Mitsubishi
+86,"['^ZN1.*$', '^ZNA.*1$']",JF1,Subaru
+BRZ,"['^ZC12.*$', '^ZC.*$']",JF1,Subaru
+FORESTER,"['^SG93.*$', '^SF5.*$']",JF1,Subaru
+FR-S,['^ZNAA1.*$'],JF1,Subaru
+GR86,['^ZNBF1.*$'],JF1,Subaru
+IMPREZA,"['^GD6.*$', '^GDAL.*$', '^GH7.*$', '^GJ1.*C$', '^GD7.*6$', '^GD5L.*$', '^GC3.*$', '^GV7.*6$', '^GD4.*$']",JF1,Subaru
+IMPREZA WRX / WRX LIMITED,['^GR7E6.*$'],JF1,Subaru
+LEGACY,"['^BL09.*$', '^BP98.*$', '^BD9L.*$', '^BH5.*$', '^B.*$', '^BL96.*$', '^BG4L.*$', '^BL5.*$', '^BM9.*$', '^BE5.*$']",JF1,Subaru
+LEGACY WAGON,['^BJ653.*$'],JF1,Subaru
+WRX,"['^GR8.*$', '^VA2.*$', '^GV8.*$', '^VA1.*$']",JF1,Subaru
+250,['^MC132.*$'],JH2,Honda
+4W,['^TE320.*$'],JH2,Honda
+750,['^RC43A.*$'],JH2,Honda
+CB250,['^MC240.*$'],JH2,Honda
+CBR,"['^PC.*$', '^PC3.*0$']",JH2,Honda
+CBR 600 RR,['^PC40M.*$'],JH2,Honda
+CBR 600RR,['^PC400.*$'],JH2,Honda
+CBR1000,['^SC597.*$'],JH2,Honda
+CBR1000RR,['^SC590.*$'],JH2,Honda
+CBR1100,['^SC517.*$'],JH2,Honda
+CRF450R,['^PE053.*$'],JH2,Honda
+MOTORBIKE,"['^TE.*$', '^RC72.*$', '^TE3.*0$', '^R.*$']",JH2,Honda
+GL1800,"['^SC26.*$', '^SC68Y.*$', '^SC.*$', '^SC5.*$', '^SC6.*$', '^SC68H.*$', '^SC3.*$', '^SC7.*$']",JH2,Honda
+GL1800AGOLD WING,['^SC68N.*$'],JH2,Honda
+GL1800AL,['^SC68X.*$'],JH2,Honda
+GL1800B,['^SC681.*$'],JH2,Honda
+GL1800BD,['^SC68E.*$'],JH2,Honda
+GL1800DGOLD WING TOUR,['^SC795.*$'],JH2,Honda
+HONDA CBR 1500,['^SC30A.*$'],JH2,Honda
+INTEGRA,['^DE02A.*$'],JH2,Honda
+REBEL,['^MC130.*$'],JH2,Honda
+TRIM,['^SC831.*$'],JH2,Honda
+VT750 SHADOW AERO,['^RC504.*$'],JH2,Honda
+VT750C,['^RC501.*$'],JH2,Honda
+XR650L,['^RD061.*$'],JH2,Honda
+ACCORD,['^DB859.*$'],JH4,Acura
+CLASSIC,['^KA96.*$'],JH4,Acura
+HONDA,['^DA944.*$'],JH4,Acura
+INTEGRA,"['^D.*$', '^DA18.*$', '^DA9.*$', '^DA3.*4$', '^DB75.*$', '^DB1.*$']",JH4,Acura
+LEGEND,"['^KA76.*$', '^KA8.*$', '^KA.*$', '^KA32.*$']",JH4,Acura
+NSX,['^NA115.*$'],JH4,Acura
+TSX,"['^C.*$', '^CU2F.*$']",JH4,Acura
+VIGOR,['^CC265.*$'],JH4,Acura
+ACCORD,['^CP26.*$'],JHG,Toyota
+DYNA,"['^.*7$', '^UFJ.*7$']",JHG,Toyota
+300,"['^UCL.*H$', '^YCL.*H$', '^UCN1.*$', '^UFJ.*H$']",JHH,Chrysler
+700,['^YFJ1H.*$'],JHH,Chrysler
+PU S/C WUL600L,['^AFJ3H.*$'],JHH,Chrysler
+VIGOR,['^UA263.*$'],JHH,Chrysler
+XJC700,['^TCK1H.*$'],JHH,Chrysler
+XJC740 / XFC740,['^SPM2H.*$'],JHH,Chrysler
+CRV,"['^RD5.*$', '^RD68.*$', '^RE38.*$', '^RE4.*$', '^PE48.*$', '^RD7.*$', '^RD1.*$', '^R.*$']",JHL,Honda
+HRV,"['^GH.*$', '^GH484.*$']",JHL,Honda
+JAZZ,"['^G.*$', '^GD38.*$', '^GE888.*$', '^GE88.*$', '^GD18.*$']",JHM,Honda
+ACCORD,"['^CP26.*$', '^CF86.*$', '^CM56.*$', '^CG56.*$', '^CP36.*$', '^CF9.*4$', '^CN36.*$']",JHM,Honda
+CIVIC,"['^CR6F.*$', '^CG56.*$', '^EJ93.*$', '^EK1.*$', '^CM5.*$', '^F.*2$', '^CD4.*$', '^CA5.*2$', '^CP2.*$', '^FD162.*$', '^CB7.*$', '^FD16.*$', '^EE27.*$', '^FC1F.*$', '^CR6.*$', '^C.*$', '^ES1.*$', '^ED3.*$', '^ES9.*$', '^FA3.*2$', '^ED16.*$', '^ED93.*$', '^ES8.*$', '^CF8.*$', '^E58.*$', '^EK1.*6$', '^EG8.*$', '^ED2.*2$', '^FB4F.*$', '^FB26.*$', '^ES5.*$', '^CM4.*$', '^EH9.*7$', '^CM66.*$', '^CD5.*$', '^FD1.*$', '^ED6.*$', '^EK3.*$', '^CF9.*4$', '^CN36.*$', '^CG66.*$', '^EG4.*$', '^CB3.*$', '^CG16.*$']",JHM,Honda
+ACCORD PLUG-IN HYBRID,['^CR5F7.*$'],JHM,Honda
+CLARITY,['^ZC5F.*$'],JHM,Honda
+CR-V,['^RT688.*$'],JHM,Honda
+CR-Z,['^ZF1.*$'],JHM,Honda
+PRELUDE,"['^BA8.*4$', '^BB5.*4$', '^BB.*$']",JHM,Honda
+HRV,['^GH486.*$'],JHM,Honda
+INSIGHT,"['^ZE2H.*$', '^ZE2H7.*$']",JHM,Honda
+INTEGRA,"['^DB.*5$', '^DB7.*5$']",JHM,Honda
+LAND CRUISER,['^HU09J.*$'],JHM,Honda
+LEGEND,['^K.*$'],JHM,Honda
+ODYSSEY,"['^RA38.*$', '^RC18.*$', '^RA18.*$']",JHM,Honda
+S2000,"['^AP.*$', '^AP11.*$']",JHM,Honda
+STREAM,['^RN38.*$'],JHM,Honda
+VIGOR,['^UA263.*$'],JHM,Honda
+COASTER,['^FK518.*$'],JL5,Mitsubishi
+FUSO,['^V3J6P.*$'],JL5,Mitsubishi
+ROSA,"['^B3J6.*$', '^B3E.*P$']",JL5,Mitsubishi
+CANTER,"['^BCE6.*$', '^B6G.*$', '^BCE.*$']",JL6,Mitsubishi
+FH,['^BHH6A.*$'],JL6,Mitsubishi
+FM61F,['^BGE6P.*$'],JL6,Mitsubishi
+FUSO NOT SPECIFIED,['^AMG1A.*$'],JL6,Mitsubishi
+CANTER,"['^B6G1.*$', '^BCE1.*$', '^B.*$', '^BCE.*$', '^BCE1J.*$']",JL7,Mitsubishi
+E2000,"['^SK32E.*$', '^S.*2E$']",JM1,Mazda
+3,"['^BPB.*Y$', '^BN1.*$', '^BN1.*7$', '^BPA.*$', '^BK32.*$', '^B.*$', '^BM1.*7$', '^BK12.*$', '^BL1.*$', '^BK3.*$', '^BJ2.*$']",JM1,Mazda
+5,['^CW2CL.*$'],JM1,Mazda
+6,['^GG12L.*$'],JM1,Mazda
+ACCORD,['^CEAN1.*$'],JM1,Mazda
+COUPE M X 5,['^NC25F.*$'],JM1,Mazda
+CX-3,"['^DK.*7$', '^DKF.*7$']",JM1,Mazda
+LANCER,['^LRVGS.*$'],JM1,Mazda
+MAZDA5,"['^CW2.*L$', '^CR293.*$', '^CR2.*3$']",JM1,Mazda
+MAZDA6,"['^GL1.*$', '^GJ1.*$']",JM1,Mazda
+MIATA,['^NA351.*$'],JM1,Mazda
+MX5,"['^NC2.*F$', '^N.*$']",JM1,Mazda
+MX-5 MIATA,['^NDA.*7$'],JM1,Mazda
+PAJERO,['^0R293.*$'],JM1,Mazda
+RX-7,['^F.*1$'],JM1,Mazda
+RX-8,['^FE173.*$'],JM1,Mazda
+TIIDA,"['^CC1.*C$', '^CC11C.*$']",JM1,Mazda
+XTRAIL,['^BT2M.*$'],JM1,Mazda
+E2000,"['^SL35E.*$', '^SR31E.*$', '^S.*E$', '^SK31E.*$']",JM3,Mazda
+3,['^BK326.*$'],JM3,Mazda
+CX-5,"['^KFB.*$', '^K.*$', '^KE4.*$', '^KE2.*$']",JM3,Mazda
+CX-7,['^ER2.*$'],JM3,Mazda
+CX-9,"['^TB.*$', '^TB3.*$', '^TCB.*Y$', '^TCA.*Y$', '^TB2.*$']",JM3,Mazda
+MPV,"['^L.*$', '^LW28.*$']",JM3,Mazda
+PAJERO,['^WH813.*$'],JM3,Mazda
+PICK UP,"['^WG725.*$', '^UF2.*2$']",JM3,Mazda
+3,"['^BN3.*$', '^BN22.*$', '^BA1.*$', '^BN1.*$', '^BM1.*$', '^BP2.*A$', '^B.*$', '^BLI.*$', '^BK22.*$', '^BL1.*$', '^BK3.*6$', '^BM3.*$']",JM7,Mazda
+6,"['^GG4.*$', '^GG32F.*$', '^BJ12.*$', '^.*S$', '^GL4S.*$', '^GH4.*$', '^GH3.*$', '^GE1.*S$', '^GF1.*S$', '^GJ4.*$', '^GG3.*$']",JM7,Mazda
+323,"['^BA113.*$', '^BA123.*$']",JM7,Mazda
+B2200,['^UFY02.*$'],JM7,Mazda
+B2600,['^UV106.*$'],JM7,Mazda
+CX9,"['^TB1.*A$', '^TB19A.*$']",JM7,Mazda
+CX 5,['^KFAWL.*$'],JM7,Mazda
+CX3,['^DK.*W7$'],JM7,Mazda
+CX7,['^ER193.*$'],JM7,Mazda
+MAZDA 5,['^CR10F.*$'],JM7,Mazda
+MPV,['^LV10E.*$'],JM7,Mazda
+E2000,['^SR32E.*$'],JM8,Mazda
+BUS,['^SK32E.*$'],JM8,Mazda
+CX 5,"['^KE4W.*$', '^KE2W7.*$', '^KE.*W7$', '^KE.*$']",JM8,Mazda
+MPV,"['^L.*$', '^LW28.*$']",JM8,Mazda
+MURANO,['^AZ08W.*$'],JM8,Mazda
+PATHFINDER,['^DR05Y.*$'],JM8,Mazda
+PATROL,['^AY25Y.*$'],JM8,Mazda
+350,['^K3540.*$'],JMB,Mitsubishi
+CHARIOT,['^FB213.*$'],JMB,Mitsubishi
+GALANT,['^SRE.*$'],JMB,Mitsubishi
+KA 300E,['^AF308.*$'],JMB,Mitsubishi
+TL 350E,['^KJ508.*$'],JMB,Mitsubishi
+LANCER,['^SNC.*$'],JMB,Mitsubishi
+OUTLANDER,"['^XDGG2.*$', '^XDGG.*$']",JMB,Mitsubishi
+PAJERO,['^ARV23.*$'],JMB,Mitsubishi
+SPACE WAGON,['^NNPA3.*$'],JMB,Mitsubishi
+3,['^BL12Z.*$'],JMY,Mitsubishi
+6,"['^GH3.*F$', '^GG3.*F$', '^G.*F$']",JMY,Mitsubishi
+ASX,['^X.*GA2$'],JMY,Mitsubishi
+L 300,"['^HNP1.*$', '^HNP13.*$', '^.*NP13$']",JMY,Mitsubishi
+CANTER,['^FE635.*$'],JMY,Mitsubishi
+PICK UP,['^JNK12.*$'],JMY,Mitsubishi
+GALANT,"['^SNEA.*$', '^SREA.*$']",JMY,Mitsubishi
+SPACE WAGON,"['^L.*N84$', '^LRN84.*$']",JMY,Mitsubishi
+GRANDIS,['^LRNA4.*$'],JMY,Mitsubishi
+I200,['^JNPI5.*$'],JMY,Mitsubishi
+L200,['^JNK.*$'],JMY,Mitsubishi
+L300,['^JNP15.*$'],JMY,Mitsubishi
+LANCER,"['^SRG.*$', '^SCR.*$', '^STC.*$', '^SRCY1.*$', '^GNP.*3$', '^5RC.*1$', '^LNCB.*$', '^SNC.*$', '^DRCJ.*$', '^LKCB.*$', '^SNG.*$', '^SRCS3.*$', '^SRC.*$', '^SNEA.*$']",JMY,Mitsubishi
+LANCER EVOLUTION,['^S.*CZ4$'],JMY,Mitsubishi
+PAJERO,"['^MNCJ.*$', '^ONV.*3$', '^LNH76.*$', '^MRCJ.*$', '^MNH6.*$', '^MYV.*$', '^LRN.*$', '^LRU.*3$', '^MRV.*$', '^MRH6.*$', '^0RV.*$', '^LRV.*$', '^LRH7.*$', '^LYV.*$', '^LNV.*$', '^0NV.*$', '^ORV4.*$']",JMY,Mitsubishi
+NATIVA,['^.*RK96$'],JMY,Mitsubishi
+OUTLANDER,"['^XRC.*$', '^XTCW.*$', '^XTG.*$', '^X.*$']",JMY,Mitsubishi
+ROSA,['^BE637.*$'],JMY,Mitsubishi
+ROZA SW,['^BE635.*$'],JMY,Mitsubishi
+3,['^BLA2Z.*$'],JMZ,Mazda
+323,['^BA14P.*$'],JMZ,Mazda
+929,['^HC12C.*$'],JMZ,Mazda
+MPV,['^LV12L.*$'],JMZ,Mazda
+MX-5,['^ND6E7.*$'],JMZ,Mazda
+240SX,['^MS3.*P$'],JN1,Nissan
+280ZX,"['^HZ0.*S$', '^CZ0.*$']",JN1,Nissan
+300 ZX,"['^CZ24.*$', '^HZ1.*S$', '^RZ2.*$', '^HZ1.*$']",JN1,Nissan
+Z350,"['^AZ34E.*$', '^BZ34.*$', '^BZ3.*$', '^AZ3.*$']",JN1,Nissan
+Z,"['^AZ4.*H$', '^AZ34.*$', '^AZ4.*$']",JN1,Nissan
+ARIYA,['^AF0BA.*$'],JN1,Nissan
+BLUEBIRD,['^BDAU1.*$'],JN1,Nissan
+URVAN,"['^MA4E2.*$', '^.*E2$']",JN1,Nissan
+CEDREC,['^DY11S.*$'],JN1,Nissan
+EX35,['^AJ0H.*$'],JN1,Nissan
+LEAF,['^AZ0CP.*$'],JN1,Nissan
+G SEDAN,"['^CV6A.*$', '^CV6AR.*$', '^CV6AP.*$', '^CV6.*$', '^DV6A.*$']",JN1,Nissan
+G CONVERTIBLE,['^CV6FE.*$'],JN1,Nissan
+G COUPE,"['^CV6EL.*$', '^CV6E.*$']",JN1,Nissan
+G35,['^CV54E.*$'],JN1,Nissan
+GLORIA,['^MBAY3.*$'],JN1,Nissan
+GT-R,['^AR5.*F$'],JN1,Nissan
+I 30,['^CA31A.*$'],JN1,Nissan
+JUKE,"['^AF5.*$', '^BF5.*$', '^8F5M.*$']",JN1,Nissan
+M,['^BY1A.*$'],JN1,Nissan
+MAXIMA,"['^CA31.*$', '^DA31.*$', '^00HJ.*$', '^CA2.*$']",JN1,Nissan
+MURANO,['^AZ1.*$'],JN1,Nissan
+SUNNY,"['^CA21.*$', '^BN16.*$', '^FN61.*$', '^BDAB1.*$', '^AZ3.*$', '^EN61.*$', '^BDA.*1$', '^BCA.*1$', '^BB4.*$', '^CA31.*$', '^BN61.*$', '^BFAN.*$', '^BBA.*$', '^BJ1.*$', '^BCAC1.*$', '^BAAB.*$']",JN1,Nissan
+PATROL,"['^.*GY6$', '^0WGY6.*$', '^.*Y6$']",JN1,Nissan
+PRIMERA,['^BCAP1.*$'],JN1,Nissan
+Q50,"['^EV7.*$', '^BV7A.*$', '^FV7A.*$', '^AV7A.*$', '^CV7A.*$']",JN1,Nissan
+Q60,"['^CV7E.*$', '^EV7E.*$', '^FV7E.*$']",JN1,Nissan
+ROGUE SPORT,"['^BJ1.*$', '^BJ1C.*$', '^BJ1CR.*$']",JN1,Nissan
+QX50,['^BJ0.*$'],JN1,Nissan
+GTR,['^AR5EM.*$'],JN1,Nissan
+STANZA,['^FU21P.*$'],JN1,Nissan
+TD27,['^AHAD2.*$'],JN1,Nissan
+TEANA,['^BBUJ3.*$'],JN1,Nissan
+TIIDA,"['^CC13C.*$', '^BC1.*$', '^CC1.*C$', '^001.*$', '^CC1.*$']",JN1,Nissan
+X-TRIAL,['^BT05Y.*$'],JN1,Nissan
+XTRAIL,"['^BT2.*$', '^8T2M.*$']",JN1,Nissan
+ZX 280,['^JZ04S.*$'],JN1,Nissan
+URVAN,"['^FE5.*$', '^AE5.*S$', '^FE54.*$', '^AE42S.*$', '^AE53S.*$', '^AE54S.*$', '^BE6DS.*$', '^AE5.*$', '^DW1.*S$', '^BE6.*S$', '^BE6GS.*$', '^.*S$', '^AE4.*S$', '^BE6.*$', '^BD23.*$', '^FE5.*S$']",JN6,Nissan
+CIVILIAN,"['^EW1.*S$', '^DW1.*$', '^BW1.*$']",JN6,Nissan
+CPGD22,['^PD23S.*$'],JN6,Nissan
+JUKE,['^AF54S.*$'],JN6,Nissan
+PATHFINDER,['^BY11Y.*$'],JN6,Nissan
+PATROL,"['^DY1.*$', '^BY1.*$', '^CY1.*Y$']",JN6,Nissan
+PICKUP,"['^.*D23S$', '^AD2.*S$', '^BD2.*$', '^DD2.*$']",JN6,Nissan
+SUNNY,['^BEBA8.*$'],JN6,Nissan
+PATROL,"['^AY1.*Y$', '^AY25Y.*$', '^AY2.*$', '^FY1.*$', '^AZ1.*$', '^AZ0.*$', '^A.*$', '^FYI.*Y$']",JN8,Mazda
+CUBE,['^AZ2KR.*$'],JN8,Mazda
+FX,"['^CS1MW.*$', '^BS1MW.*$', '^AS1M.*$']",JN8,Mazda
+FX 35,"['^AS05Y.*$', '^AS1M.*$', '^AS.*$']",JN8,Mazda
+JUKE,"['^BF5.*S$', '^AF5.*$', '^AF5MR.*$']",JN8,Mazda
+MICRO,['^FE548.*$'],JN8,Mazda
+MURANO CROSSCABRIOLET,['^AZ1FY.*$'],JN8,Mazda
+PATHFINDER,"['^0R0.*Y$', '^AR0.*$', '^DR0.*$', '^AR05Y.*$']",JN8,Mazda
+QUEST,['^AE2KP.*$'],JN8,Mazda
+QX80,"['^AZ2N.*$', '^AZ2.*$']",JN8,Mazda
+QX70,['^CS1MU.*$'],JN8,Mazda
+ROGUE,"['^AT2M.*$', '^AS58V.*$', '^AT3.*$', '^AS5MT.*$', '^BT3.*$', '^AS5.*$']",JN8,Mazda
+XTRAIL,"['^BTO.*$', '^BT.*$', '^BT0.*$']",JN8,Mazda
+DIESEL,"['^MBF0.*$', '^.*F0H$', '^UZD.*H$', '^MDF0H.*$', '^P.*F0H$', '^M.*F0H$', '^U.*H$', '^FAP.*K$', '^PCF.*$', '^PBF.*H$', '^KBP0L.*$', '^MDF.*H$', '^PCF.*H$']",JNC,Nissan
+UD,['^MDFOH.*$'],JNC,Nissan
+RANGER,['^LS328.*$'],JNC,Nissan
+TANKER,['^WBR0L.*$'],JNC,Nissan
+370 Z,['^AZ34D.*$'],JNI,Nissan
+PICKUP,"['^C.*D2$', '^CJUD2.*$']",JNI,Nissan
+G 37,['^CV6AR.*$'],JNI,Nissan
+JUKE,['^BF.*$'],JNI,Nissan
+LEAF,['^AZ0CP.*$'],JNI,Nissan
+MAXIMA,['^CA.*$'],JNI,Nissan
+PATROL,['^UCLY6.*$'],JNI,Nissan
+Q50,['^EV7AP.*$'],JNI,Nissan
+QASHQAI,['^BJ1CP.*$'],JNI,Nissan
+SUNNY,"['^BBAB.*$', '^BJIC.*$', '^EN61.*$', '^FN61.*$']",JNI,Nissan
+TIIDA,['^CC11C.*$'],JNI,Nissan
+XTRAIL,['^BT2MN.*$'],JNI,Nissan
+Z350,['^AZ34E.*$'],JNI,Nissan
+ZX 280,['^JZ04S.*$'],JNI,Nissan
+EX35,"['^AJ09F.*$', '^AJ09.*$']",JNK,Infiniti
+FX 35,['^AS18F.*$'],JNK,Infiniti
+G 25,"['^DVB.*E$', '^DV6.*$']",JNK,Infiniti
+G 37,"['^CV.*$', '^CV64E.*$', '^CV61.*$', '^CV6.*E$', '^CV6.*$', '^CV61E.*$']",JNK,Infiniti
+G SEDAN,['^CV61F.*$'],JNK,Infiniti
+G CONVERTIBLE,['^CV6FE.*$'],JNK,Infiniti
+G35,"['^B.*$', '^BV61E.*$', '^BY01.*$', '^CV5.*$', '^BY31.*$', '^BV61.*$']",JNK,Infiniti
+I 35,['^DA31A.*$'],JNK,Infiniti
+I 30,"['^CA21.*$', '^CA21A.*$', '^CA.*$', '^CA31A.*$']",JNK,Infiniti
+INFINITI Q50 2.2D,['^DV71E.*$'],JNK,Infiniti
+Q70,['^AY01.*$'],JNK,Infiniti
+M 35,['^CY01E.*$'],JNK,Infiniti
+M 56,['^AY1AP.*$'],JNK,Infiniti
+PATHFINDER,['^CV51E.*$'],JNK,Infiniti
+PATROL,['^BY11E.*$'],JNK,Infiniti
+Q45,['^NG01D.*$'],JNK,Infiniti
+Q50,['^NC01C.*$'],JNK,Infiniti
+Q50S HYBRID,['^AV71E.*$'],JNK,Infiniti
+Q60,['^.*EK$'],JNK,Infiniti
+EX35,"['^AJ0.*$', '^AJO.*Y$', '^.*Y$']",JNR,Infiniti
+FX,"['^AS08.*$', '^BS18W.*$', '^AS18.*$']",JNR,Infiniti
+FX 35,"['^AS08.*$', '^AS1.*$', '^A.*$']",JNR,Infiniti
+QX 70,"['^CS1MW.*$', '^C.*1MW$', '^CS1M.*$']",JNR,Infiniti
+FX 45,['^BS08W.*$'],JNR,Infiniti
+FX 50,['^BS1.*$'],JNR,Infiniti
+MURANO,['^AZZNY.*$'],JNR,Infiniti
+PATHFINDER,"['^DR09.*$', '^DR0.*$']",JNR,Infiniti
+QX 80,['^AZ2NY.*$'],JNR,Infiniti
+QX50,['^BJ0.*R$'],JNR,Infiniti
+QX56,['^AZ2.*Y$'],JNR,Infiniti
+SUNNY,['^BSI5U.*$'],JNR,Infiniti
+450Z,['^PL41A.*$'],JS1,Suzuki
+650CC,['^CJ225.*$'],JS1,Suzuki
+65XF,['^AK111.*$'],JS1,Suzuki
+GSX1300RAL,['^GX72B.*$'],JS1,Suzuki
+AN650,['^CP51B.*$'],JS1,Suzuki
+BOULEVARD,['^VS55A.*$'],JS1,Suzuki
+BOULEVARD C90,['^VY56A.*$'],JS1,Suzuki
+BOULEVARD M109R,['^VY53A.*$'],JS1,Suzuki
+GRAND VITARA,['^.*1$'],JS1,Suzuki
+GSX-R1000,"['^G.*A$', '^GT7.*A$', '^GT76A.*$', '^GT7.*$']",JS1,Suzuki
+GSX-R750,"['^GN7.*A$', '^G.*A$', '^GR7MA.*$', '^GR7.*A$']",JS1,Suzuki
+GSX-R600,['^GN7FA.*$'],JS1,Suzuki
+GSX-R1000R,['^DM11H.*$'],JS1,Suzuki
+GSX-R1000L7/GSX-R1000AL7,['^DM11B.*$'],JS1,Suzuki
+GSX-S1000A,['^GT7AA.*$'],JS1,Suzuki
+GSX-S750,['^C533.*$'],JS1,Suzuki
+GSX1300R,['^GX72.*$'],JS1,Suzuki
+GSXR 1000,['^DM11G.*$'],JS1,Suzuki
+GSXR 1000 L2,['^CY111.*$'],JS1,Suzuki
+KIZASHI,"['^RJ4.*$', '^R.*$']",JS1,Suzuki
+MOTORBIKE,['^CJ135.*$'],JS1,Suzuki
+KIZASHI,"['^RE9.*$', '^R.*$']",JS2,Suzuki
+AERIOSX,['^RD.*1H$'],JS2,Suzuki
+ESTEEM,['^GB41S.*$'],JS2,Suzuki
+GSX-R750,['^GA.*1S$'],JS2,Suzuki
+IGNIS,['^HX51S.*$'],JS2,Suzuki
+LIANA,['^R.*31S$'],JS2,Suzuki
+SWIFT,"['^ZC21.*$', '^7C8.*$', '^ZC8.*$', '^ZC6C.*$']",JS2,Suzuki
+SX 4,"['^YC41.*$', '^YA41.*$', '^YB5.*$', '^YB41.*$', '^YC.*$', '^YB5A.*$', '^Y.*$']",JS2,Suzuki
+CARRY,['^DA32V.*$'],JS3,Suzuki
+GRAND VITARA,"['^TDO.*$', '^TE04.*$', '^TD1.*$', '^TD94.*$', '^TE94.*$', '^TD54.*$', '^TD0.*$', '^TA7.*$', '^TD04V.*$', '^TA0.*$']",JS3,Suzuki
+XL-7,"['^TY92V.*$', '^T.*92V$']",JS3,Suzuki
+JIMNY,['^JB4.*$'],JS3,Suzuki
+SIDEKICK,['^TD21V.*$'],JS3,Suzuki
+SWIFT,['^ZC21S.*$'],JS3,Suzuki
+BALENO,['^EGC31.*$'],JSA,Suzuki
+GSX-R750,"['^AK4.*A$', '^AL4.*A$']",JSA,Suzuki
+LTZ 250CC,['^AJ4AA.*$'],JSA,Suzuki
+OZARK,['^AJ51A.*$'],JSA,Suzuki
+VITARA,['^FT.*$'],JSA,Suzuki
+COROLLA,"['^.*A$', '^72EE.*$', '^53EE.*$', '^BE4.*K$']",JT1,Toyota
+DAIHATSU,['^GM201.*$'],JT1,Toyota
+GS 430,['^53USG.*$'],JT1,Toyota
+GS 300,['^53JS.*$'],JT1,Toyota
+HAYES,['^212HA.*$'],JT1,Toyota
+HIACE,"['^21L.*$', '^21JK.*$']",JT1,Toyota
+HILUX,['^.*6$'],JT1,Toyota
+LS 430,"['^53UF.*$', '^.*2$', '^BU4.*E$']",JT1,Toyota
+PRIUS,['^53FU1.*$'],JT1,Toyota
+RAV 4,['^72SC1.*$'],JT1,Toyota
+RAV4,['^71S.*1$'],JT1,Toyota
+SUPRA,['^LBMA7.*$'],JT1,Toyota
+COROLLA,"['^SK1.*E$', '^BG2.*K$', '^BF2.*K$', '^AE0.*$', '^BB1.*E$', '^BF22K.*$', '^B.*$', '^VK1.*E$', '^BK1.*$', '^GK1.*E$']",JT2,Toyota
+CRESSIDA,['^MX.*3E$'],JT2,Toyota
+HS 250H,['^DE82A.*$'],JT2,Toyota
+MR2,['^SW2.*$'],JT2,Toyota
+PRIUS,['^BK1.*U$'],JT2,Toyota
+RC 350,['^AW15C.*$'],JT2,Toyota
+SUPRA,"['^JA8.*$', '^MA7.*$']",JT2,Toyota
+SUPRA TURBO,['^MA71N.*$'],JT2,Toyota
+TOYOTA,['^EL46S.*$'],JT2,Toyota
+4RUNNER,"['^GN8.*R$', '^HN8.*R$']",JT3,Toyota
+COROLLA,['^EB13E.*$'],JT3,Toyota
+FJ CRUISER,['^BU11F.*$'],JT3,Toyota
+LAND CRUISER,"['^HJ0.*J$', '^DJ81W.*$', '^FJ6.*G$']",JT3,Toyota
+PRADO,['^B.*J$'],JT3,Toyota
+PREVIA,"['^AC2.*S$', '^GK1.*M$', '^AC1.*R$']",JT3,Toyota
+RAV4 HYBRID,"['^.*V$', '^.*P10V$']",JT3,Toyota
+RUNNER 4,['^VN39W.*$'],JT3,Toyota
+4RUNNER,['^RN36S.*$'],JT4,Toyota
+DYNA,['^.*7$'],JT4,Toyota
+HIACE,"['^ZR1.*$', '^ZA119.*$']",JT4,Toyota
+HS 250H,['^EW21A.*$'],JT4,Toyota
+LAND CRUISER,['^KW73J.*$'],JT4,Toyota
+PICK,['^RN93.*$'],JT4,Toyota
+PICKUP,"['^RN5.*R$', '^RN.*$', '^RN81.*$']",JT4,Toyota
+T100,"['^VD2.*$', '^VD1.*$']",JT4,Toyota
+T100 DX,['^VD10A.*$'],JT4,Toyota
+WITCH,['^020LO.*$'],JT4,Toyota
+COASTER,['^FK518.*$'],JT6,Lexus
+HIACE,['^.*P$'],JT6,Lexus
+LX 470,"['^HT00W.*$', '^HT.*W$', '^H.*$']",JT6,Lexus
+LX 450,['^HJ88J.*$'],JT6,Lexus
+PRADO,['^BDG6J.*$'],JT6,Lexus
+RX 300,"['^.*F10U$', '^HF10.*$']",JT6,Lexus
+LS 430,"['^.*E$', '^BD6.*$', '^BF2.*G$', '^.*F28G$', '^BL69S.*$', '^B.*$', '^BD6.*S$', '^BH2.*$', '^B.*S$', '^UZ30.*$', '^UF11.*$']",JT8,Toyota
+ES 350,['^BF12G.*$'],JT8,Toyota
+GS 400,['^BH68X.*$'],JT8,Toyota
+ES 300,['^GK13T.*$'],JT8,Toyota
+LS400,"['^BH28F.*$', '^BH2.*F$']",JT8,Toyota
+RC 350,['^JZ31C.*$'],JT8,Toyota
+SC 300,['^CD32Z.*$'],JT8,Toyota
+SC 400,['^CH32Y.*$'],JT8,Toyota
+CAMRY,['^BB46K.*$'],JTB,Toyota
+HIACE,['^4.*$'],JTB,Toyota
+COROLLA,"['^72AE.*$', '^53AE.*$', '^53E.*$', '^72EE.*$', '^DR2.*E$']",JTB,Toyota
+CROWN,['^53JSF.*$'],JTB,Toyota
+DYNA,['^32BUM.*$'],JTB,Toyota
+GS 300,['^53JS.*$'],JTB,Toyota
+GX 460,['^JRBZX.*$'],JTB,Toyota
+LAND CRUISER,"['^31U.*7$', '^31PJ7.*$', '^11UJ.*$', '^3.*$']",JTB,Toyota
+HS 250H,"['^.*A$', '^11W.*A$']",JTB,Toyota
+PRADO,['^11VJ9.*$'],JTB,Toyota
+PREVIA,['^11AC1.*$'],JTB,Toyota
+PRIUS,['^KN3DU.*$'],JTB,Toyota
+PRIUS C,['^.*3$'],JTB,Toyota
+RAV 4,['^72SC1.*$'],JTB,Toyota
+RAV4,['^71SC1.*$'],JTB,Toyota
+COASTER,['^F.*18$'],JTC,Toyota
+HIACE,['^F.*19$'],JTC,Toyota
+LAND CRUISER,['^HJ.*J$'],JTC,Toyota
+PRIUS,['^K.*U$'],JTC,Toyota
+RX 450H,['^BC1BA.*$'],JTC,Toyota
+YARIS,['^KW923.*$'],JTC,Toyota
+4RUNNER,['^EBRBR.*$'],JTD,Toyota
+CAMRY,"['^BF3.*K$', '^BH30K.*$', '^BE3.*K$', '^BH3.*K$', '^B.*K$']",JTD,Toyota
+CELICA,['^D.*32T$'],JTD,Toyota
+COASTER,['^FB518.*$'],JTD,Toyota
+COROLLA,"['^BR2.*$', '^BH3.*1$', '^BR3.*E$', '^BT2.*$', '^BW22.*$', '^BZ42E.*$', '^B242.*$', '^BZ2.*$', '^BZ4.*E$', '^EPRAE.*$', '^BF3.*K$', '^BL4.*E$', '^EPM.*E$', '^BR42.*$', '^ER2.*E$', '^BR4.*E$', '^BU4.*E$', '^BE3.*K$', '^BE2.*E$', '^BK2.*$', '^EW23.*$', '^BW2.*E$']",JTD,Toyota
+COROLLA 100GT,['^BR21E.*$'],JTD,Toyota
+CT 200H,['^KD5BH.*$'],JTD,Toyota
+YARIS,"['^RW9.*3$', '^BW9.*3$', '^JT9.*3$', '^BT9.*3$', '^KT9.*3$', '^BT923.*$', '^KW9.*$', '^B.*3$']",JTD,Toyota
+PRIUS C,"['^KDT.*3$', '^.*3$', '^BW1.*3$', '^KDTB3.*$']",JTD,Toyota
+GS 300,['^BE113.*$'],JTD,Toyota
+HIACE,['^21UHB.*$'],JTD,Toyota
+HILUX,['^.*6$'],JTD,Toyota
+HS 250H,['^EW21A.*$'],JTD,Toyota
+IQ,['^.*0$'],JTD,Toyota
+IS,['^.*2$'],JTD,Toyota
+PRADO,['^B.*J$'],JTD,Toyota
+PRIUS,"['^ZS3EU.*$', '^KN3.*$', '^KN3DP.*$', '^KB2.*$', '^KARF.*$', '^KARFU.*$', '^KN36U.*$', '^KN3DU.*$']",JTD,Toyota
+PRIUS PRIME,"['^KA.*FP$', '^KARFP.*$']",JTD,Toyota
+PRIUS V,['^ZN3EU.*$'],JTD,Toyota
+RAV4 HYBRID,"['^.*V$', '^Z23FV.*$']",JTD,Toyota
+RC 350,['^.*C$'],JTD,Toyota
+RX 400H,['^HW31U.*$'],JTD,Toyota
+RX 450H,['^BC1BA.*$'],JTD,Toyota
+XA,['^KT623.*$'],JTD,Toyota
+4RUNNER,"['^ZT1.*R$', '^BT1.*R$', '^.*R$', '^BU1.*R$']",JTE,Toyota
+CAMRY,['^BC3EK.*$'],JTE,Toyota
+FJ CRUISER,"['^.*F$', '^BU11F.*$']",JTE,Toyota
+ES 350,['^B.*G$'],JTE,Toyota
+GX 460,['^.*X$'],JTE,Toyota
+HIACE,['^.*2P$'],JTE,Toyota
+HIGHLANDER,"['^DS4.*A$', '^ES4.*A$']",JTE,Toyota
+HIGHLANDER HYBRID,['^EW4.*A$'],JTE,Toyota
+LS 430,['^BC3EH.*$'],JTE,Toyota
+HILUX,['^.*6$'],JTE,Toyota
+HS 250H,"['^.*A$', '^DW2.*A$']",JTE,Toyota
+IQ,['^EW440.*$'],JTE,Toyota
+LAND CRUISER,"['^LU7.*J$', '^CJ0.*J$', '^EB7.*J$', '^CB0.*J$', '^HJ09J.*$', '^HT0.*$', '^EU7.*J$', '^HJ0.*$', '^AU2.*J$']",JTE,Toyota
+PRADO,"['^BL2.*J$', '^BW3.*$', '^BN3.*$', '^BU2.*J$', '^BL29.*$', '^B42.*$', '^BX9.*J$', '^J49.*J$', '^BY9.*J$', '^JU3F.*$', '^BU25.*$', '^BM29.*$']",JTE,Toyota
+LX 470,['^HT00W.*$'],JTE,Toyota
+PREVIA,"['^GD3.*M$', '^G.*M$', '^GD5.*M$']",JTE,Toyota
+RAV4 HYBRID,"['^.*20V$', '^GH2.*V$', '^.*V$', '^HH2.*V$']",JTE,Toyota
+VENZA,['^AAAAH.*$'],JTE,Toyota
+COROLLA,['^BR42E.*$'],JTF,Toyota
+COROLLA 100GT,['^BR21E.*$'],JTF,Toyota
+DYNA,"['^AY117.*$', '^.*7$']",JTF,Toyota
+ES 350,['^BB41G.*$'],JTF,Toyota
+GX 460,['^SS2PX.*$'],JTF,Toyota
+HIACE,"['^HXD2.*$', '^HX02.*$', '^RMFA.*$', '^PX22.*$']",JTF,Toyota
+HILUX,"['^DE6.*6$', '^EM4.*6$']",JTF,Toyota
+IQ,['^DKB20.*$'],JTF,Toyota
+IS,['^JJS02.*$'],JTF,Toyota
+LAND CRUISER,"['^HS0.*$', '^LJ73J.*$', '^LB7.*J$', '^LU7.*J$', '^.*J$', '^LJ7.*J$']",JTF,Toyota
+LS 430,['^BB9CP.*$'],JTF,Toyota
+PRIUS,['^KN3.*U$'],JTF,Toyota
+RAV4 HYBRID,['^.*V$'],JTF,Toyota
+COASTER,"['^FY418.*$', '^F.*$', '^FB51.*$']",JTG,Lexus
+COROLLA,['^HR42E.*$'],JTG,Lexus
+CT 200H,['^KD5BH.*$'],JTG,Lexus
+HIACE,"['^JX02.*$', '^SX2.*P$', '^RX12P.*$']",JTG,Lexus
+HS 250H,['^HB1BA.*$'],JTG,Lexus
+LAND CRUISER,['^HJ0.*$'],JTG,Lexus
+LAND CRUISER ARMORED,['^RB71J.*$'],JTG,Lexus
+LS 430,['^B5108.*$'],JTG,Lexus
+NX 300H,['^BGRBZ.*$'],JTG,Lexus
+PRADO,['^B.*9J$'],JTG,Lexus
+PRIUS,['^.*U$'],JTG,Lexus
+YARIS,['^KW923.*$'],JTG,Lexus
+CT 200H,"['^KD5BH.*$', '^.*BH$']",JTH,Lexus
+714,['^UCK1H.*$'],JTH,Lexus
+CAMRY,['^B11HK.*$'],JTH,Lexus
+LS 430,"['^.*F$', '^BC96.*$', '^BN3.*$', '^.*FF$', '^BF1BL.*$', '^BK1.*G$', '^B.*$', '^BW1.*6$', '^BN36F.*$', '^DU1.*F$', '^BZ1B.*$', '^BN3.*F$', '^B51.*$', '^BK1.*$']",JTH,Lexus
+ES 300H,"['^B.*G$', '^BK1.*G$', '^BW1.*G$', '^BKI.*G$', '^BW1GG.*$']",JTH,Lexus
+ES 330,['^BA30G.*$'],JTH,Lexus
+GS,"['^EZ1.*L$', '^BC.*S$', '^BE1.*$', '^CE96.*$', '^BE96S.*$', '^BN96S.*$', '^CE1.*$', '^BH96.*$', '^BC96S.*$']",JTH,Lexus
+GS 200,['^BA5BL.*$'],JTH,Lexus
+GS 450,['^BS5BL.*$'],JTH,Lexus
+HIACE,['^4ZA11.*$'],JTH,Lexus
+HS 250H,['^BB1BA.*$'],JTH,Lexus
+IS,"['^BH5D2.*$', '^BF5.*2$', '^BE5.*2$', '^B.*2$', '^BA.*D2$', '^GZ1.*2$', '^BH5.*2$', '^BF5D2.*$', '^.*2$', '^BD1.*2$', '^C81.*2$', '^FG2.*2$']",JTH,Lexus
+IS C,"['^FF2C2.*$', '^F.*2C2$']",JTH,Lexus
+IS F,['^BP.*2$'],JTH,Lexus
+IS300,['^BG262.*$'],JTH,Lexus
+LAND CRUISER,['^MU09.*$'],JTH,Lexus
+LC 500,"['^HP5AY.*$', '^.*AY$']",JTH,Lexus
+LFA,['^HX8BH.*$'],JTH,Lexus
+LS 600HL,['^DU46F.*$'],JTH,Lexus
+LS 460,['^GL46F.*$'],JTH,Lexus
+PREVIA,['^GE52M.*$'],JTH,Lexus
+RC 350,"['^.*BC$', '^HE5BC.*$', '^.*C$']",JTH,Lexus
+RC 200T,['^HA5BC.*$'],JTH,Lexus
+RC 300,['^SM5BC.*$'],JTH,Lexus
+RC F,['^HP5BC.*$'],JTH,Lexus
+SC 430,"['^FN48Y.*$', '^FN4.*Y$']",JTH,Lexus
+UX 200,['^Y3JBH.*$'],JTH,Lexus
+UX 250H,['^.*JBH$'],JTH,Lexus
+UX 250H 2WD,['^R6JBH.*$'],JTH,Lexus
+COASTER,['^1B518.*$'],JTJ,Lexus
+GX 460,"['^JMV.*X$', '^HY7AX.*$', '^.*B7CX$', '^.*X$']",JTJ,Lexus
+GX 470,['^BT20X.*$'],JTJ,Lexus
+LX 570,"['^HT0.*W$', '^HY00W.*$', '^HT00W.*$', '^HT.*W$']",JTJ,Lexus
+NX 300H,"['^GAR.*Z$', '^.*Z$', '^DAR.*Z$', '^BJRBZ.*$', '^BJR.*Z$']",JTJ,Lexus
+NX 200T,['^.*ARBZ$'],JTJ,Lexus
+RX 300,['^HF10.*$'],JTJ,Lexus
+RX 330,"['^HA31U.*$', '^HA31.*$']",JTJ,Lexus
+RX 350,"['^HK31.*$', '^BK1.*A$', '^ZB1.*A$', '^.*A$', '^HZK.*A$']",JTJ,Lexus
+RX 400H,"['^HW31U.*$', '^.*W31U$']",JTJ,Lexus
+RX 450HL,['^DGKCA.*$'],JTJ,Lexus
+RX 450H,['^BGMCA.*$'],JTJ,Lexus
+ACCORD,['^CP263.*$'],JTM,Toyota
+BZ4X,['^A.*A$'],JTM,Toyota
+CAMRY,['^B.*K$'],JTM,Toyota
+RAV4 HYBRID,"['^DWRFV.*$', '^BD3.*$', '^ZD3.*V$', '^BK3.*V$', '^BF3.*V$', '^BD3.*V$', '^JJREV.*$', '^RJREV.*$', '^.*V$', '^W2RFV.*$', '^DW3.*V$', '^DJREV.*$', '^D6R.*V$', '^ZK3.*V$', '^DJR.*V$', '^DF4.*V$', '^ZF3.*V$', '^RJR.*V$']",JTM,Toyota
+ES 300H,['^BW1GG.*$'],JTM,Toyota
+HILUX,['^H5096.*$'],JTM,Toyota
+IQ,['^H09J0.*$'],JTM,Toyota
+JAZZ,['^GE888.*$'],JTM,Toyota
+LAND CRUISER,"['^HJ0.*J$', '^HV0.*$', '^AUCBJ.*$', '^.*3$', '^HN09.*$', '^HH0.*$', '^HXO.*J$', '^HX09J.*$', '^HU9.*J$', '^HU0.*$', '^HY0.*$', '^HYO.*$', '^HUO.*$', '^HT0.*$', '^HX0.*$', '^H40.*J$', '^JU0.*J$']",JTM,Toyota
+LS 430,"['^B.*$', '^BE3.*V$', '^BW3.*V$']",JTM,Toyota
+LX 570,['^HY00W.*$'],JTM,Toyota
+RAV4,['^YFREV.*$'],JTM,Toyota
+RAV4 PRIME,['^.*B3FV$'],JTM,Toyota
+RC 350,['^RW3FC.*$'],JTM,Toyota
+RX 300,['^HF10U.*$'],JTM,Toyota
+RX 400H,['^HW31U.*$'],JTM,Toyota
+ALPHARD,['^GK26H.*$'],JTN,Toyota
+CAMRY,"['^B24.*K$', '^B.*$', '^BB3.*K$', '^BB4.*K$', '^BV5.*E$', '^BK4.*K$', '^BD4.*K$', '^B.*K$']",JTN,Toyota
+CH-R,['^KHMBX.*$'],JTN,Toyota
+COROLLA,"['^BF4.*K$', '^BE4.*K$']",JTN,Toyota
+COROLLA IM,['^KARJE.*$'],JTN,Toyota
+GRANVIA,['^YM.*AP$'],JTN,Toyota
+HS 250H,['^BB1BA.*$'],JTN,Toyota
+IQ,['^.*0$'],JTN,Toyota
+PRADO,['^BU25J.*$'],JTN,Toyota
+PREVIA,['^G.*52M$'],JTN,Toyota
+PRIUS,['^BK1.*U$'],JTN,Toyota
+RAV 4,['^BD3FK.*$'],JTN,Toyota
+RAV4 HYBRID,['^.*V$'],JTN,Toyota
+TIIDA,['^CC1TC.*$'],JTN,Toyota
+RAPTER,"['^AM1.*Y$', '^AM.*Y$', '^AH12Y.*$', '^A.*$', '^A.*Y$', '^AM14.*$']",JY4,Yamaha
+125,['^AE03Y.*$'],JY4,Yamaha
+4W,['^AG04Y.*$'],JY4,Yamaha
+BANCHEE,['^3GG.*$'],JY4,Yamaha
+GRIZZLY 700,['^AM13Y.*$'],JY4,Yamaha
+YAMAHA,"['^AJ35.*$', '^AG0.*$', '^AJ20Y.*$', '^AJ35Y.*$']",JY4,Yamaha
+YFM350,['^3GGA0.*$'],JY4,Yamaha
+YFZ450R,['^AJ37Y.*$'],JY4,Yamaha
+AVEO,"['^TD5.*$', '^7J5.*7$', '^TD6.*$', '^TD66.*$', '^TG6.*$', '^TG5.*$', '^TM5.*$', '^TM62.*$', '^TJ6.*$', '^T.*$', '^TJ5.*$']",KL1,Chevrolet
+CAPTIVA,"['^FC2.*$', '^FC6.*$', '^FC1C.*$', '^FC5.*$', '^DC63.*$', '^DC53.*$']",KL1,Chevrolet
+CRUZE,"['^PJ5.*$', '^PM6D.*$', '^PJ5C6.*$', '^PM5.*$']",KL1,Chevrolet
+EPICA,"['^V55.*$', '^VM5.*$', '^VJ5.*$', '^JJ82.*$']",KL1,Chevrolet
+LACETTI,['^JA69.*$'],KL1,Chevrolet
+MALIBU,"['^ZB5D.*$', '^GM5.*$', '^ZA5.*$', '^GD5.*U$']",KL1,Chevrolet
+OPTRA,"['^JM62.*$', '^JJ8.*6$', '^J.*E$', '^JDS.*E$', '^JD5.*E$', '^JJ5.*$', '^JM52.*$']",KL1,Chevrolet
+"OPTRA, LACETTI",['^JD516.*$'],KL1,Chevrolet
+OPTRA5,['^JD65Z.*$'],KL1,Chevrolet
+SPARK,"['^MJ6.*4$', '^MD6.*$', '^CJ6.*$', '^CD6.*$']",KL1,Chevrolet
+TRAX,['^J.*5$'],KL1,Chevrolet
+TERRAIN,"['^DD.*$', '^DD53.*$']",KL6,GMC
+SPARK,"['^CB6S.*$', '^CF6S.*$', '^CD6.*$', '^C.*$', '^CA6S.*$']",KL8,Chevrolet
+SPARK EV,['^C.*6S0$'],KL8,Chevrolet
+MALIBU 1.5 TURBO,['^ZA69S.*$'],KLA,Daewoo
+MALIBU 2.0 TURBO,['^ZA69X.*$'],KLA,Daewoo
+ALPHEON HYBRID,['^PA69R.*$'],KLA,Daewoo
+LANOS,"['^TA69.*$', '^TA48.*$', '^TA1.*$', '^TF69.*$', '^T.*$']",KLA,Daewoo
+AVEO,['^TA69B.*$'],KLA,Daewoo
+CAPTIVA,['^CA264.*$'],KLA,Daewoo
+CAPTIVA 2.0 DIESEL,['^CA263.*$'],KLA,Daewoo
+NUBIRA,"['^JA69.*$', '^TA52.*$', '^NA69.*$', '^JA35.*$', '^NA19.*$', '^JF35.*$', '^JF69.*$', '^TF69.*$', '^J.*$', '^TF08.*$']",KLA,Daewoo
+LEGANZA,"['^NA69.*$', '^VA69.*$', '^VF69.*$', '^V.*$']",KLA,Daewoo
+ESPERO,"['^JF19.*$', '^JA19.*$']",KLA,Daewoo
+ORLANDO 1.6 DIESEL,['^YA75C.*$'],KLA,Daewoo
+LACETTI 1.6D MT,['^NF196.*$'],KLA,Daewoo
+MAGNUS,['^LA69.*$'],KLA,Daewoo
+MALIBU 1.35 TURBO,['^ZA69L.*$'],KLA,Daewoo
+MALIBU,['^GA691.*$'],KLA,Daewoo
+MATIZ,['^4M11B.*$'],KLA,Daewoo
+NUBIRA WAGON 1.5,['^JA35V.*$'],KLA,Daewoo
+REISER,['^TF16G.*$'],KLA,Daewoo
+SELO,"['^TF19.*$', '^TF19Y.*$']",KLA,Daewoo
+SONIC,['^JD5BE.*$'],KLA,Daewoo
+SPARK,['^CD6.*$'],KLA,Daewoo
+TACOMA,['^UF75Z.*$'],KLA,Daewoo
+TRAX 1.4,['^BA76B.*$'],KLA,Daewoo
+TRAX 1.6 CDTI DIESEL,['^BA76C.*$'],KLA,Daewoo
+MATIZ,['^4A11B.*$'],KLY,Chevrolet
+MATIZ 0.8S MT,['^KF484.*$'],KLY,Chevrolet
+SPARK,['^DC487.*$'],KLY,Chevrolet
+TEKO,['^3S11B.*$'],KLY,Chevrolet
+KONA,"['^K.*$', '^K12A.*$', '^K1CA.*$', '^K5CA.*$', '^KM4A.*$', '^K2CAA.*$', '^K3CA.*$', '^K62A.*$', '^K6CA.*$', '^KN4A.*$', '^K1CAA.*$', '^K2CA.*$', '^K53A.*$', '^K22A.*$']",KM8,Hyundai
+KONA EV,"['^K.*3AG$', '^K23AG.*$']",KM8,Hyundai
+PALISADE,"['^R.*E$', '^R5D.*E$', '^R74.*E$']",KM8,Hyundai
+SANTA FE,"['^SB82.*$', '^SC13.*$', '^SB1.*$', '^S.*HF$', '^S.*$', '^SC73.*$', '^SNDHF.*$']",KM8,Hyundai
+SANTA FE HYBRID,['^S.*DA1$'],KM8,Hyundai
+TUCSON,"['^JM12.*$', '^JCCA.*$', '^J3CA.*$', '^J33A4.*$', '^J3CA4.*$', '^JBCA.*$', '^JN12.*$', '^JUCA.*$', '^JT3A.*$', '^J33A.*$', '^JT3AC.*$', '^J.*$', '^JU3A.*$', '^JTCA.*$']",KM8,Hyundai
+VERACRUZ,['^NU.*C$'],KM8,Hyundai
+ELANTRA,['^LK19.*$'],KMC,Hyundai
+GENESIS,"['^G.*$', '^GK17.*$']",KMC,Hyundai
+HD 270,['^DH18.*$'],KMC,Hyundai
+HD72,['^GK17C.*$'],KMC,Hyundai
+HD65,['^GK17F.*$'],KMC,Hyundai
+PICK,['^XLS7B.*$'],KMC,Hyundai
+PORTER,['^XNS7B.*$'],KMC,Hyundai
+STAREX,['^WAH7.*$'],KMC,Hyundai
+PORTER 2,"['^XKS7.*$', '^ZSZ7K.*$', '^ZCZ7K.*$', '^ZCZ7N.*$', '^ZCS7.*$', '^ZCD7.*$', '^ZSS7.*$', '^ZCZ7.*$', '^ZCZ7J.*$', '^ZCX7.*$', '^ZSY7.*$', '^ZAY7.*$', '^ZSZ7.*$', '^ZSX7.*$', '^ZAN7.*$', '^ZCD7J.*$', '^ZCY7.*$', '^Z.*$', '^ZSD7.*$', '^ZAD7.*$', '^ZCN7.*$']",KMF,Hyundai
+IONIQ HYBRID,"['^C.*$', '^CA17C.*$']",KMF,Hyundai
+ATOS,['^AB.*7R$'],KMF,Hyundai
+AVANTE,"['^DA1.*$', '^DA18.*$']",KMF,Hyundai
+GRAND STAREX,"['^WVH.*$', '^W.*$', '^WB.*7J$', '^WBX.*$', '^WBX7K.*$', '^WBX7.*$', '^WBH7.*$', '^WVH7.*$']",KMF,Hyundai
+HD 65,"['^GA17F.*$', '^GE17F.*$', '^G.*17F$']",KMF,Hyundai
+ELANTRA,['^LA18K.*$'],KMF,Hyundai
+GENESIS,"['^GA.*$', '^GA1.*$', '^GA17C.*$']",KMF,Hyundai
+GRACE,"['^FD27B.*$', '^FD37.*$', '^FD37B.*$', '^FD27.*$']",KMF,Hyundai
+H 100 VAN,['^XKD7.*$'],KMF,Hyundai
+STAREX,"['^WVH7H.*$', '^WBH7H.*$']",KMF,Hyundai
+HD 46,['^JA17B.*$'],KMF,Hyundai
+PICK UP,['^XKN7B.*$'],KMF,Hyundai
+MIGHTY,['^HA17G.*$'],KMF,Hyundai
+SONATA HYBRID,['^E.*$'],KMF,Hyundai
+STARIA,['^Y.*X71$'],KMF,Hyundai
+ACCENT,"['^CT5.*$', '^CO5.*H$', '^CG4.*$', '^CT51B.*$', '^CM3.*C$', '^C751.*$', '^VF1.*$', '^VF2.*$', '^C76.*$', '^CF3.*$', '^C14.*$', '^CN3.*C$', '^CU4.*$', '^VA21N.*$', '^CT41.*$', '^CE4.*$', '^CT41B.*$', '^CF21.*$', '^C.*$', '^CU5.*$', '^CN4.*$', '^C851.*$', '^VF31.*$', '^C.*51D$', '^CH51.*$', '^C65L.*$', '^CH41.*$', '^CC4.*$', '^CT4AE.*$', '^CM41.*$', '^CG41.*$', '^CL41.*$', '^CT4.*$', '^CM4.*$', '^CS51.*$', '^CS41.*$', '^CG51.*$', '^CT5AE.*$', '^VA2.*$', '^CN45C.*$', '^CG35.*$']",KMH,Hyundai
+(GRANDEUR),['^FC41B.*$'],KMH,Hyundai
+VENUE,"['^RB8.*3$', '^RC8.*3$', '^RB813.*$', '^R.*3$']",KMH,Hyundai
+IONIQ 5,"['^KL81.*$', '^KN81.*$', '^KR81.*$', '^KL81A.*$', '^K.*81A$']",KMH,Hyundai
+SONATA HYBRID,"['^E34.*$', '^EZ4.*$', '^E541.*$', '^E24L1.*$', '^EC4.*$', '^BF31.*$', '^L34.*2$', '^ECA.*$', '^E36.*$', '^.*1J$', '^EU4.*$', '^E.*$', '^EB1.*$', '^EC4A4.*$', '^ECU.*$', '^E34L1.*$', '^EP41.*$', '^ET4.*$', '^WF25.*$', '^L34.*J$', '^E04.*$', '^L64.*$', '^EC41C.*$', '^EB41.*$', '^L24.*$', '^EB51.*$', '^L14.*$', '^E34L3.*$', '^E24.*$', '^EN41.*$', '^L24.*J$', '^EA41.*$', '^EM41.*$', '^E.*1$']",KMH,Hyundai
+ALL OF YOU,['^BU51D.*$'],KMH,Hyundai
+ASLAN,['^FM411.*$'],KMH,Hyundai
+ATOS,"['^AH51.*$', '^A.*$', '^AB51.*$', '^AC51.*$']",KMH,Hyundai
+AVANTE,"['^D.*$', '^LN4A.*$', '^JW3.*$', '^LS4A.*$', '^DG41.*$', '^HM66D.*$', '^JF3.*$', '^DGH1.*$', '^DM4.*$', '^L34.*$', '^DB51.*$', '^DG61.*$', '^DR4.*$', '^JF2.*$', '^DJ41.*$', '^D25L.*$', '^LC81.*$', '^D.*E$', '^LB41.*$', '^B.*$', '^DN5.*$', '^DU41.*$', '^D251.*$', '^D841.*$', '^LR41.*$', '^DH61.*$', '^DT41.*$', '^DN4.*$', '^D64.*$', '^LR41J.*$', '^DC8.*E$', '^D04.*$', '^DB81.*$', '^HM6.*D$', '^DH4.*E$', '^L24.*$', '^BT51.*$', '^DC81.*$', '^D351.*$', '^DH4.*$', '^LM4.*$', '^LL41.*$', '^LN4.*$', '^DG4.*$', '^DN41.*$', '^DU4.*$', '^D74.*$', '^DC51.*$', '^LC41.*$', '^LM4A.*$', '^EN41.*$', '^DG41D.*$', '^DC41.*$', '^DT4.*$']",KMH,Hyundai
+ELANTRA,"['^D741C.*$', '^D.*41B$', '^LW4AK.*$', '^D84LF.*$', '^JF31K.*$', '^DH6A.*$', '^DN45D.*$']",KMH,Hyundai
+AVANTE XD,"['^DN41.*$', '^DN41A.*$', '^D.*41A$']",KMH,Hyundai
+AVANTE N,['^LW41K.*$'],KMH,Hyundai
+AVANTE SPORT,['^DR41B.*$'],KMH,Hyundai
+GRANDEUR,"['^FA41.*$', '^F24.*$', '^FC4.*$', '^FB41.*$', '^FF41.*$', '^F34.*$', '^FT41.*$', '^FU4.*$', '^F441.*$', '^F.*$', '^FG4.*$', '^FZC.*B$', '^F141.*$', '^F641.*$', '^F541.*$', '^FH4.*$', '^FK41.*$']",KMH,Hyundai
+CASPER,['^B1518.*$'],KMH,Hyundai
+CLICK,['^BU51A.*$'],KMH,Hyundai
+KONA ELECTRIC,"['^K.*$', '^K181.*$', '^KR8.*A$', '^K.*81E$', '^KN81.*$', '^K281.*$', '^K381G.*$', '^K381.*$', '^KM81.*$', '^K581.*$']",KMH,Hyundai
+COUPE,"['^HM61.*$', '^HM6.*D$', '^H.*61D$', '^HN6.*$', '^HN6.*F$']",KMH,Hyundai
+DYNASTY,['^XF31T.*$'],KMH,Hyundai
+ELANTRA GLS,['^DN450.*$'],KMH,Hyundai
+ELANTRA GT,"['^D25L.*$', '^D35L.*$']",KMH,Hyundai
+GENESIS,"['^GC4.*$', '^G.*$', '^GL41.*$', '^G341.*$', '^G241.*$', '^GU41.*$', '^GN4.*$', '^GT41.*$', '^GM41.*$', '^GE41.*$', '^HU6.*$', '^GH41.*$', '^GD41.*$', '^GB41.*$', '^HT6.*$', '^GL41D.*$', '^GF31.*$', '^GA41.*$']",KMH,Hyundai
+EQUUS,['^GH4J.*$'],KMH,Hyundai
+VELOSTER,"['^TH6.*B$', '^TC6.*$', '^TG6.*F$', '^TE61.*$', '^T.*$']",KMH,Hyundai
+GENESIS COUPE,"['^HU6K.*$', '^HT6K.*$']",KMH,Hyundai
+GRAND SANTA FE MAXCRUZ,"['^SN81X.*$', '^S.*81X$', '^SR81X.*$']",KMH,Hyundai
+GRAND STAREX,['^W.*81K$'],KMH,Hyundai
+GRANDEUR HYBRID,"['^FG413.*$', '^F.*413$']",KMH,Hyundai
+GRANDEUR XG,['^FV41C.*$'],KMH,Hyundai
+H1,"['^W.*$', '^WG81.*$', '^WH81.*$', '^WA37.*$', '^W341.*$']",KMH,Hyundai
+I40,['^LB81U.*$'],KMH,Hyundai
+I40SALOON,['^LB41U.*$'],KMH,Hyundai
+IONIQ ELECTRIC,"['^C751H.*$', '^C.*51H$']",KMH,Hyundai
+TRAJET,"['^M.*81C$', '^M.*$', '^M54.*$']",KMH,Hyundai
+IONIQ HYBRID,"['^C75.*$', '^C65LC.*$', '^CB5.*C$', '^CO5.*C$', '^C65L.*$', '^C.*5LD$', '^C85.*$', '^C05.*$', '^C81.*C$', '^C.*51C$', '^C74.*C$', '^C.*$']",KMH,Hyundai
+IONIQ PLUG-IN,['^C951D.*$'],KMH,Hyundai
+LENTRA,['^JF31R.*$'],KMH,Hyundai
+MATRIX,"['^PM81.*$', '^PN81.*$']",KMH,Hyundai
+XG 350,['^FU41D.*$'],KMH,Hyundai
+PALISADE,"['^R381.*$', '^R.*$']",KMH,Hyundai
+SANTA FE,"['^SU81.*$', '^SM81.*$', '^SH81.*$', '^SN81.*$', '^SJ81.*$', '^SG81.*$', '^ST81.*$']",KMH,Hyundai
+SANTA FE (07MY-),['^SH81B.*$'],KMH,Hyundai
+SANTAFE,"['^SUB1.*$', '^SB81.*$', '^S281.*$', '^SJ81.*$', '^SH8.*$', '^SW81.*$', '^S381.*$', '^S.*$', '^SC81.*$', '^S58.*$']",KMH,Hyundai
+SONATA,"['^WF35H.*$', '^E241C.*$']",KMH,Hyundai
+SONATA PLUG-IN,['^E.*4L2$'],KMH,Hyundai
+STAREX,['^WP81H.*$'],KMH,Hyundai
+STARIA,['^YA811.*$'],KMH,Hyundai
+STARIA LOUNGE,['^YB811.*$'],KMH,Hyundai
+TERRACAN,['^NM81.*$'],KMH,Hyundai
+TUCSON,"['^JN81.*$', '^J581.*$', '^JG21.*$', '^J28.*$', '^JT8.*$', '^JW21.*$', '^JT81E.*$', '^JF31.*$', '^JU81.*$', '^JB81.*$', '^J381.*$', '^JC81.*$', '^JM8.*$', '^J181.*$', '^JTB.*$', '^JW81.*$', '^J781.*$', '^JE81.*$', '^JP81.*$', '^JG3.*$', '^JC811.*$']",KMH,Hyundai
+VELOSTER N,['^T36.*H$'],KMH,Hyundai
+VERACRUZ,"['^NT81.*$', '^N.*$']",KMH,Hyundai
+XG / AZERA,['^FJ31K.*$'],KMH,Hyundai
+XG350,['^FU45E.*$'],KMH,Hyundai
+YOUR SWORD,['^EK364.*$'],KMH,Hyundai
+AERO CITY,"['^TG18V.*$', '^.*18V$']",KMJ,Hyundai
+STAREX,"['^WWH7.*$', '^WWH.*$']",KMJ,Hyundai
+COUNTY,"['^HD17.*$', '^HG17.*$']",KMJ,Hyundai
+EIRO600,['^TG18U.*$'],KMJ,Hyundai
+GRACE,"['^FD37.*$', '^FD27.*$']",KMJ,Hyundai
+GRAND STAREX,"['^WVH.*$', '^W.*$', '^WAH7.*$', '^WS37.*$', '^WA37K.*$', '^WA.*7J$', '^WWH.*$', '^WA37.*$', '^WVH7.*$', '^WSH7.*$']",KMJ,Hyundai
+H1,['^WA37R.*$'],KMJ,Hyundai
+KONA ELECTRIC,"['^K.*$', '^KJ18.*$']",KMJ,Hyundai
+AVANTE,['^WWH7B.*$'],KMJ,Hyundai
+PALISADE,['^RD37B.*$'],KMJ,Hyundai
+SANTAFE,['^S.*$'],KMJ,Hyundai
+SONATA HYBRID,['^E.*$'],KMJ,Hyundai
+STARIA,['^Y.*371$'],KMJ,Hyundai
+WITHOUT ENGINE,['^SG18R.*$'],KMJ,Hyundai
+AFE,['^HD004.*$'],KMT,Komatsu
+D155A6,['^0D105.*$'],KMT,Komatsu
+D155A2,['^0D038.*$'],KMT,Komatsu
+D155AX6,['^0D074.*$'],KMT,Komatsu
+D375A5,['^0D050.*$'],KMT,Komatsu
+D85P BULLDOZER,['^0D055.*$'],KMT,Komatsu
+EXCAVATOR,"['^PC2.*6$', '^PC0.*$']",KMT,Komatsu
+G70,"['^G.*$', '^G64.*$', '^FN4J.*$', '^G34.*$', '^G44.*$', '^G34.*A$', '^G54.*E$']",KMT,Komatsu
+G80,"['^FN4J.*$', '^GB4.*C$']",KMT,Komatsu
+G90,['^F34JA.*$'],KMT,Komatsu
+GD705A4,['^GD019.*$'],KMT,Komatsu
+GD555,['^GD008.*$'],KMT,Komatsu
+GD7555R,['^GD029.*$'],KMT,Komatsu
+GRAND STAREX,['^WA1.*8$'],KMT,Komatsu
+GV60,['^KE81B.*$'],KMT,Komatsu
+GV70,['^MA81.*$'],KMT,Komatsu
+HM 400,"['^HM00.*$', '^HM013.*$', '^HM0.*$', '^H.*$']",KMT,Komatsu
+HD 325,['^HD0.*$'],KMT,Komatsu
+HM4002,['^HM007.*$'],KMT,Komatsu
+KOMATSU PC400,['^PC184.*$'],KMT,Komatsu
+KONA ELECTRIC,['^KZ4BX.*$'],KMT,Komatsu
+KR25H,['^NA095.*$'],KMT,Komatsu
+PC2207,"['^PC054.*$', '^PC.*54$']",KMT,Komatsu
+PC4008,['^PC196.*$'],KMT,Komatsu
+PC 50 EXCAVATOR,['^PC094.*$'],KMT,Komatsu
+PC300,"['^PC.*$', '^PC065.*$', '^PC0.*$']",KMT,Komatsu
+PC200 7,['^PC049.*$'],KMT,Komatsu
+PC210,['^PC1.*0$'],KMT,Komatsu
+PC3008M0,['^PC247.*$'],KMT,Komatsu
+PC4007,['^PC086.*$'],KMT,Komatsu
+PC600 7,['^PC090.*$'],KMT,Komatsu
+STAREX,['^WB002.*$'],KMT,Komatsu
+WA470,"['^WA0.*$', '^WA04.*$']",KMT,Komatsu
+WA 420,['^WA036.*$'],KMT,Komatsu
+WA150,['^WA051.*$'],KMT,Komatsu
+WA3203,['^WA027.*$'],KMT,Komatsu
+WA3803,['^WA031.*$'],KMT,Komatsu
+WA 380,['^WA032.*$'],KMT,Komatsu
+WA380Z6,"['^WA095.*$', '^WA09.*$', '^WA.*95$']",KMT,Komatsu
+WA4306,['^WA091.*$'],KMT,Komatsu
+WA4703,['^WA042.*$'],KMT,Komatsu
+WA4705,['^WA098.*$'],KMT,Komatsu
+WA5006,['^WA109.*$'],KMT,Komatsu
+WD5003,['^WD002.*$'],KMT,Komatsu
+GALLOPER,['^K.*L1J$'],KMX,Hyundai
+JOICE,['^MTS1N.*$'],KMX,Hyundai
+KIA,['^MT.*N$'],KMX,Hyundai
+KONA ELECTRIC,"['^KPE.*$', '^KNE1.*$']",KMX,Hyundai
+SANTAMU,['^MSE1P.*$'],KMX,Hyundai
+SSANTAMO,['^MSE1S.*$'],KMX,Hyundai
+GALENT,['^S.*EA2$'],KMY,Mitsubishi
+GRANDIS,['^LRNA4.*$'],KMY,Mitsubishi
+LANCER,"['^STC.*$', '^S.*$', '^SNC.*1$']",KMY,Mitsubishi
+PAJERO,['^LRV.*3$'],KMY,Mitsubishi
+SANTAMU,['^MS17.*$'],KMY,Mitsubishi
+SQ125,['^SA4BL.*$'],KMY,Mitsubishi
+BUS,['^FAD3B.*$'],KN2,KIA
+K5 HYBRID,['^GAD32.*$'],KN2,KIA
+RIO,"['^D.*3$', '^DAM.*$', '^D.*$']",KN2,KIA
+PRESIO GRAND,['^DNM93.*$'],KN2,KIA
+TOPIC VAN,['^FAJ2A.*$'],KN2,KIA
+BONGO 3,"['^HAP.*3$', '^HNP.*$', '^HNP6.*$', '^HNP6N.*$', '^H.*$', '^HNP6D.*$']",KN3,Kia
+PREGIO,['^HNS53.*$'],KN3,Kia
+BONGO,['^HAP53.*$'],KN3,Kia
+NON-ENTRANCE,['^JAX55.*$'],KN3,Kia
+SOUL,['^JAP3S.*$'],KN3,Kia
+OPIRUS,"['^LD22.*$', '^LD12.*$']",KNA,Kia
+AVANTE,['^G6412.*$'],KNA,Kia
+AVILA,['^DB222.*$'],KNA,Kia
+MORNING,"['^.*1$', '^B191.*$', '^BZ51.*$', '^BD51.*$', '^BAZ.*$', '^BX5.*$', '^BA24.*$', '^BA243.*$', '^BE51.*$', '^B251.*$', '^B351.*$', '^B651.*$', '^BJ51.*$', '^B551.*$', '^BK51.*$']",KNA,Kia
+K7,"['^LN4.*$', '^LL41.*$', '^LA41.*$', '^LB4.*$', '^LW4.*$', '^LM41.*$', '^LB41.*$', '^L.*$', '^LG41.*$', '^LC4.*$']",KNA,Kia
+K3,"['^FU61.*$', '^FZ6.*$', '^F14.*$', '^FE2.*$', '^FU41.*$', '^FH22.*$', '^FZ5.*$', '^FW6.*$', '^FT4.*$', '^FE24.*$', '^FT51.*$', '^F241.*$', '^FM41.*$', '^FT61.*$', '^FU4.*$', '^FJ41.*$', '^F.*$', '^HU81.*$', '^FZ4.*$', '^F341.*$', '^FX4.*$', '^FF22.*$', '^FK4.*$', '^FW4.*$', '^FX6.*$', '^FA22.*$', '^FJ4.*$', '^FE22.*$', '^FX5.*$', '^F541.*$', '^FB22.*$', '^FU6.*$']",KNA,Kia
+CARNIVAL,"['^MB81.*$', '^NE81.*$', '^NB81.*$', '^MC81.*$', '^MB81A.*$', '^MB7.*$', '^UP7.*$', '^MA75.*$', '^MG81.*$']",KNA,Kia
+CLARUS,['^GC229.*$'],KNA,Kia
+DELTA,['^DB241.*$'],KNA,Kia
+EV6,"['^C581.*$', '^C281.*$', '^C381.*$']",KNA,Kia
+CERATO,['^FE227.*$'],KNA,Kia
+FORTE,"['^FU4A2.*$', '^FU.*A2$']",KNA,Kia
+K 900,['^LT4D3.*$'],KNA,Kia
+K5 HYBRID,"['^HT81.*$', '^G.*$', '^GN1.*$', '^G341.*$', '^G141.*$', '^HG81.*$', '^GTAL.*$', '^GR4.*6$', '^GU4L.*$', '^FC52.*$', '^GMA.*$', '^GX41.*$', '^GV4.*$', '^GB22.*$', '^GW4.*$', '^GMU.*$', '^GE12.*$', '^HG8C.*$', '^F241.*$', '^HH81.*$', '^GG4.*$', '^GD22.*$', '^G541.*$', '^GE22.*$', '^GU41.*$', '^G241.*$', '^GN4.*$', '^GS41.*$', '^GH4.*$', '^HU81.*$', '^FG52.*$', '^G41.*B$', '^GD12.*$', '^GM4.*$', '^HU8.*$', '^GC2.*$', '^GT4L.*$', '^GT41.*$', '^GM41.*$', '^GN41.*$', '^GT4.*$', '^HH8.*$']",KNA,Kia
+K8 HYBRID,['^M2411.*$'],KNA,Kia
+QUORIS,"['^L.*412$', '^LU4D.*$', '^LW4.*$']",KNA,Kia
+CARENS,['^HT815.*$'],KNA,Kia
+LOTZE,['^GE225.*$'],KNA,Kia
+OPTIMA,"['^GE22.*$', '^GM4A7.*$']",KNA,Kia
+SORENTO,"['^K.*$', '^PK81.*$', '^KT81.*$', '^KN81.*$', '^PG81.*$', '^PS81.*$', '^RL81.*$', '^RJ81.*$', '^PH81.*$', '^RF81.*$', '^RK81.*$', '^KM81.*$', '^RG81.*$', '^RM81.*$', '^KU81.*$', '^PF81.*$', '^RH81.*$', '^JC52.*$']",KNA,Kia
+MOHAVE,['^K.*814$'],KNA,Kia
+NIRO EV,['^CC81G.*$'],KNA,Kia
+NIRO HYBRID,"['^CN4.*$', '^CK81.*$', '^CC81.*$', '^CE8.*C$', '^CG81.*$', '^CCB1.*$', '^CB81.*$', '^CD81.*$', '^C.*$', '^CT81.*$', '^C.*81D$']",KNA,Kia
+NIRO HYBRID PHEV,['^CB81D.*$'],KNA,Kia
+NIRO PLUS,['^A381G.*$'],KNA,Kia
+NUBIRA,['^JF69V.*$'],KNA,Kia
+OPTIMA HYBRID,"['^GM4AD.*$', '^GV4LD.*$']",KNA,Kia
+PICANTO,['^BX512.*$'],KNA,Kia
+RIO,"['^DH4.*$', '^D.*$', '^DM5.*$', '^DR51.*$', '^D.*3$', '^DC1.*$', '^DE2.*$', '^DG41.*$', '^DH5.*$', '^DC2.*$', '^DN5.*$', '^DE123.*$', '^DG2.*$', '^DE1.*3$', '^DN4.*$', '^DM4.*$']",KNA,Kia
+PRIDE HYBRID,['^DE22A.*$'],KNA,Kia
+STINGER,"['^E55.*C$', '^E35.*$', '^E.*$', '^E15.*$', '^E25.*$', '^EP81.*$']",KNA,Kia
+SPORTAGE,"['^J281.*$', '^KH81.*$', '^JN81.*$', '^PE81.*$', '^PV81.*$', '^PB81.*$', '^JT81.*$', '^J.*1$', '^PL81.*$', '^JE5.*$', '^P.*$', '^J.*$', '^JU81.*$', '^P681.*$', '^JX81.*$', '^PC81.*$', '^J381.*$', '^JA5.*$', '^PP81.*$', '^JW81.*$', '^JP81.*$', '^PN81.*$', '^JG5.*$']",KNA,Kia
+SEVIA,"['^FA222.*$', '^FB222.*$']",KNA,Kia
+SPECTRA,"['^FB1.*$', '^FB.*$', '^FA2.*$', '^FE1.*$', '^FB246.*$', '^DC22.*$', '^FB2.*$', '^FE22.*$', '^F.*$', '^FE16.*$', '^FB22.*$', '^GD12.*$']",KNA,Kia
+SOUL,['^JG5.*1$'],KNA,Kia
+STONIC,"['^DB815.*$', '^DC815.*$']",KNA,Kia
+PICANTO,['^.*X512$'],KNB,Kia
+K4000,"['^WJ.*72$', '^WJ272.*$']",KNC,Kia
+4X2,['^SB111.*$'],KNC,Kia
+BESTA6G,"['^TA286.*$', '^TA2.*6$']",KNC,Kia
+BONGO 3,"['^SJY7.*$', '^WJZ7.*$', '^SGY7.*$', '^SJZ7.*$', '^S.*4$', '^SJZ7N.*$', '^SJZ76.*$', '^SE0.*4$']",KNC,Kia
+PREGIO,"['^T.*$', '^TB2.*$']",KNC,Kia
+K 2700,"['^SD0.*1$', '^SD9.*1$', '^SE9.*1$', '^SE0.*1$', '^SE961.*$']",KNC,Kia
+K2500,['^WB811.*$'],KNC,Kia
+BORREGO,"['^JJ74.*$', '^JH74.*$']",KND,KIA
+ENTOURAGE,['^MC233.*$'],KND,KIA
+NIRO,"['^C34L.*$', '^CR3L.*$', '^CT3L.*$', '^CC3L.*$', '^CB3LC.*$', '^C.*$']",KND,KIA
+NIRO PLUG-IN HYBRID,['^C.*3LD$'],KND,KIA
+SEDONA,"['^MH4C.*$', '^MG4C.*$', '^UP13.*$']",KND,KIA
+SELTOS,"['^E.*$', '^EUCA.*$']",KND,KIA
+SORENTO,"['^JD73.*$', '^JC73.*$']",KND,KIA
+SORENTO HYBRID,['^R.*LG$'],KND,KIA
+SORENTO PLUG-IN HYBRID,['^R.*DLH$'],KND,KIA
+SOUL,"['^JX3A.*$', '^JP3A5.*$', '^J53A.*$', '^JT2A.*$', '^J.*$']",KND,KIA
+SPORTAGE,"['^PB3AC.*$', '^PBCA.*$', '^PCCA.*$', '^PB3A.*$', '^JF72.*$', '^J.*723$', '^JE723.*$', '^KG3A.*$', '^PB3A2.*$', '^PC3A.*$']",KND,KIA
+SPORTAGE HYBRID,['^P.*CAG$'],KND,KIA
+CARNIVAL,['^MB752.*$'],KNE,Kiamoters
+CERATO,['^FE227.*$'],KNE,Kiamoters
+SHUMA,"['^FB2.*$', '^F.*$', '^FA22.*$', '^FB2.*2$']",KNE,Kiamoters
+MORNING,['^BA243.*$'],KNE,Kiamoters
+OPIRUS,['^LD225.*$'],KNE,Kiamoters
+OPTIMA,['^GD222.*$'],KNE,Kiamoters
+RIO,"['^D.*$', '^DC24.*$']",KNE,Kiamoters
+BONGO 3,"['^STX7.*$', '^STZ7.*$']",KNF,Kia
+K3,['^FD37B.*$'],KNF,Kia
+K5 HYBRID,['^GA17B.*$'],KNF,Kia
+MORNING,['^A.*411$'],KNF,Kia
+NIRO,['^C.*$'],KNF,Kia
+SPECTRA,['^FB226.*$'],KNF,Kia
+BONGO 3,"['^D.*$', '^DPM5.*$', '^D.*N$']",KNG,Kia
+BRIGGO,['^DPM53.*$'],KNG,Kia
+PREGIO,"['^D.*3$', '^DNM93.*$']",KNG,Kia
+SEVIA,['^FA222.*$'],KNG,Kia
+BASTA 12,['^TP736.*$'],KNH,Kia
+MORNING,"['^TR731.*$', '^.*1$']",KNH,Kia
+CARNIVAL,"['^UP75.*$', '^MB76.*$', '^NB37.*$']",KNH,Kia
+GETZ,['^BT51B.*$'],KNH,Kia
+GRAND CARNIVAL,['^MD376.*$'],KNH,Kia
+NIRO,"['^C.*$', '^CG41.*$', '^CT4.*$']",KNH,Kia
+NIRO HYBRID,['^C.*51C$'],KNH,Kia
+NITRA,['^DG41E.*$'],KNH,Kia
+PREGIO,['^TS732.*$'],KNH,Kia
+RIO,['^D.*$'],KNH,Kia
+SELTOS,"['^E.*$', '^EC4.*$']",KNH,Kia
+SHUMA,['^FB241.*$'],KNH,Kia
+SM3 ZE,['^C4C2H.*$'],KNH,Kia
+SOUL,['^J.*$'],KNH,Kia
+SPECTRA,['^FB226.*$'],KNH,Kia
+SUNNY,['^CC42H.*$'],KNH,Kia
+VERACRUZ,['^NU81C.*$'],KNH,Kia
+SUNNY,"['^CC42H.*$', '^CC42.*$']",KNM,Nissan
+QM6,['^E5C2.*$'],KNM,Nissan
+ROGUE,['^AT2M.*$'],KNM,Nissan
+SM3 ZE,"['^C4C2H.*$', '^C4Z2Z.*$', '^C4B2.*$', '^C4Z.*$', '^C4.*$', '^C4C.*$']",KNM,Nissan
+SAFRANE,"['^G4D2J.*$', '^A4.*$', '^A4C2B.*$']",KNM,Nissan
+TWIZY,['^J2Z2Z.*$'],KNM,Nissan
+XM3,['^K5C2H.*$'],KNM,Nissan
+140 MB,"['^66122.*$', '^6612.*$']",KPA,Ssangyong
+ACTYON,['^CE4AB.*$'],KPA,Ssangyong
+KORANDO SPORTS,"['^.*A4AE$', '^CA4A.*$']",KPA,Ssangyong
+REXTON SPORTS,['^DA4AE.*$'],KPA,Ssangyong
+CHAIRMAN,['^P1C1.*$'],KPT,Ssangyong
+KORANDO,['^L2C19.*$'],KPT,Ssangyong
+KYRON,['^S.*A16$'],KPT,Ssangyong
+MUSSO,"['^E0B1.*$', '^E5B1.*$']",KPT,Ssangyong
+REXTON,['^.*B19$'],KPT,Ssangyong
+MOTORBIKE,['^HEJLH.*$'],L5C,Motorbike
+ATA-250D,['^A.*$'],L5N,taotao
+TAIZHOU ZHONGNENG MOTORCYCLE CO,['^TCKPA.*$'],L5Y,Znen
+EMGRANDVEV,"['^776.*$', '^7722D.*$', '^7.*$', '^784.*Z$']",L6T,Geely
+CK,['^7524S.*$'],L6T,Geely
+EC 7,['^7844Z.*$'],L6T,Geely
+EMGRAND,"['^776.*$', '^7844.*$', '^7762Z.*$']",L6T,Geely
+TIGGO,['^7524Z.*$'],L6T,Geely
+C-CLASS,"['^WF4.*B$', '^WF6.*B$', '^WF4KB.*$', '^WF8.*B$']",55S,Mercedes-Benz
+EC8,['^7964Z.*$'],LB3,Geely
+EMGRANDVEV,"['^7.*22Z$', '^7.*Z$']",LB3,Geely
+EX 7,"['^77.*Z$', '^7762Z.*$']",LB3,Geely
+GC6,['^762WZ.*$'],LB3,Geely
+GX 2,['^7422Z.*$'],LB3,Geely
+TNT 15,"['^PEKWB.*$', '^PEKW.*$']",LBB,Benelli
+ELANTRA,['^HDALA.*$'],LBE,Hyundai
+KONA,['^3SBXC.*$'],LBE,Hyundai
+LAFESTA,['^S6AXD.*$'],LBE,Hyundai
+MOTORBIKE,"['^KE095.*$', '^KE1.*$', '^KE130.*$']",LBP,Yamaha
+F0,"['^C1.*$', '^C14.*A$', '^CE4.*$', '^C.*$', '^C14AA.*$']",LC0,BYD
+DOLPHIN,['^CE4CC.*$'],LC0,BYD
+E2,['^CE4DC.*$'],LC0,BYD
+HAN,['^CE6C.*$'],LC0,BYD
+YUAN PLUS,"['^CE4CB.*$', '^CE4.*B$', '^CE4DB.*$']",LC0,BYD
+450L,['^LDSZD.*$'],LCE,CF
+CF625 600CC,['^LDUZ2.*$'],LCE,CF
+CHUNFENG HOLDING GROUP HANGZHOU MOTORCYC,['^LV1ZG.*$'],LCE,CF
+DESERT BUGGY,['^LV1Z1.*$'],LCE,CF
+DESERT BUGGY 550 CC,['^LDTZ7.*$'],LCE,CF
+MOTO,"['^L.*$', '^LVYZ.*$', '^LDUS3.*$']",LCE,CF
+MOTO CF150C,['^PDKL6.*$'],LCE,CF
+MOTO CF650,['^PEVL2.*$'],LCE,CF
+408,['^4L.*$'],LDC,Peugeot
+ES600,['^D730E.*$'],LDC,Peugeot
+FZ6750X,['^01B02.*$'],LDD,Sunlong
+DN6492C3,['^E70YH.*$'],LDN,DELICA
+GMC,['^YECA2.*$'],LET,JMC
+PICK UP,"['^AEA.*$', '^AFC.*2$', '^AECG.*$', '^YEA.*$', '^AFA.*$', '^.*2$', '^AFCG2.*$', '^A.*AA1$', '^ADPD1.*$', '^AFAG2.*$']",LET,JMC
+NKR,"['^AFA.*$', '^AEA.*$', '^AEC.*2$']",LET,JMC
+ID-4,['^VB9E6.*$'],LEV,Volkswagen
+BESTURN X80,['^GE306.*$'],LFB,Volkswagen
+HQ-15,['^1FV69.*$'],LFB,Volkswagen
+BZ4X,['^KP14T.*$'],LFM,Toyota
+COROLLA,['^A.*C$'],LFM,Toyota
+EXPLORER,['^EU73E.*$'],LFM,Toyota
+IZOA,['^CA1CX.*$'],LFM,Toyota
+BESTURN B50,['^8.*ACC$'],LFP,Volkswagen
+OLEY,['^83A.*$'],LFP,Volkswagen
+ID.4,"['^.*B9E6$', '^VB9E6.*$']",LFV,Volkswagen
+BORA,['^NA90K.*$'],LFV,Volkswagen
+BORA1.5L AT FASHION VERSION MY208,['^2A215.*$'],LFV,Volkswagen
+C-TREK1.5L AT COMFORT,['^2B215.*$'],LFV,Volkswagen
+E-GOLF,['^NB9AU.*$'],LFV,Volkswagen
+GOLF SPORTSVAN 1.4T 280TSI AT SPECIAL I,['^2B20S.*$'],LFV,Volkswagen
+ID.6,"['^VB9E7.*$', '^.*B9E7$']",LFV,Volkswagen
+Q2 E-TRON,['^NB9GA.*$'],LFV,Volkswagen
+T-ROC 2018 230TSI ,['^2B2A1.*$'],LFV,Volkswagen
+PICK,['^J2LD8.*$'],LFW,Volkswagen
+SYLPHY,['^H1YEA.*$'],LGB,Nissan
+TEANA,['^F5AE0.*$'],LGB,Nissan
+12DK,['^N1217.*$'],LGH,DFSK
+FENG HIGH MAX,['^GLMYK.*$'],LGH,DFSK
+MINI TRUCK,['^K121A.*$'],LGH,DFSK
+CC 1021AR,['^CA21A.*$'],LGW,Great
+H2,['^EE4A4.*$'],LGW,Great
+WALL PICKUP,"['^CA237.*$', '^CAZ.*7$', '^CA2.*$', '^DB31.*$', '^CB3.*$']",LGW,Great
+WALL FLORID,['^ED2A3.*$'],LGW,Great
+E5,['^CE6DB.*$'],LGX,BYD
+F0,"['^C14.*A$', '^C14AA.*$', '^C14DA.*$']",LGX,BYD
+F3,"['^C16.*$', '^CG6DF.*$', '^C.*6DF$', '^C.*$']",LGX,BYD
+QIN PLUS,['^CE6CB.*$'],LGX,BYD
+SEAGULL,['^CE4CC.*$'],LGX,BYD
+SEAL,['^CH6CB.*$'],LGX,BYD
+SONG PLUS,['^CE4CB.*$'],LGX,BYD
+3,['^7C.*F$'],LH1,Mazda
+FAMILY,['^FG71K.*$'],LH1,Mazda
+PICK UP,['^M3HDE.*$'],LHB,BAW
+E:NP1,"['^RS289.*$', '^RS28.*$', '^RS287.*$']",LHG,Honda
+S5,['^2EKS4.*$'],LJ1,JAC
+1216,['^1KCBC.*$'],LJ1,JAC
+DRAGON BUS,['^7ZE4V.*$'],LJ1,JAC
+E10X,['^EEKPP.*$'],LJ1,JAC
+FZ6750X,['^6AR5D.*$'],LJ1,JAC
+HFC1036K1,['^1KBAC.*$'],LJ1,JAC
+CPQY30,['^66A34.*$'],LJ1,JAC
+S3,"['^2EK.*$', '^2.*$', '^2EKR2.*$', '^2.*KR2$']",LJ1,JAC
+HFC1055K,['^1KEBD.*$'],LJ1,JAC
+J5,['^2FKS3.*$'],LJ1,JAC
+J6,"['^2EK.*3$', '^2EKS3.*$']",LJ1,JAC
+M1,['^6AA33.*$'],LJ1,JAC
+SUNRAY,['^.*C$'],LJ1,JAC
+Y41L0,['^8R3BL.*$'],LJ1,JAC
+POWER RAM 2500,['^PCBLC.*$'],LJC,Dodge
+K3,['^3AA2F.*$'],LJD,Kia
+PEGAS,['^0AA29.*$'],LJD,Kia
+BUS,"['^R1DS.*$', '^R1FS.*$', '^R1KS.*$']",LKL,Mazda
+KLQ6111,['^A1H1F.*$'],LKL,Mazda
+KLQ6119TB,['^R1FSD.*$'],LKL,Mazda
+LONG CARGO,"['^SBAS3.*$', '^SBA.*3$']",LKL,Mazda
+YZK1021E,['^A52B0.*$'],LL6,Yangzi
+2,['^ED3KA.*$'],LPS,Polestar
+POLESTAR2,['^V.*E$'],LPS,Polestar
+BUGGY,['^70320.*$'],LS6,CHANGAN
+CX30,['^A3E03.*$'],LS6,CHANGAN
+EADO,['^A2E0F.*$'],LS6,CHANGAN
+MOTORBIKE,"['^70320.*$', '^70.*20$']",LSG,Chevrolet
+MENLO,['^KL8R2.*$'],LSG,Chevrolet
+SLS,['^DE53A.*$'],LSG,Chevrolet
+XT 5,['^NB83L.*$'],LSG,Chevrolet
+350,"['^A16.*3$', '^A16E.*$', '^A16E3.*$', '^A16E9.*$', '^A24.*$']",LSJ,MG
+ZS,"['^W74.*$', '^W.*9$', '^W54.*3$', '^A16E.*$', '^A24.*$', '^W740.*$', '^W94.*9$']",LSJ,MG
+MG5,"['^A36.*$', '^W74.*$', '^A14.*$', '^W54.*$', '^A36E.*$', '^Z14.*$', '^A16.*$', '^A24.*$', '^A.*$']",LSJ,MG
+750,['^W16N.*$'],LSJ,MG
+750FL,['^W16N6.*$'],LSJ,MG
+ROEWE,['^A2476.*$'],LSJ,MG
+6,['^W5609.*$'],LSJ,MG
+GS,"['^A24W.*$', '^A24W9.*$']",LSJ,MG
+GTCOM,['^A16U3.*$'],LSJ,MG
+MG550,['^W26G3.*$'],LSJ,MG
+MG6,"['^.*6$', '^W26G.*$', '^A24U6.*$', '^W54U.*$', '^W84W9.*$', '^A24.*$']",LSJ,MG
+550D,['^W7409.*$'],LSJ,MG
+ID.4,['^UB6E4.*$'],LSV,Volkswagen
+NEO,"['^FA6E9.*$', '^F.*6E9$']",LSV,Volkswagen
+ID.6,['^2.*6E5$'],LSV,Volkswagen
+LAVIDA,['^A.*60E$'],LSV,Volkswagen
+THARU,['^UZ6B2.*$'],LSV,Volkswagen
+CROSS,['^YDBCA.*$'],LSY,JINBEI
+FSV,"['^YBBCA.*$', '^Y.*BCA$']",LSY,JINBEI
+H 530,['^YBB.*B$'],LSY,JINBEI
+SY6483A3,"['^H.*AAA$', '^HBAAA.*$']",LSY,JINBEI
+HAISE,['^HKAAF.*$'],LSY,JINBEI
+V5,"['^YDB.*B$', '^Y.*B$']",LSY,JINBEI
+ACCORD,"['^CR26.*$', '^CR36.*$', '^C.*$']",LUC,Honda
+BZ4X,"['^.*135$', '^D3135.*$']",LVG,Toyota
+IZOA,['^C819X.*$'],LVG,Toyota
+E:NS1,"['^RS185.*$', '^RS18.*$']",LVH,Honda
+M-NV,"['^DH287.*$', '^DH28.*$', '^DH285.*$']",LVH,Honda
+X-NV,['^DH183.*$'],LVH,Honda
+TW-35,['^HPCHA.*$'],LVS,FORD
+VST-2013GK-2S,['^TG800.*$'],LVS,FORD
+E8,"['^DC24B.*$', '^DC.*4B$']",LVV,Chery
+QQ311,['^DB12A.*$'],LVV,Chery
+E5,"['^DC21B.*$', '^DC2.*B$']",LVV,Chery
+TIGGO,"['^D.*$', '^DB2.*$', '^DB2.*B$', '^D.*B$']",LVV,Chery
+QQ6,['^DC12A.*$'],LVV,Chery
+C 35,['^M.*B$'],LVZ,DFSK
+MINI TRUCK,['^BN21.*$'],LVZ,DFSK
+TOURER,['^SR31B.*$'],LVZ,DFSK
+4254,['^JLNV4.*$'],LZG,Shacman
+SX3257MT384,['^JLMT4.*$'],LZG,Shacman
+CAPTIVA,['^ADAGA.*$'],LZW,Chevrolet
+BUS,"['^TAT.*6$', '^T.*6$']",LZY,Mazda
+ZK6120H,['^TBTD6.*$'],LZY,Mazda
+371,"['^5BXSB.*$', '^5B.*$']",LZZ,Hohan
+380,['^1BXSA.*$'],LZZ,Hohan
+QY50K,['^WMYED.*$'],LZZ,Hohan
+ZZ1255N4646E1,['^PBLNF.*$'],LZZ,Hohan
+371,"['^5BXSB.*$', '^5B.*$']",LZZ,Hohan
+380,['^1BXSA.*$'],LZZ,Hohan
+QY50K,['^WMYED.*$'],LZZ,Hohan
+ZZ1255N4646E1,['^PBLNF.*$'],LZZ,Hohan
+427,['^2246L.*$'],MA3,Suzuki
+BALENO,['^WB5B.*$'],MA3,Suzuki
+CELERIO,['^FC3.*$'],MA3,Suzuki
+ERTIGA,"['^.*A1$', '^ZE8A1.*$', '^.*1$', '^ZE8.*1$']",MA3,Suzuki
+DZIRE,['^ZF6C1.*$'],MA3,Suzuki
+JIMNY,['^JB7D2.*$'],MA3,Suzuki
+SK90QT,['^AF63S.*$'],MA3,Suzuki
+SWIFT,"['^.*1$', '^ZF6.*1$']",MA3,Suzuki
+ECO SPORT,['^BXXMR.*$'],MAJ,Ford
+ECOSPORT,"['^FK1B.*$', '^FK2B.*$', '^HK3.*A$', '^6S3.*L$', '^3P1.*E$', '^FK3B.*$']",MAJ,Ford
+FIGO,"['^TKB.*$', '^TKN.*E$', '^FKBF.*$', '^TJ2.*D$']",MAJ,Ford
+CITY,['^GN26.*$'],MAK,Honda
+CRETA,"['^C38.*C$', '^C281.*$', '^C741.*$', '^C7U1.*$', '^C.*$']",MAL,Hyundai
+I10,"['^AB51.*$', '^A851.*$', '^AN51.*$', '^A.*$', '^AM5.*$', '^AC51.*$']",MAL,Hyundai
+ECOSPORT,['^TK1BA.*$'],MAL,Hyundai
+I20,"['^BC51.*$', '^B.*$']",MAL,Hyundai
+VERONA,['^CH41G.*$'],MAL,Hyundai
+LPO131655,"['^.*8906$', '^38906.*$']",MAT,Tata
+LPO1618,"['^449.*$', '^44925.*$']",MAT,Tata
+1615,['^39500.*$'],MAT,Tata
+LPT613,"['^381.*$', '^381.*2$']",MAT,Tata
+LP613 38,['^3812.*$'],MAT,Tata
+LPT 1313,['^34900.*$'],MAT,Tata
+LPT1615TC,"['^3813.*$', '^37418.*$', '^374.*$', '^381.*2$']",MAT,Tata
+LPT161852,['^44937.*$'],MAT,Tata
+LPT2523,['^47900.*$'],MAT,Tata
+BUS,"['^381.*$', '^38.*$']",MAT,Tata
+PRIMA,['^7350.*$'],MAT,Tata
+PICK UP,['^3740.*$'],MAT,Tata
+XENON,['^464.*$'],MAT,Tata
+LEYLAND FALCON,"['^PAE.*$', '^PBE.*$', '^PAA.*A$', '^PBE.*A$', '^P.*A$']",MB1,Ashok
+LEYLAND LELAND,['^PAAWA.*$'],MB1,Ashok
+LEYLAND OYSTER,['^PAEHD.*$'],MB1,Ashok
+125,['^NF4HG.*$'],MB8,Suzuki
+GSX150FDEA,['^NG4BB.*$'],MB8,Suzuki
+CITY,['^GD662.*$'],MBH,Suzuki
+DZIRE,['^ZF6C1.*$'],MBH,Suzuki
+CRUISER BUS,['^21FFL.*$'],MC2,EICHER
+OB20.15N,['^28NFL.*$'],MC2,EICHER
+PICK UP,"['^21F.*$', '^21.*$']",MC2,EICHER
+SKYLINE,['^R3NL.*$'],MC2,EICHER
+MOTORCYCLE 100,['^DDDZZ.*$'],MD2,Bajaj
+PULSAR,"['^D.*$', '^A12D.*$', '^A11CZ.*$', '^DDD.*$', '^.*Z$', '^DGJM.*$', '^A13E.*$', '^D.*Z$', '^DSJ.*Z$', '^DHDJZ.*$', '^DHD.*Z$', '^DH.*Z$']",MD2,Bajaj
+150 CC,"['^A11CX.*$', '^A11C.*$', '^A12D.*$', '^DHD.*Z$']",MD2,Bajaj
+AVENGER,"['^DGDVZ.*$', '^A22E.*$']",MD2,Bajaj
+MOTORCYCLE PULSAR,['^A12DY.*$'],MD2,Bajaj
+100CT,['^DDDUZ.*$'],MD2,Bajaj
+MICRA,['^AK3.*R$'],MDH,Nissan
+SUNNY,"['^BN7.*$', '^BNTA.*$']",MDH,Nissan
+UNICORN,"['^KC09C.*$', '^KC09.*$', '^KC31.*$', '^KC20.*$', '^KC206.*$', '^KC40.*$', '^KC.*$']",ME4,Honda
+UNICORN 160,['^KC203.*$'],ME4,Honda
+MOTORBIKE,['^JC36P.*$'],ME4,Honda
+SCOOTER,['^JF39.*$'],ME4,Honda
+FORTUNER,"['^YX59G.*$', '^YX5.*$', '^YU59.*$']",MHF,Toyota
+INNOVA,"['^XX43G.*$', '^XX4.*$']",MHF,Toyota
+YARIS,['^.*F3$'],MHF,Toyota
+AVANZA,"['^MC13F.*$', '^MF5.*F$', '^MC1.*F$']",MHK,Toyota
+GRAN MAX,"['^TC31E.*$', '^BC31.*$', '^VC31.*$', '^BC31F.*$']",MHK,Toyota
+RUSH,"['^EF8.*F$', '^EF8BF.*$']",MHK,Toyota
+TERIOS,['^GC21P.*$'],MHK,Toyota
+APV,['^DN7.*$'],MHY,Suzuki
+CBR,['^PC44.*$'],MLH,Honda
+CMX300,['^NC530.*$'],MLH,Honda
+CRF250L,['^MD441.*$'],MLH,Honda
+GROM,['^JC612.*$'],MLH,Honda
+MOTORBIKE,['^MC41A.*$'],MLH,Honda
+2,"['^D.*$', '^DE3.*$']",MM7,Mazda
+PICK UP,"['^UN232.*$', '^UN316.*$', '^UN2.*$']",MM7,Mazda
+B2900,['^UN216.*$'],MM7,Mazda
+BT 50,"['^UN.*$', '^UN23.*$', '^UN236.*$', '^UN2.*$', '^UN3.*6$']",MM7,Mazda
+BT-50,['^UNYOW.*$'],MM7,Mazda
+ATTRAGE,['^STA1.*$'],MMB,Saturn
+L200,"['^ONK6.*$', '^JRKB.*$', '^XTA.*3$', '^MG2.*$', '^JNKB4.*$', '^JNK.*$', '^ENK.*$', '^X.*03$', '^MG3.*$', '^0NK6.*$']",MMB,Saturn
+L200 SPORTERO,"['^J.*KL1$', '^JLKL1.*$']",MMB,Saturn
+LANCER,['^SRCK4.*$'],MMB,Saturn
+PAJERO,['^GRKH9.*$'],MMB,Saturn
+2044,['^02044.*$'],MMC,Saturn
+L200,['^JYKB4.*$'],MMC,Saturn
+MONTERO,"['^MC21.*$', '^M.*$']",MME,Mitsubishi
+PAJERO,['^MU71N.*$'],MME,Mitsubishi
+COLORADO,['^EL3.*P$'],MMM,Chevrolet
+TRAILBLAZER,['^156.*$'],MMM,Chevrolet
+2,['^DE3HY.*$'],MMT,Nissan
+MIRAGE,['^XTA03.*$'],MNB,Mitsubishi
+RANGER,"['^BS316.*$', '^BS3.*$', '^BS327.*$', '^BSF.*7$', '^BS8.*$']",MNC,Ford
+,['^LS4D1.*$'],MNC,Ford
+04/10/2017 08:16:02,['^CD08Y.*$'],MNT,Nissan
+NAVARA,"['^CD0HY.*$', '^BDO.*$', '^BD0.*$', '^CD0.*Y$']",MNT,Nissan
+PICKUP,['^DD2.*$'],MNT,Nissan
+SENTRA,"['^BB7A.*$', '^BC2.*9$', '^BBA.*1$']",MNT,Nissan
+XTERRA,['^AD3N.*$'],MNT,Nissan
+LEYLAND FALCON,['^PBEJA.*$'],MP1,Ashok
+DMAX,"['^EL3.*P$', '^E.*P$', '^DL3.*P$', '^.*P$', '^EL33C.*$', '^EL33P.*$', '^DL33P.*$']",MPA,Isuzu
+D-MAX,"['^ER3.*$', '^TF.*$', '^TFS.*$', '^ER33.*$', '^TFR8.*$', '^DL3.*$', '^EL3.*$']",MPA,Isuzu
+D.MAX,['^TFS87.*$'],MPA,Isuzu
+PICK UP,['^EL39C.*$'],MPA,Isuzu
+TROOPER,['^ER881.*$'],MPA,Isuzu
+HILUX,"['^EX1.*$', '^CX6C.*$', '^CX9C.*$', '^DX22.*$', '^DX6C.*$', '^JX6C.*$', '^FZ2.*G$', '^CW6C.*$', '^CW8C.*$', '^FX22.*$', '^CX1.*G$', '^JX8C.*$', '^CX8C.*$']",MR0,Toyota
+PLOUGH,['^0.*LO$'],MR0,Toyota
+FORTUNER,"['^YU59G.*$', '^DX8FS.*$']",MR1,Toyota
+YARIS,"['^BT9.*3$', '^K19.*3$', '^.*3$']",MR2,Toyota
+CITY,"['^GM66.*$', '^GM26.*$', '^3A2.*$', '^GD6.*$']",MRH,Honda
+HONDA,['^GMG64.*$'],MRH,Honda
+HILUX,"['^EX1.*$', '^HX8C.*$', '^CX1.*$']",MRO,Toyota
+YARIS,['^BT9F3.*$'],MRO,Toyota
+206,['^P3BDK.*$'],NAA,Peugeot
+CIVIC,['^FC56.*$'],NLA,Honda
+MATRIX,"['^P.*$', '^PM81.*$']",NLH,Hyundai
+H1,['^WWH7W.*$'],NLJ,Hyundai
+CARGO 1832,['^KKERD.*$'],NM0,Ford
+CARGO 1843,['^KCFTG.*$'],NM0,Ford
+CARGO 4135,"['^MKE.*D$', '^MKECD.*$']",NM0,Ford
+CARGO 4143,['^MKGCD.*$'],NM0,Ford
+S 3230,['^D70TE.*$'],NM0,Ford
+TRANSIT CONNECT,['^LS7S2.*$'],NM0,Ford
+CH-R,"['^K.*BX$', '^KZ.*BX$']",NMT,Toyota
+COROLLA,"['^BF0.*E$', '^.*E$', '^BE3.*E$', '^BZ4.*E$', '^BB9.*E$', '^BZ2.*E$']",NMT,Toyota
+GEN 2,['^CM6L.*$'],PL1,Proton
+HONDA,['^C99MN.*$'],PL1,Proton
+PERSONA,['^CM6SR.*$'],PL1,Proton
+SAGA,['^BT3SR.*$'],PL1,Proton
+WAJA,['^CF1S.*$'],PL1,Proton
+WIRA,"['^C97S.*$', '^C98S.*$']",PL1,Proton
+220,"['^AT18G.*$', '^AT.*$']",RF3,Polaris
+50CC,['^KA.*5A$'],RF3,Polaris
+RAPTOR,['^AB11Y.*$'],RF3,Polaris
+MOTORBIKES,['^RA565.*$'],RF3,Polaris
+POLARIS,['^KA0.*A$'],RF3,Polaris
+RZR,['^VA17A.*$'],RF3,Polaris
+XP,['^YAP20.*$'],RF3,Polaris
+300,"['^16ATV.*$', '^15ATV.*$', '^.*ATV$', '^1.*ATV$']",RFB,ARCTICCAT
+450,['^LC90B.*$'],RFB,ARCTICCAT
+ALTERA550,['^17ATV.*$'],RFB,ARCTICCAT
+CAT,['^0.*ATV$'],RFB,ARCTICCAT
+LIKE 200I,['^SJ40A.*$'],RFB,ARCTICCAT
+MOTORBIKE,['^L820A.*$'],RFB,ARCTICCAT
+MXU,['^LB30A.*$'],RFB,ARCTICCAT
+XCITING,['^LC053.*$'],RFB,ARCTICCAT
+BUGGY,['^UA30A.*$'],RFG,CanAm
+,['^UB251.*$'],RFG,CanAm
+COROLLA,"['^BV4.*$', '^BC42.*$', '^BB42.*$', '^BB9.*E$', '^BA0.*E$']",RKL,Toyota
+COROLLA CROSS,['^KAAAG.*$'],RKL,Toyota
+LANCER,"['^GS41L.*$', '^.*41L$', '^GS41.*$']",RKM,CMC
+VERYCA,"['^CP7.*4$', '^C.*$', '^CP515.*$']",RKM,CMC
+Z7,['^AS47L.*$'],RKM,CMC
+S TYPE,"['^AA01D.*$', '^AA01.*$', '^AA02A.*$']",SAJ,Jaguar
+F-TYPE,['^WA6BU.*$'],SAJ,Jaguar
+FTYPE,['^AA6.*$'],SAJ,Jaguar
+XTYPE,"['^AE51N.*$', '^AE5.*N$', '^AA5.*$', '^AA01.*$', '^EA51.*$']",SAJ,Jaguar
+K7,['^AB4BN.*$'],SAJ,Jaguar
+XF,"['^AE5.*N$', '^AA0.*$', '^BJ4.*$', '^AAO.*$', '^AA72.*$', '^JPAL.*$', '^WA0.*$', '^DA01.*$', '^BB4B.*$', '^AB4B.*$', '^AE5.*$', '^AA.*$', '^AR4.*$', '^AE4.*$', '^AA2.*$', '^AA8.*$', '^A.*$', '^AA8.*D$']",SAJ,Jaguar
+S14,['^DD5GX.*$'],SAJ,Jaguar
+SOFREN,"['^J.*$', '^JHA.*$']",SAJ,Jaguar
+SOVEREIGN,['^JHK.*D$'],SAJ,Jaguar
+TRAILER,['^300LO.*$'],SAJ,Jaguar
+X J 8,"['^AA22.*$', '^AA8.*$']",SAJ,Jaguar
+"XJ 5,0",['^AA22B.*$'],SAJ,Jaguar
+XJ SEDAN,['^HY174.*$'],SAJ,Jaguar
+XJ-SERIES,"['^DA1.*C$', '^WA2.*$']",SAJ,Jaguar
+XJ-SERIESXJS,['^JNAEW.*$'],SAJ,Jaguar
+XJR,"['^AA73.*$', '^AA15.*$']",SAJ,Jaguar
+XK,"['^AA4.*$', '^JGA.*D$']",SAJ,Jaguar
+XK 8,['^GX274.*$'],SAJ,Jaguar
+XK8,['^JA41B.*$'],SAJ,Jaguar
+ROVER SPORT,"['^LDH.*$', '^WA2EF.*$', '^L.*$', '^LNA.*$', '^SK2.*4$', '^LHAB.*$', '^WS2.*U$', '^GS2.*F$', '^LSAA3.*$', '^SH2.*4$', '^GA3.*$', '^WV2.*$', '^LSAA.*$', '^LHA.*$', '^LAAA.*$', '^WA2VF.*$', '^SF2.*4$', '^WA2.*F$', '^LTGM.*$', '^ME1.*4$', '^WR2.*$', '^LMAM.*$', '^WG2.*F$', '^GA2.*F$', '^WA2.*$', '^LSAA5.*$', '^GA2.*$', '^WZ2.*$', '^FA2.*$', '^WG2.*$', '^LSAAD.*$', '^LPAM.*$']",SAL,Range
+DEFENDER,"['^EP7.*U$', '^E.*$', '^EA7BY.*$', '^EX6.*U$', '^EJ7.*X$', '^E27.*U$', '^E26.*U$', '^EA7.*$', '^EA6B.*$']",SAL,Range
+DEFENDER 110D240,['^EA7BN.*$'],SAL,Range
+DISCOVERY,"['^TY124.*$', '^RA2B.*$']",SAL,Range
+RANGE ROVER,"['^GV3.*F$', '^GA2.*$', '^GA3.*$', '^GR2.*$', '^GV2.*$', '^GS2.*$', '^GR2RV.*$', '^GS5.*E$', '^MF1.*4$', '^GS3.*F$', '^GV5.*E$', '^KP9.*$', '^GA2BY.*$', '^KA9B.*$', '^WA2.*$', '^GW2.*E$', '^ME1.*4$']",SAL,Range
+DISCOVERY 4,['^LAAAG.*$'],SAL,Range
+DISCOVERY SPORT,"['^CR2.*$', '^CP2.*$', '^CT2.*$', '^CA2B.*$', '^CA2BN.*$', '^C.*$']",SAL,Range
+ROVER EVOQUE,"['^VA2B.*$', '^V.*$', '^VA1B.*$', '^VP2.*$', '^VA2BN.*$', '^VA5B.*$']",SAL,Range
+FREELANDER,['^NY222.*$'],SAL,Range
+ROVER FREELANDER,"['^LNABG.*$', '^LNA.*$']",SAL,Range
+ROVER HSE,"['^L.*AMA$', '^LMAMA.*$', '^LMAM.*$']",SAL,Range
+LR2,['^F.*N$'],SAL,Range
+LR3,"['^AE2.*4$', '^A.*4$', '^AK2.*$', '^AG2.*$', '^AD2.*4$', '^A.*$']",SAL,Range
+NEW RANGE ROVER,"['^K.*$', '^KP9.*$']",SAL,Range
+RANGE ROVER EVOQUE,"['^VR2.*$', '^ZL2.*X$', '^VP2.*$']",SAL,Range
+RANGE ROVER SPORT,"['^WA2BY.*$', '^WZ2SE.*$', '^WA2KF.*$', '^S.*4$', '^SF2.*4$']",SAL,Range
+RANGE ROVER VELAR,"['^YL2.*$', '^YA2B.*$', '^YB2.*$', '^YM2.*V$', '^YT2E.*$', '^YA2.*$', '^Y.*$']",SAL,Range
+ROVER DEFENDER SVX,"['^LDH.*$', '^LDV.*$', '^LDK.*$', '^LDVA.*$', '^LDWB.*$', '^LBC.*$', '^EA7B.*$']",SAL,Range
+ROVER DISCOVERY,"['^CR2.*$', '^LJG.*$', '^CP2.*$', '^RA2B.*$', '^LAAA.*$', '^TW1.*4$', '^LTGM.*$', '^TL1.*4$']",SAL,Range
+ROVER LR 2,"['^FA2.*$', '^FA2.*A$']",SAL,Range
+ROVER LR4,['^LAAA.*$'],SAL,Range
+ROVER LR3,['^LAAA5.*$'],SAL,Range
+ROVER VOGUE,"['^GA2.*$', '^GS5.*E$', '^LMAM.*$', '^GA2.*F$', '^LPAM.*$', '^LHA.*$', '^HV1.*4$', '^LMAME.*$', '^ME1.*4$', '^GS2.*$', '^MF1.*4$']",SAL,Range
+ROVER,['^L.*CAH$'],SAL,Range
+S TYPE,['^AA01A.*$'],SAL,Range
+XF,['^AA06D.*$'],SAL,Range
+XTYPE,['^AE52N.*$'],SAL,Range
+420SI,['^RTCLC.*$'],SAR,Rover
+75,"['^RDWB.*$', '^RJ.*$', '^RJZLL.*$', '^RJZL.*$', '^R.*$']",SAR,Rover
+827,['^RSSLG.*$'],SAR,Rover
+AURIS,['^.*E$'],SB1,Toyota
+CARINA,['^53ABK.*$'],SB1,Toyota
+600 LT SPIDER,['^13SAB.*$'],SBM,McLaren
+S 650,['^11FAB.*$'],SBM,McLaren
+650S,['^11FAA.*$'],SBM,McLaren
+675LT MSO LIMITED EDITION,['^11RAB.*$'],SBM,McLaren
+720S,['^14DC.*$'],SBM,McLaren
+MP4,"['^11.*AB$', '^11AAB.*$']",SBM,McLaren
+S 570,['^13DAB.*$'],SBM,McLaren
+CORNICHE,['^ZD42A.*$'],SCA,Rolls
+DAWN,['^666D5.*$'],SCA,Rolls
+ROYCE GHOST,"['^664.*$', '^664S0.*$', '^664S.*$']",SCA,Rolls
+GHOST,['^664S5.*$'],SCA,Rolls
+PHANTOM DROPHEAD,['^682D5.*$'],SCA,Rolls
+ROYCE SILVER SPUR,"['^ZN.*$', '^ZN0.*$', '^Z.*$', '^ZN0.*A$', '^LA6.*E$', '^ZS000.*$']",SCA,Rolls
+ROYCE CULLINAN,['^689X0.*$'],SCA,Rolls
+ROYCE PHANTOM,"['^3C680.*$', '^1S68.*$', '^681.*0$']",SCA,Rolls
+ROYCE PHANTOM COUPE,['^682D0.*$'],SCA,Rolls
+ROYCE WRAITH,"['^665C.*$', '^665C0.*$']",SCA,Rolls
+ARNAGE,"['^L.*$', '^LC4.*$', '^LC3.*$', '^LC31E.*$']",SCB,Lincoln
+AZURE,['^DC4.*$'],SCB,Lincoln
+BROOKLANDS,['^ZE.*C$'],SCB,Lincoln
+CONTINENTAL,"['^FN6.*$', '^FE6.*$', '^GE2.*$', '^FA6.*$', '^BR.*$', '^GN2.*$', '^FG6.*$']",SCB,Lincoln
+FLYING SPUR,['^EC9ZA.*$'],SCB,Lincoln
+"CONTINENTAL, BROOKLANDS",['^CC42M.*$'],SCB,Lincoln
+FLYING SPUR V8,['^BG6ZG.*$'],SCB,Lincoln
+MULSANNE,['^ZS0.*$'],SCB,Lincoln
+TURBO,"['^ZE02.*$', '^Z.*$', '^ZP0.*A$', '^ZR0.*$']",SCB,Lincoln
+EVORA,['^LMD.*U$'],SCC,Lotus
+EXIGE,['^WC111.*$'],SCC,Lotus
+DBX,['^VUJAW.*$'],SCF,Aston
+MARTIN DB 11,['^RMFAV.*$'],SCF,Aston
+MARTIN DB 9,['^AD0.*$'],SCF,Aston
+MARTIN RAPIDE,"['^HDDA.*$', '^H.*$']",SCF,Aston
+MARTIN V12 ZAGATO,['^GBBGF.*$'],SCF,Aston
+MARTIN VANTAGE,"['^EKB.*$', '^BF03B.*$', '^EKBDL.*$']",SCF,Aston
+MARTIN VIRAGE,['^EDEAN.*$'],SCF,Aston
+PLOUGH,['^AC243.*$'],SCF,Aston
+VANTAGE,['^SMGBW.*$'],SCF,Aston
+ACCORD,['^CE7.*1$'],SHH,Honda
+CIVIC,"['^FK7H.*$', '^FK2.*$']",SHH,Honda
+CR-V,"['^RD.*$', '^RD7.*$', '^RD68.*$']",SHS,Honda
+CRV,['^RD976.*$'],SHS,Honda
+LEAF,['^FAAZE.*$'],SJN,Nissan
+PRIMERA,['^BCAP1.*$'],SJN,Nissan
+QASHQAI,['^BJ01.*$'],SJN,Nissan
+532 120,"['^532.*$', '^532AA.*$', '^53200.*$']",SLP,JCB
+140550,['^55000.*$'],SLP,JCB
+ROBBOT 160,"['^160WS.*$', '^160.*$']",SLP,JCB
+540 170,"['^54.*$', '^5.*$', '^541BA.*$', '^541.*$']",SLP,JCB
+175W,['^JW175.*$'],SLP,JCB
+3 CX,"['^3CXTS.*$', '^3CX.*S$']",SLP,JCB
+416,['^41600.*$'],SLP,JCB
+436,['^43600.*$'],SLP,JCB
+4CX,['^4CXF.*$'],SLP,JCB
+537/135,['^537.*$'],SLP,JCB
+8015,['^08015.*$'],SLP,JCB
+8060,['^08060.*$'],SLP,JCB
+926,['^92604.*$'],SLP,JCB
+930,['^93004.*$'],SLP,JCB
+JCB,['^53012.*$'],SLP,JCB
+ROBOT,['^160SA.*$'],SLP,JCB
+1050 CC,['^TPN11.*$'],SMT,Triumph
+TIGER 1050,['^700PD.*$'],SMT,Triumph
+LANOS,['^TF48C.*$'],SUP,Daewoo
+LANUS,['^TF697.*$'],SUP,Daewoo
+ARTICULATED,['^34121.*$'],SUU,Solaris
+STANDARD,['^241.*$'],SUU,Solaris
+SMART,['^OIMCO.*$'],TCC,Smart
+SMART CAR,['^01MC0.*$'],TCC,Smart
+TUCSON,"['^J281.*$', '^J381.*$']",TMA,Hyundai
+FABIA,"['^ED4.*$', '^ED2.*$']",TMB,Skoda
+OCTAVIA,['^AC4N.*$'],TMB,Skoda
+RAPID,['^AC2NH.*$'],TMB,Skoda
+ROOMSTER,['^MD45J.*$'],TMB,Skoda
+SUPERB,['^AB6.*$'],TMB,Skoda
+VLESPA LX,['^EEA61.*$'],TMB,Skoda
+YETI,['^LB4.*$'],TMB,Skoda
+TT,"['^AFB.*$', '^RFB.*$']",TRU,Audi
+VITARA,['^.*2A2$'],TSM,Chevrolet
+CANTER,['^F.*$'],TYB,Mitsubishi
+SPORTAGE,"['^PK81.*$', '^PV81.*$', '^PG81.*$', '^PX81.*$', '^P.*$', '^PH81.*$', '^PB81.*$', '^PC81A.*$', '^PC81.*$', '^PU81.*$']",U5Y,KIA
+XCEED,['^H5F11.*$'],U5Y,KIA
+G500,['^46121.*$'],VAG,Mercedes-Benz
+,['^H17ZZ.*$'],VAN,Man
+RC,['^JYJ40.*$'],VBK,KTM
+125,['^GSF40.*$'],VBK,KTM
+250 SXF,['^MXJ43.*$'],VBK,KTM
+,['^MXN43.*$'],VBK,KTM
+ADVENTTURE,['^JGJ40.*$'],VBK,KTM
+450 SXF,['^MXP43.*$'],VBK,KTM
+690 DUKE,['^LDU40.*$'],VBK,KTM
+DUKE 200,['^JUC40.*$'],VBK,KTM
+KTM,['^EUA20.*$'],VBK,KTM
+PIRO,['^HAA40.*$'],VBK,KTM
+X_BOW,['^ABLAA.*$'],VBK,KTM
+19,['^L5330.*$'],VF1,Renault
+CAPTUR,['^2RR.*$'],VF1,Renault
+CLIO,"['^LA1.*0$', '^HJD.*0$', '^EC1.*1$', '^EB1.*1$', '^LA0.*0$', '^C40.*0$', '^C57.*0$', '^LM1B0.*$', '^BB0.*0$', '^LZB.*0$', '^LB0.*$', '^BB1.*$']",VF1,Renault
+KOLEOS,"['^VYRC.*$', '^HGRN.*$']",VF1,Renault
+CONSTITUTIONALIZE,['^HSRAJ.*$'],VF1,Renault
+DOKKER,['^.*RB4$'],VF1,Renault
+DUSTER,['^HSR.*$'],VF1,Renault
+VELSATIS,['^HE311.*$'],VF1,Renault
+FLONS,['^LZL70.*$'],VF1,Renault
+FLUENCE,"['^L2L.*T$', '^GB2.*1$', '^LZL.*T$', '^LZL.*$']",VF1,Renault
+LAGUNA,['^B56.*0$'],VF1,Renault
+LOGAN,"['^LSR.*$', '^.*SRFB$']",VF1,Renault
+LUTECIA,['^CB1N0.*$'],VF1,Renault
+MASTER,['^VAE5V.*$'],VF1,Renault
+MEGANE,"['^FB2.*1$', '^GB251.*$', '^BZB.*$', '^LRR.*X$', '^GB2.*1$']",VF1,Renault
+QM3,['^S8700.*$'],VF1,Renault
+SAFRANE,['^ABL.*$'],VF1,Renault
+SYMBOL,['^LBR3.*$'],VF1,Renault
+TALISMAN,['^LDR.*$'],VF1,Renault
+TRAFIC,"['^GF3.*1$', '^GFA.*1$']",VF1,Renault
+TWIZY,['^AC.*$'],VF1,Renault
+WIND,['^FB171.*$'],VF1,Renault
+ZOE,['^AGVVF.*$'],VF1,Renault
+301,['^DDNFP.*$'],VF2,Peugeot
+206,"['^2AN.*$', '^20A.*3$', '^2AKF.*$', '^2AK.*$', '^2CRF.*$', '^231.*$', '^2MK.*$', '^2BN.*$', '^2MKFW.*$', '^2DN.*U$', '^2AKFW.*$']",VF3,Peugeot
+106,['^1CNFX.*$'],VF3,Peugeot
+107,['^PNCFA.*$'],VF3,Peugeot
+170,['^GBWJY.*$'],VF3,Peugeot
+207,"['^3CRF.*$', '^WCKF.*$', '^WB5F.*$', '^WC5F.*$']",VF3,Peugeot
+207 S,['^WAKFU.*$'],VF3,Peugeot
+3008,['^0U5F.*$'],VF3,Peugeot
+3008 1.6 E-HDI,['^0U9HD.*$'],VF3,Peugeot
+301,"['^DDNF.*$', '^DD.*$']",VF3,Peugeot
+XR306,"['^7BK5A.*$', '^7BK.*$']",VF3,Peugeot
+307,"['^3EKF.*$', '^3EN.*$', '^3CV.*$', '^3HN.*$', '^3CN.*$', '^3HR.*$', '^3AR.*$', '^3ERF.*$', '^32N.*$', '^3GN.*$', '^3BRF.*$', '^3CR.*$', '^3CKF.*$', '^3.*$', '^351.*1$']",VF3,Peugeot
+308,"['^4J5FM.*$', '^4E5F.*$', '^4H5F.*$', '^4CF.*$', '^4CSF.*$', '^4J5F.*$', '^4BL.*$', '^4EB.*$', '^4C5.*$', '^4BB.*$', '^4B5F.*$', '^4G5F.*$', '^4BD.*$', '^4HSF.*$']",VF3,Peugeot
+406,"['^8B6F.*$', '^8BRFN.*$', '^8BR.*$', '^8B.*$', '^8BL.*$']",VF3,Peugeot
+407,"['^6DRF.*$', '^6D3F.*$', '^6DR.*$']",VF3,Peugeot
+5008,['^0E5F.*$'],VF3,Peugeot
+508,['^8D5FC.*$'],VF3,Peugeot
+605,['^6BR6E.*$'],VF3,Peugeot
+607,['^9.*$'],VF3,Peugeot
+BOXER,['^YCBM.*$'],VF3,Peugeot
+CARRIAGE,['^YEDMF.*$'],VF3,Peugeot
+PARTNER,"['^5BK.*$', '^7EN.*$', '^7AN.*$', '^7JN.*$', '^G.*KFW$']",VF3,Peugeot
+190,['^44AG.*$'],VF6,Renault
+KERAX,"['^33DVC.*$', '^33.*VC$', '^.*PA$', '^34DPA.*$', '^33.*$', '^3.*$']",VF6,Renault
+385,['^22GVA.*$'],VF6,Renault
+TRUCK,['^34KPA.*$'],VF6,Renault
+MIDLUM 240 18,['^42AEA.*$'],VF6,Renault
+PREMIUM,['^29AHB.*$'],VF6,Renault
+REVEX ZX,['^N2A60.*$'],VF6,Renault
+TRAFIC,['^11CTA.*$'],VF6,Renault
+C3,['^FC.*$'],VF7,Citroen
+C5,['^R.*$'],VF7,Citroen
+CELYSEE,['^DDNFP.*$'],VF7,Citroen
+JUMPER,['^233J9.*$'],VF7,Citroen
+XT 660 R,['^DM018.*$'],VG5,YAMAHA
+113,['^R4X20.*$'],VLU,Scania
+H113,['^PH4X2.*$'],VLU,Scania
+P124,['^P4X20.*$'],VLU,Scania
+SCANIA,['^RH4X2.*$'],VLU,Scania
+YARIS,"['^.*3$', '^KD3D3.*$']",VNK,Toyota
+280,['^63829.*$'],VSA,Mercedes
+320,['^63A23.*$'],VSA,Mercedes
+MB100D,['^63133.*$'],VSA,Mercedes
+MERCEDES,['^63823.*$'],VSA,Mercedes
+V 280,['^63824.*$'],VSA,Mercedes
+GRAND VITARA,['^0SJJ6.*$'],VSE,Suzuki
+JIMNY,['^0SKJ2.*$'],VSE,Suzuki
+ROVER RANGE ROVER,['^LBAAG.*$'],VSE,Suzuki
+ROVER SANTANA,['^LBCAG.*$'],VSE,Suzuki
+NAVARA,"['^DD3C.*$', '^CVND4.*$', '^CTND2.*$', '^CTN.*$', '^CVND.*$', '^C.*$']",VSK,Nissan
+NAVARRA,['^BVND4.*$'],VSK,Nissan
+TERANO,"['^BR3.*C$', '^BR35C.*$', '^TBUR2.*$']",VSK,Nissan
+PATHFINDER SPN,['^JVWR5.*$'],VSK,Nissan
+ALTEA,['^.*5P$'],VSS,Seat
+INCA,"['^ZZZ9K.*$', '^ZZZ.*K$']",VSS,Seat
+LEON,"['^ZZZ.*$', '^ZZZKJ.*$', '^BA6.*$']",VSS,Seat
+AROSA,['^ZZZ6H.*$'],VSS,Seat
+CORDOBA,['^ZZZ6K.*$'],VSS,Seat
+EXEO,['^EE63R.*$'],VSS,Seat
+IBIZA,"['^XC46L.*$', '^XY4.*$', '^ZZZ6.*$']",VSS,Seat
+TOLEDO,['^EB25P.*$'],VSS,Seat
+CADET,['^00003.*$'],VSX,Opel
+CABSTAR,['^SGFF2.*$'],VWA,Nissan
+BEETLE,['^ZZZ9C.*$'],VWV,Volkswagen
+CASCADA,['^WJ3N5.*$'],W04,Buick
+ANTARA,['^LA63.*$'],W0L,Opel
+ASTRA,"['^AH64.*$', '^PF2.*$', '^0000.*$']",W0L,Opel
+ASTRA / ZAFIRA,['^0TGF6.*$'],W0L,Opel
+CORSA,"['^0SDL.*$', '^XE6.*5$', '^0XCF.*$']",W0L,Opel
+INSIGNIA,"['^GM5.*$', '^G.*$']",W0L,Opel
+MOKKA,['^J.*7D8$'],W0L,Opel
+MOKKA / MOKKA X,['^JD7E8.*$'],W0L,Opel
+OMEGA,"['^0SBF.*$', '^0.*$', '^0TGF.*$', '^0VB.*6$', '^0AH.*$']",W0L,Opel
+VECTRA,"['^ZC5.*F$', '^0JBF.*$']",W0L,Opel
+ZVIRA,['^0TGF7.*$'],W0L,Opel
+A 200,['^3G8HB.*$'],W1K,Mercedes-Benz
+A 45S AMG,['^17705.*$'],W1K,Mercedes-Benz
+A-CLASS,"['^3G4.*B$', '^3.*B$', '^3F4EB.*$']",W1K,Mercedes-Benz
+A200 D SEDAN,['^3G1CB.*$'],W1K,Mercedes-Benz
+A250 4MATIC,['^3G4HB.*$'],W1K,Mercedes-Benz
+AMG A45,['^3F5DB.*$'],W1K,Mercedes-Benz
+AMG GT,['^7X.*B$'],W1K,Mercedes-Benz
+AMG GT43 4MATIC,['^7X5KB.*$'],W1K,Mercedes-Benz
+AMG S63 4MATIC,['^UG8JB.*$'],W1K,Mercedes-Benz
+E-CLASS,"['^.*B$', '^ZF4KB.*$', '^ZF0.*B$', '^AF4.*B$', '^ZF6.*B$', '^ZF4.*B$', '^ZF5.*B$', '^1K6.*B$', '^1K6JB.*$', '^ZF4FB.*$', '^UG8.*B$', '^ZF8.*B$', '^1J6.*B$']",W1K,Mercedes-Benz
+C 180,['^20604.*$'],W1K,Mercedes-Benz
+C 200,"['^205.*7$', '^205.*$', '^20.*$']",W1K,Mercedes-Benz
+C-CLASS,"['^WF8.*B$', '^AF4GB.*$', '^AF4.*B$', '^WK8.*B$', '^WJ8.*B$']",W1K,Mercedes-Benz
+CLA-CLASS,"['^5J5EB.*$', '^5J4.*B$', '^5J4HB.*$', '^5J5.*B$']",W1K,Mercedes-Benz
+CLS 350,['^25735.*$'],W1K,Mercedes-Benz
+CLS-CLASS,['^2J5.*B$'],W1K,Mercedes-Benz
+CLS300 D,['^2J1JB.*$'],W1K,Mercedes-Benz
+E 200,"['^238.*8$', '^2.*8$', '^21308.*$']",W1K,Mercedes-Benz
+E63 S AMG,['^ZF8KB.*$'],W1K,Mercedes-Benz
+E220 D 4MATIC,['^ZF0FB.*$'],W1K,Mercedes-Benz
+E220 D CABRIOLET,['^1K1EB.*$'],W1K,Mercedes-Benz
+E300 E 4MATIC,['^ZF5EB.*$'],W1K,Mercedes-Benz
+E350 4MATIC,['^ZF8GB.*$'],W1K,Mercedes-Benz
+EQC 400,['^29389.*$'],W1K,Mercedes-Benz
+EQC 400 4MATIC,['^8P9AB.*$'],W1K,Mercedes-Benz
+EQE,['^EG2BB.*$'],W1K,Mercedes-Benz
+EQS,"['^CG.*B$', '^CG2DB.*$']",W1K,Mercedes-Benz
+MAYBACH,['^UX8AB.*$'],W1K,Mercedes-Benz
+MAYBACH S 560,['^22298.*$'],W1K,Mercedes-Benz
+RIO,['^WK8AB.*$'],W1K,Mercedes-Benz
+S 350D 4MATIC,['^UF2BB.*$'],W1K,Mercedes-Benz
+S 450,['^6G6BB.*$'],W1K,Mercedes-Benz
+S 500,['^223.*6$'],W1K,Mercedes-Benz
+S350 D,['^6F3AB.*$'],W1K,Mercedes-Benz
+S400 D 4MATIC,['^6F3DB.*$'],W1K,Mercedes-Benz
+S-CLASS,['^6G7GB.*$'],W1K,Mercedes-Benz
+SL 550,['^JK7DA.*$'],W1K,Mercedes-Benz
+SLC-CLASS,['^PK3JA.*$'],W1K,Mercedes-Benz
+G 63,['^YC7GJ.*$'],W1N,Mercedes-Benz
+E350,['^FD5EB.*$'],W1N,Mercedes-Benz
+MERCEDES-BENZ EQA250,['^9N0BB.*$'],W1N,Mercedes-Benz
+EQB,['^9M.*B$'],W1N,Mercedes-Benz
+G 63 AMG,['^YC7G.*$'],W1N,Mercedes-Benz
+G-CLASS,"['^YC7.*J$', '^YC.*J$']",W1N,Mercedes-Benz
+GLA-CLASS,"['^4N4.*B$', '^4N4HB.*$']",W1N,Mercedes-Benz
+GLA 45,['^4N5DB.*$'],W1N,Mercedes-Benz
+GLB-CLASS,"['^4M4.*B$', '^4M.*B$', '^4M4HB.*$']",W1N,Mercedes-Benz
+GLC 200,['^0.*8BB$'],W1N,Mercedes-Benz
+GLC COUPE,['^25338.*$'],W1N,Mercedes-Benz
+GLC-CLASS,['^0G8.*B$'],W1N,Mercedes-Benz
+GLC-CLASS COUPE,['^0J8.*B$'],W1N,Mercedes-Benz
+GLE 300D 4MATIC,['^FB1KB.*$'],W1N,Mercedes-Benz
+GLE 350,['^16735.*$'],W1N,Mercedes-Benz
+GLE 400 D 4MA,['^FD2DB.*$'],W1N,Mercedes-Benz
+GLE 53,['^FD6BB.*$'],W1N,Mercedes-Benz
+GLE 63,['^FD8KB.*$'],W1N,Mercedes-Benz
+GLE-CLASS,['^FB5EB.*$'],W1N,Mercedes-Benz
+GLS 63 AMG,['^16738.*$'],W1N,Mercedes-Benz
+ALLROAD,['^8NAF4.*$'],WA1,Audi
+AUDI,['^WMAFE.*$'],WA1,Audi
+E-TRON,['^.*AAGE$'],WA1,Audi
+E-TRON SPORTBACK,['^.*ABGE$'],WA1,Audi
+ETRON,['^ZZZGE.*$'],WA1,Audi
+Q5,['^CGCF.*$'],WA1,Audi
+Q5 E,['^E2AFY.*$'],WA1,Audi
+Q5 SPORTBACK,['^5AAFY.*$'],WA1,Audi
+Q7,"['^BY74.*$', '^AGDF.*$']",WA1,Audi
+Q8,['^.*F1$'],WA1,Audi
+Q8 PRESTIGE,['^FVAF1.*$'],WA1,Audi
+SQ5,['^C4AFY.*$'],WA1,Audi
+SQ8,['^CWBF1.*$'],WA1,Audi
+MIDI,['^456ZZ.*$'],WAG,Man
+100,['^ZZZ4A.*$'],WAU,Audi
+200,['^HE544.*$'],WAU,Audi
+80,['^ZZZ8C.*$'],WAU,Audi
+90,['^ZZZ81.*$'],WAU,Audi
+A1,['^AYA.*$'],WAU,Audi
+A3,"['^AS6.*E$', '^ACC.*$', '^JS6.*E$', '^ZZZ8R.*$', '^JC68.*$', '^ZZZF5.*$', '^LF7.*K$', '^ZZZ.*$', '^AE48.*$', '^MA28.*$', '^ZZZF2.*$', '^AS7.*E$', '^AYJ.*F$']",WAU,Audi
+MAKEMODELFILTERMODELIVYZR,['^ZZZ8V.*$'],WAU,Audi
+A3 SPORTBACK E-TRON,['^.*PBFF$'],WAU,Audi
+A4 AVANT,['^KH78E.*$'],WAU,Audi
+A4,['^ZZZF4.*$'],WAU,Audi
+A5,"['^CFB.*$', '^ACB.*$', '^9FD.*$', '^8CD.*$', '^LFAF.*$', '^CGB.*$']",WAU,Audi
+A6,"['^FGAF.*$', '^ZZZ4.*$', '^BGC.*$', '^AFC.*$', '^.*FC$', '^ZZZ4G.*$', '^BHC.*$', '^AHC.*$']",WAU,Audi
+A7,['^SGC.*$'],WAU,Audi
+A8,"['^ML44.*$', '^MR44.*$', '^RVB4.*$', '^RGB.*$']",WAU,Audi
+A8L,['^ZZZ4H.*$'],WAU,Audi
+CABRIOLET,['^ZZZ8G.*$'],WAU,Audi
+K5,['^ZZZGE.*$'],WAU,Audi
+Q3 35 TDI,['^ZZZF3.*$'],WAU,Audi
+Q5,['^.*8R$'],WAU,Audi
+Q7,"['^AY54.*$', '^AV94.*$', '^A.*$']",WAU,Audi
+S5,"['^CGAF.*$', '^CGAFR.*$']",WAU,Audi
+X5,"['^7T4.*0$', '^5R1.*0$', '^FA1.*0$', '^AL310.*$', '^TR9.*0$', '^FA5.*$', '^B.*10$', '^FB310.*$', '^ET5.*0$', '^.*510$', '^7E0.*0$', '^FB3.*$', '^CR6.*0$', '^DD4.*0$', '^AN9.*0$', '^KT0.*0$', '^AV5.*0$', '^A.*$', '^EH7.*$', '^LW710.*$', '^GV8C0.*$', '^AD6.*0$', '^CB8.*0$', '^7T2.*0$', '^GJ010.*$', '^PG710.*$', '^.*10$', '^NE3.*0$', '^AC1.*0$', '^AG1.*0$', '^DM6.*0$', '^JR3.*0$', '^E.*$', '^BM5.*0$', '^C.*10$', '^AL3.*0$', '^7.*$', '^GN810.*$', '^GH6.*0$', '^51A.*0$', '^G.*0$', '^11A.*0$', '^G.*10$', '^A.*10$', '^7E010.*$', '^DN610.*$', '^5U7.*0$', '^.*90$', '^JA1.*0$', '^EB510.*$', '^AX5.*0$', '^1S510.*$', '^AN1.*0$', '^NU1.*0$', '^AY7.*0$', '^FH8.*0$', '^CA0.*0$', '^DN6.*0$', '^7G610.*$', '^BD9.*0$', '^TY5.*0$', '^5P5.*0$', '^7T0.*0$', '^BD5.*0$', '^7U2.*0$', '^VG7.*0$', '^AU5.*0$', '^5A5.*$', '^ET1.*0$', '^AM3.*$', '^HN610.*$', '^31BJ0.*$', '^5A510.*$', '^CX4.*0$', '^DM410.*$', '^7J2C.*$', '^BN5.*0$', '^JL1.*0$', '^.*0$', '^DM4.*0$']",WBA,BMW
+520I,"['^HB.*10$', '^HB110.*$', '^H.*$', '^H.*10$', '^NA310.*$']",WBA,BMW
+740,"['^7J2.*$', '^GG8.*$', '^GH8.*$', '^GF6.*$', '^GJ8.*$', '^GH834.*$']",WBA,BMW
+1 SERIES,['^UL735.*$'],WBA,BMW
+1-SERIES,['^U.*C5$'],WBA,BMW
+116 I,['^UF110.*$'],WBA,BMW
+520 I,"['^.*110$', '^BN3.*$', '^4.*10$', '^4Z110.*$', '^E.*110$', '^VB1.*0$', '^2.*$']",WBA,BMW
+118I,['^U.*10$'],WBA,BMW
+128IA,['^UP7C5.*$'],WBA,BMW
+316,"['^AK510.*$', '^AC1.*0$', '^AT510.*$', '^GA710.*$']",WBA,BMW
+218,['^2A310.*$'],WBA,BMW
+218D GRAN COUPE,['^31AM0.*$'],WBA,BMW
+228,['^1F510.*$'],WBA,BMW
+330E,"['^8E1C5.*$', '^3A9.*5$', '^VB1.*5$', '^5P5.*0$', '^VB3.*$', '^VA3.*5$', '^8E1.*$', '^EV5.*$', '^3A5.*5$', '^PH7.*5$']",WBA,BMW
+3 SERIES 325IS,['^BF332.*$'],WBA,BMW
+3 SERIES 325IX,['^AE930.*$'],WBA,BMW
+3-SERIES,"['^3C1.*5$', '^8A9C.*$', '^8B9.*$', '^8E1.*$', '^3B5C5.*$', '^3B5.*5$', '^3A5C5.*$', '^BM334.*$', '^3C3.*5$', '^8E3.*5$', '^PK5.*5$', '^VB7.*$', '^PH7.*5$', '^BK8.*$', '^WB3.*5$', '^VB1.*5$', '^8D9.*$', '^AM53.*$', '^8B3.*$', '^3A5.*5$', '^PM7.*5$', '^PH5.*5$', '^3B5.*$', '^WB7.*5$', '^3A5.*$', '^VA3.*5$', '^8E9.*5$', '^WB7.*$', '^3B1.*5$', '^8E5.*$', '^WR3.*$']",WBA,BMW
+3-SERIES GRAN TURISMO,['^8Z5C5.*$'],WBA,BMW
+3-SERIES GRANTURISMO,['^8Z9C5.*$'],WBA,BMW
+316 I,['^PF110.*$'],WBA,BMW
+316/4,['^A2610.*$'],WBA,BMW
+318I,['^BL310.*$'],WBA,BMW
+318,"['^CA410.*$', '^BE.*10$']",WBA,BMW
+318CIA,['^B.*710$'],WBA,BMW
+320 D WLTP,['^8C510.*$'],WBA,BMW
+320I,"['^PG5.*0$', '^VA7.*$', '^AD510.*$', '^AD.*10$', '^EV1.*$']",WBA,BMW
+320D GRAN TURISMO LUXURY,['^8T310.*$'],WBA,BMW
+320,['^AA510.*$'],WBA,BMW
+320I SE AUTO,['^AV120.*$'],WBA,BMW
+323 I,['^AM3.*$'],WBA,BMW
+3 SERIES,['^BW334.*$'],WBA,BMW
+325CIA,"['^BW3.*$', '^BS334.*$', '^BS3.*$']",WBA,BMW
+325I,"['^EV3.*$', '^ET3.*$', '^AV3.*$']",WBA,BMW
+328I,['^CD210.*$'],WBA,BMW
+330,['^BS510.*$'],WBA,BMW
+335 I,['^WL7.*$'],WBA,BMW
+5-SERIES,"['^13B.*0$', '^JB1C.*$', '^JA7C.*$', '^.*735$', '^JE7C.*$', '^PG7.*5$', '^JA9C.*$', '^JA5C.*$', '^NV1.*5$', '^JE5C.*$', '^NU5.*5$', '^WR3.*5$', '^53B.*0$', '^HD63.*$', '^HD53.*$', '^3B3.*5$', '^SP4C5.*$', '^PK7.*5$', '^JA7C5.*$', '^NW5.*5$']",WBA,BMW
+340I,['^8B3.*$'],WBA,BMW
+4 SERIES,['^3N3C5.*$'],WBA,BMW
+4-SERIES,"['^4Z1C.*$', '^4.*C5$', '^4Z1C5.*$', '^4R7C.*$']",WBA,BMW
+4-SERIES GRAN COUPE,['^4J1C.*$'],WBA,BMW
+420,['^4T310.*$'],WBA,BMW
+4201 GRAN COUPE,['^4H310.*$'],WBA,BMW
+428 I,"['^3N310.*$', '^3N3.*$']",WBA,BMW
+428I,"['^3V710.*$', '^3V7.*$', '^3N7.*$']",WBA,BMW
+428IX,['^3N510.*$'],WBA,BMW
+420D,['^4.*710$'],WBA,BMW
+430I COUPE M SPORT PACKAGE,['^4W310.*$'],WBA,BMW
+440 I,['^4P110.*$'],WBA,BMW
+5 SERIES,"['^NV9.*5$', '^NV1.*5$', '^NW1.*5$']",WBA,BMW
+5 SERIES GRAN TURISMO,['^5M2C5.*$'],WBA,BMW
+520 D,['^5E510.*$'],WBA,BMW
+520D,"['^JC310.*$', '^.*C310$']",WBA,BMW
+520D XDRIVE LUXURY,['^JF510.*$'],WBA,BMW
+520I LUXURY,['^JK.*10$'],WBA,BMW
+525I,"['^NA5.*$', '^NE5.*$', '^DT4.*$']",WBA,BMW
+528 I,['^DD6.*$'],WBA,BMW
+528I,['^5A710.*$'],WBA,BMW
+530E,['^JA9.*$'],WBA,BMW
+530I,"['^DT6.*$', '^JA5.*$', '^NA7.*$', '^NE7.*$']",WBA,BMW
+535 I,"['^SN.*10$', '^FR7.*$', '^SN210.*$']",WBA,BMW
+545,"['^NB310.*$', '^NB3.*$']",WBA,BMW
+550I,['^NW510.*$'],WBA,BMW
+6-SERIES GRAN COUPE,['^6A0C5.*$'],WBA,BMW
+620D,['^JY810.*$'],WBA,BMW
+630 I,['^E.*310$'],WBA,BMW
+630D XDRIVE LUXURY WLTP,['^JW810.*$'],WBA,BMW
+635 CSI,"['^52490.*$', '^EC890.*$']",WBA,BMW
+M6,"['^EE.*0$', '^EE140.*$']",WBA,BMW
+640 I,['^6A010.*$'],WBA,BMW
+640D XDRIVE GRANCOUPE,['^6E410.*$'],WBA,BMW
+645,"['^EH710.*$', '^E.*710$']",WBA,BMW
+645CI,['^EK734.*$'],WBA,BMW
+650 I,['^EH13.*$'],WBA,BMW
+740-E,"['^7J2C.*$', '^7E2C.*$', '^7J2C5.*$']",WBA,BMW
+7-SERIES,"['^7F0C.*$', '^KB8.*5$', '^GN63.*$', '^7D010.*$', '^7J2C.*$', '^GN634.*$', '^7E2C.*$', '^GL63.*$', '^G.*634$', '^KA8.*5$']",WBA,BMW
+730 LI,"['^.*210$', '^HN210.*$']",WBA,BMW
+730D,['^YC210.*$'],WBA,BMW
+733,['^FF330.*$'],WBA,BMW
+735,['^G.*410$'],WBA,BMW
+740 LI,"['^KB4.*$', '^7E210.*$', '^YE41.*$']",WBA,BMW
+740LEX,"['^7J2.*$', '^7J210.*$', '^7J.*$']",WBA,BMW
+745 E,['^7D610.*$'],WBA,BMW
+745LEX,"['^7W410.*$', '^7W4.*0$']",WBA,BMW
+750LI,"['^GK2.*$', '^KC8.*$', '^HN8.*$', '^YE8.*$', '^KB81.*$', '^HL8.*$', '^GC8.*$']",WBA,BMW
+750 I,['^HL8.*$'],WBA,BMW
+840,['^EF610.*$'],WBA,BMW
+840I XDRIVE GRAN COUPE,['^GV410.*$'],WBA,BMW
+850,['^EG.*10$'],WBA,BMW
+745LI,['^GN610.*$'],WBA,BMW
+BMW 428I COUPE,['^3N710.*$'],WBA,BMW
+BMW 520D LUXURY,['^JF310.*$'],WBA,BMW
+BMW X4 XDRIVE20D,['^XX110.*$'],WBA,BMW
+X5 40EX,['^KT010.*$'],WBA,BMW
+I 125,['^UC310.*$'],WBA,BMW
+L7,['^GK610.*$'],WBA,BMW
+M 850I,['^BC4A0.*$'],WBA,BMW
+M135I XDRIVE,['^7L110.*$'],WBA,BMW
+M235I,['^1J710.*$'],WBA,BMW
+M5,['^DC210.*$'],WBA,BMW
+M850IX,['^FY4A0.*$'],WBA,BMW
+518L,['^DK110.*$'],WBA,BMW
+T20I,['^UL520.*$'],WBA,BMW
+X1 XDRIVE20D,['^JJ110.*$'],WBA,BMW
+X1 XDRIVE20I,['^11DG0.*$'],WBA,BMW
+X2,['^YH3A0.*$'],WBA,BMW
+X4 XDRIVE20D,['^31CA0.*$'],WBA,BMW
+X4 XDRIVE20D XLINE,['^VJ110.*$'],WBA,BMW
+X4 XDRIVE20I,['^21DT0.*$'],WBA,BMW
+X6 XDRIVE 30D,['^KV210.*$'],WBA,BMW
+X6,"['^KU210.*$', '^FG810.*$']",WBA,BMW
+Z 3,"['^CK510.*$', '^CH710.*$']",WBA,BMW
+Z4,"['^LL5.*$', '^LM7.*$', '^HF3.*$', '^LM5.*5$']",WBA,BMW
+Z8,['^EJ1.*$'],WBA,BMW
+Z8 MPOWER,['^EJ110.*$'],WBA,BMW
+--,['^1M110.*$'],WBS,BMW
+1-SERIES,['^UR9C5.*$'],WBS,BMW
+520I,['^HB510.*$'],WBS,BMW
+M5,"['^.*10$', '^NB9.*$', '^FV9.*$', '^6C910.*$', '^DE9.*$', '^.*0$', '^JF0.*$']",WBS,BMW
+M-COUPE,['^UR910.*$'],WBS,BMW
+M2,"['^1H9.*$', '^2U7C.*$']",WBS,BMW
+M2 COMPETITION PACKAGE,['^2U710.*$'],WBS,BMW
+M3,"['^KG9.*$', '^AK03.*$', '^BG93.*$', '^PM9.*$', '^DX9.*$', '^WD9.*$', '^BR9.*$', '^BF9.*$', '^8M9.*$', '^BL9.*$', '^3C9.*$']",WBS,BMW
+M4,"['^3U9.*$', '^3R9.*$', '^3R910.*$']",WBS,BMW
+M4 COMPETITION M XDRIVE,['^41AZ0.*$'],WBS,BMW
+M4 CS,['^3S710.*$'],WBS,BMW
+M6,"['^LZ9.*$', '^LX9.*$', '^EH9.*$']",WBS,BMW
+M8,['^.*0C0$'],WBS,BMW
+M8 GRAN COUPE,['^GV0C0.*$'],WBS,BMW
+X4 M,['^UJ010.*$'],WBS,BMW
+X6,['^GZ010.*$'],WBS,BMW
+Z3 M,['^CM910.*$'],WBS,BMW
+Z4 M,['^DU910.*$'],WBS,BMW
+I3,"['^1Z6C.*$', '^1Z8C.*$', '^7Z2.*$', '^1Z4C5.*$', '^8P4C.*$', '^1Z2.*$', '^1Z210.*$']",WBY,BMW
+F800GS,['^1Z410.*$'],WBY,BMW
+I3 120AH SOL PLUS,['^8P210.*$'],WBY,BMW
+I4,['^33AW.*$'],WBY,BMW
+I4 EDRIVE40,['^71AW0.*$'],WBY,BMW
+I8,"['^2Z2.*$', '^2Z6.*$']",WBY,BMW
+I8 HYBRID,['^2Z210.*$'],WBY,BMW
+IX,['^11CF0.*$'],WBY,BMW
+IX3 M SPORT,['^41DU0.*$'],WBY,BMW
+2644,['^AHDAA.*$'],WD3,Mercedes
+3340,['^9HDAA.*$'],WD3,Mercedes
+3354,['^MHDAB.*$'],WD3,Mercedes
+3848,['^9HDAB.*$'],WD3,Mercedes
+ACTROS,['^9HPAD.*$'],WD3,Mercedes
+BENZ,['^YE1B7.*$'],WD3,Mercedes
+CDI 208,['^YB047.*$'],WD3,Mercedes
+CDI 416,['^YB548.*$'],WD3,Mercedes
+METRIS,['^PG2EA.*$'],WD3,Mercedes
+SPRINTER,"['^YE4.*$', '^YF4.*$']",WD3,Mercedes
+SPRINTER 316,['^YE5B7.*$'],WD3,Mercedes
+VITO,['^YA581.*$'],WD3,Mercedes
+CDI 311,['^WB247.*$'],WD4,Mercedes
+METRIS,['^PG2EE.*$'],WD4,Mercedes
+VIANO,"['^WA6.*$', '^WA5.*$', '^W.*$']",WD4,Mercedes
+2040,['^CHDAA.*$'],WDA,Mercedes
+318IA,['^AL310.*$'],WDA,Mercedes
+M3,['^BF210.*$'],WDA,Mercedes
+3335,['^KHAAA.*$'],WDA,Mercedes
+3340,['^9HDAA.*$'],WDA,Mercedes
+ACTROS,"['^KHCA.*$', '^NHBAA.*$', '^KHCAA.*$']",WDA,Mercedes
+3848,['^9HDAB.*$'],WDA,Mercedes
+4144,['^NHAAA.*$'],WDA,Mercedes
+ACTROSS 2632,['^THCAA.*$'],WDA,Mercedes
+SPRINTER,['^PF4C.*$'],WDA,Mercedes
+X6,['^FG810.*$'],WDA,Mercedes
+1018L,['^97004.*$'],WDB,Mercedes
+1113,['^35801.*$'],WDB,Mercedes
+SE 300,['^12602.*$'],WDB,Mercedes
+ATEGO,"['^9702.*$', '^970.*$', '^9670.*$', '^97025.*$']",WDB,Mercedes
+E 280,"['^1.*$', '^2083.*$', '^1240.*$', '^12402.*$', '^12.*$', '^123.*2$']",WDB,Mercedes
+1317,['^67623.*$'],WDB,Mercedes
+1625,['^617.*3$'],WDB,Mercedes
+1722,"['^652.*3$', '^65233.*$']",WDB,Mercedes
+2635,"['^655.*$', '^6.*$', '^659.*3$', '^65903.*$', '^659.*$', '^658.*$', '^6555.*$', '^65.*$']",WDB,Mercedes
+1838,['^655.*$'],WDB,Mercedes
+ACTROS,"['^953.*$', '^903.*1$', '^930.*$', '^963.*2$', '^96423.*$', '^934.*$', '^963.*$', '^906.*$', '^933.*$', '^964.*$', '^904.*6$', '^9540.*$', '^954.*$', '^96342.*$', '^96340.*$', '^932.*$', '^95053.*$', '^9.*16$', '^952.*$', '^9.*$', '^93.*$', '^950.*$']",WDB,Mercedes
+C180,['^20201.*$'],WDB,Mercedes
+1820,['^65202.*$'],WDB,Mercedes
+1824,['^652.*0$'],WDB,Mercedes
+1827,['^652.*5$'],WDB,Mercedes
+1828,['^95050.*$'],WDB,Mercedes
+1844,"['^65549.*$', '^93403.*$', '^655.*$', '^9340.*$']",WDB,Mercedes
+1835,['^65400.*$'],WDB,Mercedes
+1836 L/NR,['^93004.*$'],WDB,Mercedes
+1844 L,['^93003.*$'],WDB,Mercedes
+1840,"['^655.*$', '^652.*$', '^9540.*$', '^9.*403$', '^954.*$', '^95.*$', '^95403.*$']",WDB,Mercedes
+1748,['^65559.*$'],WDB,Mercedes
+1850LS,['^65752.*$'],WDB,Mercedes
+190 E,['^2010.*$'],WDB,Mercedes
+190E,['^20103.*$'],WDB,Mercedes
+1924,['^34600.*$'],WDB,Mercedes
+1931,['^65500.*$'],WDB,Mercedes
+1948,['^65519.*$'],WDB,Mercedes
+CLK 230,"['^20834.*$', '^TJ4.*H$', '^208.*4$']",WDB,Mercedes
+200/123,['^12322.*$'],WDB,Mercedes
+2031,['^656.*$'],WDB,Mercedes
+2034,['^65514.*$'],WDB,Mercedes
+2040,['^93401.*$'],WDB,Mercedes
+SPRINTER,"['^90661.*$', '^906.*1$', '^90663.*$']",WDB,Mercedes
+2228,['^62303.*$'],WDB,Mercedes
+2233,['^62347.*$'],WDB,Mercedes
+E200K,"['^UF5.*X$', '^208.*$', '^1400.*$', '^208.*4$', '^203.*$', '^.*4$', '^211.*$', '^2102.*$', '^1240.*$', '^124.*$', '^2110.*$', '^UF7.*$', '^JF65.*$', '^124.*3$', '^1260.*$', '^210.*$', '^2.*$', '^220.*6$']",WDB,Mercedes
+E200,['^21003.*$'],WDB,Mercedes
+240D,['^AB23A.*$'],WDB,Mercedes
+2435,"['^658.*$', '^6554.*$']",WDB,Mercedes
+250 C,['^RN5CB.*$'],WDB,Mercedes
+2524,['^65342.*$'],WDB,Mercedes
+2527,['^65307.*$'],WDB,Mercedes
+2534,['^65346.*$'],WDB,Mercedes
+2535,['^65604.*$'],WDB,Mercedes
+2540,['^95020.*$'],WDB,Mercedes
+"ACTROS, ANTOS","['^9630.*$', '^96302.*$']",WDB,Mercedes
+2541,['^93020.*$'],WDB,Mercedes
+ACTROS 2546LS LD HRS,['^93423.*$'],WDB,Mercedes
+2624,"['^34303.*$', '^3430.*$']",WDB,Mercedes
+2631,['^659.*0$'],WDB,Mercedes
+2653 LS,['^93424.*$'],WDB,Mercedes
+2643,['^954.*4$'],WDB,Mercedes
+2638,"['^65914.*$', '^65508.*$']",WDB,Mercedes
+2650,['^65919.*$'],WDB,Mercedes
+280 TE AMG,['^12309.*$'],WDB,Mercedes
+SL 500,"['^2304.*$', '^10704.*$']",WDB,Mercedes
+"3,5 FLATBED / CHASSIS 311 CDI 4X4 / 3,5",['^90623.*$'],WDB,Mercedes
+300,"['^CA2.*D$', '^EA5.*$', '^CB2.*$', '^EA3.*$', '^CA25D.*$', '^FA61E.*$']",WDB,Mercedes
+300 GE,['^46322.*$'],WDB,Mercedes
+MERCEDES,"['^12409.*$', '^12404.*$']",WDB,Mercedes
+CE 300,['^12405.*$'],WDB,Mercedes
+3234,['^62511.*$'],WDB,Mercedes
+ACTROS 3541,"['^93330.*$', '^9.*330$']",WDB,Mercedes
+3335,['^95316.*$'],WDB,Mercedes
+4031,"['^9.*016$', '^93016.*$']",WDB,Mercedes
+3348,['^95216.*$'],WDB,Mercedes
+S 320,"['^203.*6$', '^22016.*$', '^651.*$', '^1400.*$', '^22006.*$', '^14003.*$', '^GA33.*$', '^220.*6$']",WDB,Mercedes
+3535,['^65509.*$'],WDB,Mercedes
+380,['^BA45.*$'],WDB,Mercedes
+4040,"['^95016.*$', '^93231.*$']",WDB,Mercedes
+3838,['^65601.*$'],WDB,Mercedes
+3848,"['^95.*16$', '^95416.*$']",WDB,Mercedes
+4143,['^95231.*$'],WDB,Mercedes
+420,['^CA35.*$'],WDB,Mercedes
+E 55,"['^21007.*$', '^211.*7$', '^210.*7$']",WDB,Mercedes
+450 SLC,['^10702.*$'],WDB,Mercedes
+SEL 560,"['^CA39.*$', '^CA45.*$', '^1260.*$', '^12603.*$']",WDB,Mercedes
+500-CLASS,['^FA66E.*$'],WDB,Mercedes
+516,['^906.*5$'],WDB,Mercedes
+57,['^VF7.*$'],WDB,Mercedes
+S 500,"['^NG8.*J$', '^6251.*$', '^SK7.*F$', '^220.*$', '^2093.*$', '^2211.*$', '^203.*$', '^1400.*$', '^GA51.*$', '^.*7$', '^140.*$']",WDB,Mercedes
+62,['^VG79J.*$'],WDB,Mercedes
+814,"['^67.*$', '^674.*1$']",WDB,Mercedes
+817,['^67606.*$'],WDB,Mercedes
+818,['^970.*1$'],WDB,Mercedes
+822 L,['^97021.*$'],WDB,Mercedes
+A160,['^168.*3$'],WDB,Mercedes
+ACTROS 1831,['^95207.*$'],WDB,Mercedes
+ACTROS 1846LSNRL LD HRS,['^93406.*$'],WDB,Mercedes
+ACTROS 2050,['^9340B.*$'],WDB,Mercedes
+ACTROS 3236K,['^93230.*$'],WDB,Mercedes
+ACTROS 3331,['^93216.*$'],WDB,Mercedes
+CL 500,['^21537.*$'],WDB,Mercedes
+ARMORED,['^62433.*$'],WDB,Mercedes
+ATEGO 2528L SLP,['^95060.*$'],WDB,Mercedes
+ATEGO 815 DAY,['^97002.*$'],WDB,Mercedes
+C 200,"['^RN4.*H$', '^20304.*$', '^2020.*$', '^RF52.*$', '^203.*$', '^RN4.*J$', '^20.*$', '^203.*4$', '^HA2.*G$']",WDB,Mercedes
+C 180,['^2037.*$'],WDB,Mercedes
+C 43,['^HA33G.*$'],WDB,Mercedes
+C 43 AMG,['^HA33E.*$'],WDB,Mercedes
+C-CLASS,"['^RF40J.*$', '^RF4.*$', '^RN4.*J$', '^RF5.*$', '^HA2.*$', '^RF92.*$', '^RF6.*J$', '^RF61J.*$']",WDB,Mercedes
+C 230,['^20374.*$'],WDB,Mercedes
+CDI 313,['^90366.*$'],WDB,Mercedes
+CE 280,['^12305.*$'],WDB,Mercedes
+CL-CLASS,['^PJ7.*J$'],WDB,Mercedes
+CLC 180,['^RN4GB.*$'],WDB,Mercedes
+CLC 200,['^RN4BB.*$'],WDB,Mercedes
+CLC 230,['^RN52H.*$'],WDB,Mercedes
+CLK320,"['^20936.*$', '^209.*6$']",WDB,Mercedes
+CLK350,['^20945.*$'],WDB,Mercedes
+CLK 500,['^209.*7$'],WDB,Mercedes
+CLK 55 AMG,['^20937.*$'],WDB,Mercedes
+CLK-CLASS,"['^TK5.*$', '^TK56.*$', '^TJ7.*$', '^TK7.*$', '^TJ5.*$']",WDB,Mercedes
+CLK430,['^LJ70G.*$'],WDB,Mercedes
+SEC 560,['^12604.*$'],WDB,Mercedes
+D 300,"['^12.*13$', '^12413.*$']",WDB,Mercedes
+E 260,['^EA30D.*$'],WDB,Mercedes
+E 270,['^21101.*$'],WDB,Mercedes
+E500,"['^211.*7$', '^UF7.*$']",WDB,Mercedes
+E-CLASS,"['^JF7.*$', '^UF56.*$', '^JF82.*$', '^EA3.*E$', '^UF65J.*$', '^2102.*$', '^UF8.*$', '^UF7.*$', '^JF65.*$']",WDB,Mercedes
+E-CLASS WAGON,['^UH56J.*$'],WDB,Mercedes
+E240,"['^210.*6$', '^210.*$', '^21.*6$']",WDB,Mercedes
+ENGINE,['^96760.*$'],WDB,Mercedes
+G 230,['^46021.*$'],WDB,Mercedes
+GD 290,['^46131.*$'],WDB,Mercedes
+G 500,"['^4632.*$', '^4.*$', '^4271.*$', '^437.*$', '^46323.*$']",WDB,Mercedes
+G 63,['^46327.*$'],WDB,Mercedes
+G55 COUPE,['^46333.*$'],WDB,Mercedes
+GE 280,['^46022.*$'],WDB,Mercedes
+CL 600,"['^14007.*$', '^1.*07$']",WDB,Mercedes
+LOCOMOTIVE,['^62114.*$'],WDB,Mercedes
+LOWBED TRAILER,['^65013.*$'],WDB,Mercedes
+MAYBACH,['^240.*7$'],WDB,Mercedes
+MOBILE XRAY TRUCK,['^95061.*$'],WDB,Mercedes
+R,['^67708.*$'],WDB,Mercedes
+S-CLASS,"['^NG7.*J$', '^GA3.*$', '^NF6.*J$', '^GA4.*$']",WDB,Mercedes
+S 280,['^14002.*$'],WDB,Mercedes
+SEL 450,['^11603.*$'],WDB,Mercedes
+SL 350,['^SK5.*F$'],WDB,Mercedes
+560,['^BA48D.*$'],WDB,Mercedes
+SL 63,['^SK70F.*$'],WDB,Mercedes
+SL 600,['^12907.*$'],WDB,Mercedes
+SL-CLASS,"['^SK7.*$', '^FA76.*$', '^FA67E.*$', '^FA6.*$']",WDB,Mercedes
+SLK,"['^WK5.*$', '^WK56F.*$']",WDB,Mercedes
+SLK 200,"['^17144.*$', '^WK4.*F$']",WDB,Mercedes
+SLK 300,['^WK5EA.*$'],WDB,Mercedes
+SLK230,"['^1704.*$', '^17.*$']",WDB,Mercedes
+SLK 55 AMG,['^17147.*$'],WDB,Mercedes
+SLK350,['^17145.*$'],WDB,Mercedes
+WITH CONCRETE PUMPER,['^97007.*$'],WDB,Mercedes
+WITH CRANE,['^6760.*$'],WDB,Mercedes
+G 65,['^YC7EF.*$'],WDC,Mercedes
+GLA-CLASS,"['^TG4.*B$', '^TG.*B$', '^TG5CB.*$']",WDC,Mercedes
+GLC-CLASS,"['^.*B$', '^0J8.*B$', '^0G8.*B$', '^0J4KB.*$', '^0G5EB.*$', '^0G4.*B$', '^OG4.*B$', '^0.*6EB$']",WDC,Mercedes
+ML 63,"['^DA7EB.*$', '^BB77E.*$']",WDC,Mercedes
+G 63,"['^YR4.*$', '^YC7CF.*$', '^YC7.*$', '^YC3.*$', '^Y.*F$', '^Y.*$']",WDC,Mercedes
+C 200,['^25338.*$'],WDC,Mercedes
+GLC 220 D 4MATIC COUPE,['^0J0FB.*$'],WDC,Mercedes
+GLK 280,['^GG81D.*$'],WDC,Mercedes
+M CLASS ML350 BLUETEC,['^DA2EB.*$'],WDC,Mercedes
+G 500,['^YC3EF.*$'],WDC,Mercedes
+G 55,"['^YC7AF.*$', '^YR7.*$']",WDC,Mercedes
+GL 450,['^BF7.*E$'],WDC,Mercedes
+GL 500,"['^BF8.*E$', '^.*E$', '^DF7DE.*$', '^DF7.*E$']",WDC,Mercedes
+GL 550,['^16488.*$'],WDC,Mercedes
+GL 63,['^DF7EE.*$'],WDC,Mercedes
+GLA 200 CDI 4MATIC,['^TG0CB.*$'],WDC,Mercedes
+GLA 220,['^TG4FB.*$'],WDC,Mercedes
+GLA200 D,['^TG0JB.*$'],WDC,Mercedes
+GLB-CLASS,['^4M4HB.*$'],WDC,Mercedes
+GLC,['^253.*$'],WDC,Mercedes
+GLC 250,['^0.*4GB$'],WDC,Mercedes
+GLC350E,['^25395.*$'],WDC,Mercedes
+GLC220D,['^0.*0FB$'],WDC,Mercedes
+GLC350ECOUPE,['^0J5EB.*$'],WDC,Mercedes
+GLC43 4MATIC,['^0J6EB.*$'],WDC,Mercedes
+GLE 63,['^ED7FB.*$'],WDC,Mercedes
+GLE 350D,['^ED2EB.*$'],WDC,Mercedes
+GLE 43,['^ED6EB.*$'],WDC,Mercedes
+GLE CLASS GLE450,['^FB5KB.*$'],WDC,Mercedes
+GLK 250,['^GG3HB.*$'],WDC,Mercedes
+GLK 300,['^GG8BB.*$'],WDC,Mercedes
+GLK-CLASS,"['^GG5.*B$', '^GG8.*B$', '^GG.*B$']",WDC,Mercedes
+GLS 63,['^DF7FE.*$'],WDC,Mercedes
+M CLASS ML400 4MATIC,['^DA5GB.*$'],WDC,Mercedes
+ML 500,"['^BB7.*$', '^DA7DB.*$', '^1641.*$']",WDC,Mercedes
+ML320,"['^16315.*$', '^1631.*$']",WDC,Mercedes
+ML 350,['^1660.*$'],WDC,Mercedes
+ML 400,['^16312.*$'],WDC,Mercedes
+ML55,['^16317.*$'],WDC,Mercedes
+ML350,['^BB8.*$'],WDC,Mercedes
+MULTIPURPOSE VEHICLE (MPV),['^DF5GE.*$'],WDC,Mercedes
+R 280,['^CB54E.*$'],WDC,Mercedes
+R 300,['^CB5EE.*$'],WDC,Mercedes
+R 350,['^CB6.*E$'],WDC,Mercedes
+R KLASA,['^25334.*$'],WDC,Mercedes
+R500,['^251.*7$'],WDC,Mercedes
+E-CLASS,"['^.*B$', '^UG3CB.*$', '^UG3.*B$', '^HF9.*B$', '^XJ8.*B$', '^HF9HB.*$', '^HF8.*B$', '^1J6.*B$', '^UF3CB.*$', '^ZF4KB.*$', '^KK3.*F$', '^ZF4.*B$', '^1J4.*B$', '^HF7.*B$', '^KJ6.*B$', '^UG7.*B$', '^KJ5.*B$', '^SJ4.*B$', '^KK4.*F$', '^207.*3$', '^HF8HB.*$', '^HF5.*B$', '^WF1.*B$', '^HF6.*B$', '^ZF6.*B$', '^ZF6JB.*$', '^ZF6GB.*$', '^KK7.*F$', '^ZF8.*B$', '^KK6.*F$', '^KJ7.*B$', '^7X5.*B$', '^2130.*$', '^7X8.*B$', '^KK5.*F$', '^1K6.*B$', '^HF7HB.*$', '^KK7DF.*$', '^5J4.*B$', '^HF3.*B$']",WDD,Mercedes-Benz
+S-CLASS,"['^NG71X.*$', '^UG8JB.*$', '^NF8.*$', '^NG8.*$', '^UG8CB.*$', '^XJ8.*B$', '^217.*$', '^NG8GB.*$', '^UG6.*B$', '^UG6EB.*$', '^22205.*$', '^UG8FB.*$', '^UG8GB.*$', '^UG6F.*$', '^UG6GB.*$', '^222.*$', '^NG7.*$', '^UG6CB.*$', '^2211.*$', '^UG8.*B$', '^XK8.*B$']",WDD,Mercedes-Benz
+C 350,['^20504.*$'],WDD,Mercedes-Benz
+E 250,['^207.*3$'],WDD,Mercedes-Benz
+212,['^21203.*$'],WDD,Mercedes-Benz
+E 200,"['^238.*$', '^20743.*$', '^2130.*$', '^21204.*$', '^21308.*$', '^21304.*$', '^2120.*$', '^2.*$', '^207.*$']",WDD,Mercedes-Benz
+E 320,['^KK6CF.*$'],WDD,Mercedes-Benz
+S 350,"['^NG5.*$', '^NG5HB.*$']",WDD,Mercedes-Benz
+A 250,['^BF4E.*$'],WDD,Mercedes-Benz
+A 45,['^BF5CB.*$'],WDD,Mercedes-Benz
+A-CLASS,['^3G4.*B$'],WDD,Mercedes-Benz
+A200,['^BF4DB.*$'],WDD,Mercedes-Benz
+A45S AMG,['^3F5EB.*$'],WDD,Mercedes-Benz
+C-CLASS,"['^205.*$', '^UG5HB.*$', '^221.*5$', '^WJ4JB.*$', '^WF4HB.*$', '^22.*$', '^WJ8GB.*$', '^WK4.*B$', '^GF4.*$', '^WF8.*B$', '^WK8.*B$', '^WF4.*B$', '^WJ8.*B$', '^GF5.*$', '^GJ5H.*$', '^WJ6EB.*$', '^WJ8HB.*$', '^GF4HB.*$', '^2040.*$', '^GF8.*$', '^WJ4.*B$', '^20537.*$', '^GF7.*$']",WDD,Mercedes-Benz
+AMG GT,['^YJ7.*A$'],WDD,Mercedes-Benz
+B 200,"['^FH3.*$', '^FH3DB.*$']",WDD,Mercedes-Benz
+B KLASA W246,['^25735.*$'],WDD,Mercedes-Benz
+CLA-CLASS,"['^5J4.*B$', '^SJ4.*B$', '^SJ5CB.*$']",WDD,Mercedes-Benz
+B-CLASS,"['^SJ4FB.*$', '^VP9AB.*$']",WDD,Mercedes-Benz
+BENZ SLR,['^19937.*$'],WDD,Mercedes-Benz
+C 200,"['^GF41X.*$', '^20.*04$', '^205.*$', '^GF4.*$', '^2314.*$', '^205.*7$', '^20.*$', '^20404.*$', '^212.*$', '^204.*$', '^2110.*$', '^2.*$', '^20507.*$']",WDD,Mercedes-Benz
+C 250,['^20405.*$'],WDD,Mercedes-Benz
+CL 500,"['^EJ71X.*$', '^EJ7.*X$', '^EJ7.*$']",WDD,Mercedes-Benz
+C KLASA W205,['^20547.*$'],WDD,Mercedes-Benz
+C180 COUPE,['^20433.*$'],WDD,Mercedes-Benz
+C200,['^WK4CB.*$'],WDD,Mercedes-Benz
+C220D,"['^WF0EB.*$', '^WF0.*B$']",WDD,Mercedes-Benz
+C220 D AMG LINE AUTO,['^20500.*$'],WDD,Mercedes-Benz
+C220D 4 MATIC,['^WF1FB.*$'],WDD,Mercedes-Benz
+CLS 500,"['^2193.*$', '^21937.*$']",WDD,Mercedes-Benz
+CL 600,['^EJ76X.*$'],WDD,Mercedes-Benz
+CL 65,['^EJ79X.*$'],WDD,Mercedes-Benz
+CL-CLASS,"['^EJ.*$', '^EJ7.*X$', '^EJ8.*$']",WDD,Mercedes-Benz
+CLA 200,['^11734.*$'],WDD,Mercedes-Benz
+CLA200 CDI,['^SJ0JB.*$'],WDD,Mercedes-Benz
+CLA 45 AMG,['^11735.*$'],WDD,Mercedes-Benz
+CL 63 AMG,['^EJ77X.*$'],WDD,Mercedes-Benz
+SLK 200,['^PK4JA.*$'],WDD,Mercedes-Benz
+CLS 300,['^DJ5EB.*$'],WDD,Mercedes-Benz
+CLS 300 D,['^2J1JB.*$'],WDD,Mercedes-Benz
+CLS 350,['^DJ5.*$'],WDD,Mercedes-Benz
+CLS 400 D 4MATIC,['^2J2DB.*$'],WDD,Mercedes-Benz
+CLS CLASS CLS53 AMG,['^2J6BB.*$'],WDD,Mercedes-Benz
+CLS-CLASS,"['^LJ7.*B$', '^LJ9.*B$', '^2J5.*B$', '^DJ7.*$', '^2183.*$']",WDD,Mercedes-Benz
+CLS250 D 4MATIC,['^LJ9HB.*$'],WDD,Mercedes-Benz
+E 63,['^21207.*$'],WDD,Mercedes-Benz
+E220D,['^ZF0EB.*$'],WDD,Mercedes-Benz
+E220 D 4MATIC,['^ZF0FB.*$'],WDD,Mercedes-Benz
+E 300,['^HF5.*B$'],WDD,Mercedes-Benz
+E KLASA W212,['^21306.*$'],WDD,Mercedes-Benz
+E CLASS E350,['^KJ8JB.*$'],WDD,Mercedes-Benz
+E200CABRIOLET,['^23844.*$'],WDD,Mercedes-Benz
+E-KLASSE COUPE,['^23834.*$'],WDD,Mercedes-Benz
+E200 COUPE,['^KJ3EB.*$'],WDD,Mercedes-Benz
+E220 BLUETEC,['^HF0AB.*$'],WDD,Mercedes-Benz
+E220 CDI,['^HF0CB.*$'],WDD,Mercedes-Benz
+E220D COUPE,['^1J1EB.*$'],WDD,Mercedes-Benz
+E350 D,['^ZF3DB.*$'],WDD,Mercedes-Benz
+E350E,['^21305.*$'],WDD,Mercedes-Benz
+EQC 400 4MATIC,['^8P9AB.*$'],WDD,Mercedes-Benz
+GLA-CLASS,['^TG5CB.*$'],WDD,Mercedes-Benz
+GT 43 AMG,['^29065.*$'],WDD,Mercedes-Benz
+GT C,['^YK8AA.*$'],WDD,Mercedes-Benz
+GTR AMG,['^YJ7KA.*$'],WDD,Mercedes-Benz
+MAYBACH,"['^2229.*$', '^UX8.*B$', '^UX8GB.*$']",WDD,Mercedes-Benz
+S 280,"['^N.*54X$', '^NF54X.*$']",WDD,Mercedes-Benz
+S 350 D 4MATIC L,['^UG3DB.*$'],WDD,Mercedes-Benz
+S 400,['^21736.*$'],WDD,Mercedes-Benz
+S 63 AMG,['^NG7EB.*$'],WDD,Mercedes-Benz
+S 65 AMG,['^NG79X.*$'],WDD,Mercedes-Benz
+S-CLASS HYBRID,['^NG9FB.*$'],WDD,Mercedes-Benz
+S350 D 4MATIC,['^UF3DB.*$'],WDD,Mercedes-Benz
+S350 D,['^UF2AB.*$'],WDD,Mercedes-Benz
+S350D 4MATIC,['^UF2BB.*$'],WDD,Mercedes-Benz
+S500,['^UX8CB.*$'],WDD,Mercedes-Benz
+SL 350,['^JK5HA.*$'],WDD,Mercedes-Benz
+SL-CLASS,"['^JK7.*A$', '^JK6.*A$']",WDD,Mercedes-Benz
+SLC 200,['^PK3EA.*$'],WDD,Mercedes-Benz
+SLC AMG SLC 43,['^17246.*$'],WDD,Mercedes-Benz
+SLK,"['^PK.*A$', '^PK4HA.*$']",WDD,Mercedes-Benz
+SLK200,['^17244.*$'],WDD,Mercedes-Benz
+SLR,['^AK76F.*$'],WDD,Mercedes-Benz
+SLS AMG,"['^R.*7HA$', '^RJ7HA.*$']",WDD,Mercedes-Benz
+SLS GT FINAL EDITION,['^RJ7JA.*$'],WDD,Mercedes-Benz
+CITAN,['^41560.*$'],WDF,Mercedes-Benz
+VITO,"['^.*60$', '^44760.*$', '^447.*0$', '^639.*$', '^.*0$', '^63960.*$']",WDF,Mercedes-Benz
+"V-CLASS, VITO",['^44770.*$'],WDF,Mercedes-Benz
+ACTROS,['^96340.*$'],WDF,Mercedes-Benz
+VIANO,['^63981.*$'],WDF,Mercedes-Benz
+SPRINTER,['^9036.*$'],WDF,Mercedes-Benz
+V CLASS,['^44781.*$'],WDF,Mercedes-Benz
+V KLASA II,"['^47023.*$', '^4702.*$']",WDF,Mercedes-Benz
++,['^RN40J.*$'],WDP,Boat
+CLC 200,['^BN41H.*$'],WDR,Mercedes
+SPRINTER,['^PE.*DD$'],WDY,Freightliner
+MB 324,['^RE4A6.*$'],WDZ,Mercedes
+MOBILE LAB,['^63420.*$'],WEB,Mercedes
+S 600 MAYBACH,['^22017.*$'],WEB,Mercedes
+ESCAPE,['^CM4A.*$'],WF0,Ford
+FIESTA,"['^TJ1.*$', '^BK1DB.*$', '^FJ8.*P$', '^TJ3.*$']",WF0,Ford
+FOCUS,"['^TB1.*F$', '^SD9.*$', '^FD4.*$', '^TD9.*$', '^FCD.*B$', '^BB2.*$', '^BC4K.*$', '^BC2.*$', '^FC2.*B$', '^FCX.*B$', '^BC7K.*$', '^BC3.*$', '^FD9.*$', '^TD6.*$', '^SD65.*$', '^TD45.*$', '^FDX.*F$', '^TD3.*$', '^BB3.*$']",WF0,Ford
+FUSION,['^AC4DE.*$'],WF0,Ford
+SABEL,['^BXXWP.*$'],WF0,Ford
+MONDEO,"['^MB2.*E$', '^HB44.*$', '^MB1.*E$', '^FB74.*$', '^FB44.*$']",WF0,Ford
+MONDEO 2.0,['^DXXWP.*$'],WF0,Ford
+TOURNEO CUSTOM,['^3XXTT.*$'],WF0,Ford
+TRANSIT,['^BG1Y.*$'],WF0,Ford
+190 E31,['^B1VNS.*$'],WJM,Iveco
+19030,['^E2JRJ.*$'],WJM,Iveco
+310,['^A1VNH.*$'],WJM,Iveco
+38030,['^.*3GMS$'],WJM,Iveco
+380,['^E3T.*$'],WJM,Iveco
+DUMP TRUCK,['^E3TPT.*$'],WJM,Iveco
+AD380T38H,"['^E3TRS.*$', '^E3TR.*$']",WJM,Iveco
+420,"['^J4CS.*$', '^S3TS.*$']",WJM,Iveco
+7.20E+44,['^S3TSS.*$'],WJM,Iveco
+AD380T38WH,['^F3TRS.*$'],WJM,Iveco
+IVECO,['^S3TPS.*$'],WJM,Iveco
+EUROTECH,['^M1VRN.*$'],WJM,Iveco
+STRALIS 420,['^M1VSH.*$'],WJM,Iveco
+STRALIS 430,['^E2NUH.*$'],WJM,Iveco
+TANKER,['^B1CD8.*$'],WJM,Iveco
+TRUCK,"['^E3T.*$', '^M1V.*$', '^E3TR.*$', '^F3T.*$']",WJM,Iveco
+18.224LC,['^L8727.*$'],WMA,Man
+MAN,['^L90ZZ.*$'],WMA,Man
+TG410A,['^H05ZZ.*$'],WMA,Man
+33.372,"['^T.*$', '^T48.*$']",WMA,Man
+19.464,['^T32ZZ.*$'],WMA,Man
+TGA 33.410,['^H28ZZ.*$'],WMA,Man
+410A FE,"['^T.*ZZ$', '^T4.*ZZ$']",WMA,Man
+TGA 33.400,"['^HW2ZZ.*$', '^H.*ZZ$']",WMA,Man
+33422,['^F09F6.*$'],WMA,Man
+33423,['^T42.*$'],WMA,Man
+FE 360A,['^T45ZZ.*$'],WMA,Man
+SUE 240,"['^.*XZZ$', '^N1.*ZZ$', '^21XZZ.*$', '^.*ZZ$']",WMA,Man
+41.373,['^T4605.*$'],WMA,Man
+414 19,['^T32.*$'],WMA,Man
+F2000,['^T0202.*$'],WMA,Man
+F2000 22.403FPLT S,['^T32V0.*$'],WMA,Man
+IRIZAR,['^A51ZZ.*$'],WMA,Man
+,"['^08SZZ.*$', '^L870.*$']",WMA,Man
+PICKUP TRUCK WITH CRANE,['^I90ZZ.*$'],WMA,Man
+TGA,['^H56ZZ.*$'],WMA,Man
+RHC 444,['^R07ZZ.*$'],WMA,Man
+TGA 18 410,['^H12ZZ.*$'],WMA,Man
+TGA 19.400,['^HW1ZZ.*$'],WMA,Man
+TGA 28.410,['^H86ZZ.*$'],WMA,Man
+TGA 41.360,['^HW3ZZ.*$'],WMA,Man
+TGL,['^N14ZZ.*$'],WMA,Man
+TGL12-220,['^N15ZZ.*$'],WMA,Man
+TGM 18.240,['^N38ZZ.*$'],WMA,Man
+TGM18.240,['^N.*8ZZ$'],WMA,Man
+TGS 33.360,"['^26WZZ.*$', '^26.*ZZ$']",WMA,Man
+TGS 36.141,['^39WZZ.*$'],WMA,Man
+TGS 40.430,['^58WZZ.*$'],WMA,Man
+TGS 40.440,['^34WZZ.*$'],WMA,Man
+TGM13.240,['^30WZZ.*$'],WMA,Man
+VERMEER,['^53282.*$'],WMA,Man
+WELL EXCAVATOR,['^43308.*$'],WMA,Man
+2.4,['^4513.*$'],WME,smart
+BRABUS,['^45334.*$'],WME,smart
+FORTWO,"['^EK3.*$', '^EJ9AA.*$', '^EJ3.*$']",WME,smart
+FORFOUR,['^45309.*$'],WME,smart
+SMART,['^01MC0.*$'],WME,smart
+COOPER,"['^ZC5.*$', '^SV3.*$', '^MF3.*$', '^WG9.*$', '^SY3.*$', '^RE3.*$', '^XP3.*0$', '^SU9.*$', '^WG510.*$', '^L.*$', '^XS7.*$', '^MM3.*$', '^RH3.*$', '^XP5C3.*$', '^ZN3.*$', '^XN310.*$', '^RC3.*$', '^LN5.*$', '^ZB3.*$', '^XP7.*$', '^XU3.*$', '^XP5.*$', '^XM9.*$', '^XR5.*0$', '^ZP3.*$', '^MF7.*$', '^XM7.*$', '^ML3.*$', '^XR3.*0$', '^XM5.*$', '^ZC3.*$', '^ZC510.*$', '^Z.*C5$', '^MS3.*$', '^RF3.*$', '^XU1.*$', '^XS5.*$', '^SU3.*$', '^LU1C.*$', '^XM510.*$', '^RA310.*$', '^LN5C.*$', '^SY1.*$', '^.*0$']",WMW,Mini
+COOPER S,['^SX3C5.*$'],WMW,Mini
+COOPER PACEMAN,['^SS5C5.*$'],WMW,Mini
+COOPER S CONVERTIBLE,['^51DL0.*$'],WMW,Mini
+K7,['^XV710.*$'],WMW,Mini
+PACEMAN,['^SS.*C5$'],WMW,Mini
+GTS AMG,['^19037.*$'],WMX,Mercedes
+SLS AMG,['^19737.*$'],WMX,Mercedes
+SLS-CLASS,['^19747.*$'],WMX,Mercedes
+ADAM,['^0MAP0.*$'],WOL,Opel
+ASTRA,['^OTGF4.*$'],WOL,Opel
+VECTRA,"['^00002.*$', '^0VB.*6$', '^00003.*$', '^OVB.*6$', '^0000.*$']",WOL,Opel
+CORSA,['^0SBF.*$'],WOL,Opel
+INSIGNIA,['^GX5EG.*$'],WOL,Opel
+ZVIRA,['^0TGF7.*$'],WOL,Opel
+718 BOXSTER,['^CC2A8.*$'],WP0,Porsche
+718 CAYMAN,['^A.*2A8$'],WP0,Porsche
+PANAMERA,"['^AA2.*9$', '^AF2.*7$', '^AA297.*$', '^AA09.*$', '^AB2.*$', '^ZZZ9.*$', '^CB2.*$', '^AD2.*9$', '^AA2.*$', '^AD2.*$', '^CD2.*9$']",WP0,Porsche
+CARRERA,['^ZZZ99.*$'],WP0,Porsche
+928,['^.*92$'],WP0,Porsche
+968,['^ZZZ96.*$'],WP0,Porsche
+BOXSTER,"['^CA2.*8$', '^.*8$']",WP0,Porsche
+CAYENNE,['^ZZZ9P.*$'],WP0,Porsche
+S 944,['^AA094.*$'],WP0,Porsche
+TAYCAN,"['^ZZZY1.*$', '^.*Y1$']",WP0,Porsche
+CAYENNE,"['^AD2.*$', '^AA2.*$', '^ZZZ9.*$', '^AB2.*$']",WP1,Porsche
+CAYENNE HYBRID,['^AE2A2.*$'],WP1,Porsche
+MACAN,['^.*5$'],WP1,Porsche
+MACAN GTS,['^AF295.*$'],WP1,Porsche
+"A4, RS4",['^ZZZ8H.*$'],WUA,Audi
+R8,['^ANB.*$'],WUA,Audi
+R8 GT,['^9NB42.*$'],WUA,Audi
+RS 5,['^.*F5$'],WUA,Audi
+RS 5 COUPE,['^PWAF5.*$'],WUA,Audi
+RS3,['^.*FF$'],WUA,Audi
+RS5,"['^ZZZ8T.*$', '^C6B.*$']",WUA,Audi
+RS6,['^PV54B.*$'],WUA,Audi
+S8,['^G2BFD.*$'],WUA,Audi
+CADDY,"['^ZZZ2K.*$', '^ZZZ.*$', '^CAZ.*E$', '^YBB7.*$']",WV1,Volkswagen
+VOLKSWAGEN,"['^.*2D$', '^ZZZ2D.*$']",WV1,Volkswagen
+TRANSPORTER,['^ZZZ7H.*$'],WV1,Volkswagen
+CADDY,['^ZZZ.*K$'],WV2,Volkswagen
+CARAVELLE,['^SAC7H.*$'],WV2,Volkswagen
+EUROVAN,['^.*B470$'],WV2,Volkswagen
+MULTIVAN,"['^.*7H$', '^ZZZ7H.*$']",WV2,Volkswagen
+VOLKSWAGEN,['^ZZZ70.*$'],WV2,Volkswagen
+EUROVAN,['^AH270.*$'],WV3,Volkswagen
+RTV,['^ZZZ70.*$'],WV3,Volkswagen
+TERAMONT,"['^DG2CA.*$', '^.*2CA$']",WVG,Volkswagen
+ID4,['^.*PE2$'],WVG,Volkswagen
+TAKWAN,['^ZZZ5N.*$'],WVG,Volkswagen
+TIGUAN,"['^AF2.*$', '^BV9.*$', '^AV7.*$', '^DE2.*$', '^BV7.*$', '^CE2.*$', '^BE2.*$']",WVG,Volkswagen
+TOUAREG,"['^ZF57.*$', '^AL27.*$', '^BC2.*P$', '^BE77L.*$']",WVG,Volkswagen
+GTI,"['^HV7.*$', '^.*71K$', '^FD7.*$', '^FV71K.*$']",WVW,Volkswagen
+ARTEON,['^GN2.*$'],WVW,Volkswagen
+BEETLE,"['^EV7.*$', '^AP1.*$', '^BK23.*$', '^ZZZ3C.*$', '^AB1.*$', '^AR7A.*$', '^ZZZ.*$', '^ZZZ3H.*$', '^EH2.*$', '^ZZZ.*N$']",WVW,Volkswagen
+CABRIOLET,['^CB515.*$'],WVW,Volkswagen
+SCIROCCO,"['^AC2.*$', '^B.*213$', '^FG2.*$', '^AE2.*$']",WVW,Volkswagen
+CORRADO,['^DC450.*$'],WVW,Volkswagen
+E-GOLF,"['^PP7AU.*$', '^.*AU$', '^KP7AU.*$']",WVW,Volkswagen
+GOLF,"['^GP2A.*$', '^ZZZ1H.*$', '^CF2.*$', '^ZZZ1K.*$', '^GR2A.*$', '^RV1.*$', '^ZZZ.*$', '^ZZZ1.*$', '^LM2.*$', '^SV1.*$', '^CG2.*$', '^FV7.*$', '^ZZZ1J.*$']",WVW,Volkswagen
+JETTA,['^ZZZ16.*$'],WVW,Volkswagen
+PASSAT,"['^AM2.*$', '^ZZZ3.*$', '^AP2.*$', '^ZZZ3B.*$']",WVW,Volkswagen
+PHAETON,['^.*3D$'],WVW,Volkswagen
+SHARAN,['^DH47M.*$'],WVW,Volkswagen
+528,['^DM680.*$'],X4X,BMW
+GEAR,['^XXXLO.*$'],X4X,BMW
+X5,['^KS694.*$'],X4X,BMW
+CLEANING MACHINE,['^5F.*H4$'],XL9,Road
+460,['^LY313.*$'],XLB,Volvo
+124C,['^P6X60.*$'],XLE,Scania
+360,['^P8X40.*$'],XLE,Scania
+G460,['^G6X40.*$'],XLE,Scania
+P380CB6X,"['^P6X.*0$', '^P6X40.*$', '^P.*0$']",XLE,Scania
+420,['^.*6X40$'],XLE,Scania
+R 420,['^R4X20.*$'],XLE,Scania
+430,['^TS47X.*$'],XLR,DAF
+55.28,['^AE55G.*$'],XLR,DAF
+CF85,['^AT85M.*$'],XLR,DAF
+FADCF85,['^AD85M.*$'],XLR,DAF
+LF45,['^AE45F.*$'],XLR,DAF
+21093,['^21093.*$'],XTA,Lada
+21213,['^21213.*$'],XTA,Lada
+8860,['^21214.*$'],XTA,Lada
+BAJZATH,['^21310.*$'],XTA,Lada
+HUNTER,['^31519.*$'],XTT,UAZ
+KARMA,"['^K14.*A$', '^K1.*A$']",YH4,Fisker
+113,['^TE.*$'],YS2,Scania
+P 410,"['^P6X.*0$', '^P.*0$', '^P.*$']",YS2,Scania
+420,['^R6X40.*$'],YS2,Scania
+380,['^K4X20.*$'],YS2,Scania
+G 410,['^G8X40.*$'],YS2,Scania
+G460,['^G6X40.*$'],YS2,Scania
+M 113,['^TH4X2.*$'],YS2,Scania
+P 420,['^P8X42.*$'],YS2,Scania
+9-3,"['^FB49.*$', '^DD58C.*$', '^FD49.*$']",YS3,Saab
+9-3 AERO,['^FH51U.*$'],YS3,Saab
+9-5,"['^EF4.*$', '^E.*$']",YS3,Saab
+900,['^DC5.*B$'],YS3,Saab
+93,"['^DD78.*$', '^DF7.*C$', '^FF49.*$', '^FH4.*$', '^FH71.*$']",YS3,Saab
+93 TURBO,['^F849F.*$'],YS3,Saab
+MOTORBIKE,['^CD48M.*$'],YS3,Saab
+SAAB,['^ED4.*E$'],YS3,Saab
+BLS,"['^FD4.*$', '^FD49S.*$']",YSC,Cadillac
+240 SERIES,['^AS445.*$'],YV1,Volvo
+260 SERIES,['^BX697.*$'],YV1,Volvo
+460,['^74484.*$'],YV1,Volvo
+740 GL,['^74424.*$'],YV1,Volvo
+850 SERIES,"['^LW5.*0$', '^LS5.*$', '^LS510.*$']",YV1,Volvo
+C 70,['^MC6.*5$'],YV1,Volvo
+C 30,['^MK67.*$'],YV1,Volvo
+C70,['^NC63D.*$'],YV1,Volvo
+S 60,"['^FS4.*$', '^RS5.*$', '^RS.*$', '^RS61.*$']",YV1,Volvo
+S 80,"['^AS985.*$', '^TS61.*$', '^TS9.*$']",YV1,Volvo
+S40,"['^VS1.*$', '^MS6.*$', '^MS38.*$', '^382MS.*$']",YV1,Volvo
+S-60,['^40MFK.*$'],YV1,Volvo
+S-80,['^TS49.*$'],YV1,Volvo
+S-90,['^A22MK.*$'],YV1,Volvo
+S60 D3,['^FS79B.*$'],YV1,Volvo
+S60 R,['^RS52X.*$'],YV1,Volvo
+S60D4,['^FSA8B.*$'],YV1,Volvo
+V 50,['^MW.*$'],YV1,Volvo
+V40,['^635M.*$'],YV1,Volvo
+V60,['^A9HFW.*$'],YV1,Volvo
+V70,"['^SW5.*$', '^LW55.*$', '^SW6.*$']",YV1,Volvo
+VN 780,['^78269.*$'],YV1,Volvo
+XC 40,['^16AXZ.*$'],YV1,Volvo
+XC 90,"['^CZ59.*$', '^955C.*$', '^CM59.*$', '^CZ9.*$', '^C.*5$', '^CZ985.*$', '^CT9.*$', '^CM9.*$', '^CZ855.*$']",YV1,Volvo
+XC60,['^475.*Z$'],YV1,Volvo
+460,['^JHVOA.*$'],YV2,Volvo
+FH 440,"['^RTY0.*$', '^RT40.*$', '^AG90.*$', '^AG20.*$', '^JSG0.*$', '^RS02.*$', '^ASW0.*$']",YV2,Volvo
+FH 16,['^A8A2D.*$'],YV2,Volvo
+FH12,"['^F4B.*A$', '^H2B.*$', '^F2C.*A$', '^AP4.*$', '^F5A.*$', '^AAD.*A$', '^AS02.*$', '^A4C.*$', '^H2C.*$', '^H2A.*$', '^H3A.*$', '^A4B.*$', '^A4D.*$', '^.*D$']",YV2,Volvo
+FH,"['^AG20.*$', '^RT40A.*$']",YV2,Volvo
+FH 480,['^ASW0D.*$'],YV2,Volvo
+FH-SERIES,['^RT60G.*$'],YV2,Volvo
+FL,['^F2B3D.*$'],YV2,Volvo
+FL 10,['^F4C1G.*$'],YV2,Volvo
+FL 612,['^E4CAA.*$'],YV2,Volvo
+FL220,['^E4CBA.*$'],YV2,Volvo
+FL614,['^E6A4A.*$'],YV2,Volvo
+FM 9,"['^J4D.*A$', '^J4C.*$', '^J4DT.*$', '^J4D.*$', '^JSG0.*$', '^J.*$']",YV2,Volvo
+FM,['^JSG0.*$'],YV2,Volvo
+FM 440,['^J1G1A.*$'],YV2,Volvo
+FMX 370,['^JM30.*$'],YV2,Volvo
+N10,['^D0A1D.*$'],YV2,Volvo
+NL 10,"['^D.*$', '^D2B3.*$']",YV2,Volvo
+V70,['^J1B1A.*$'],YV2,Volvo
+BUS,['^.*2$'],YV3,Mazda
+XC 90,['^CZ852.*$'],YV4,Volvo
+XC40,['^162XZ.*$'],YV4,Volvo
+XC70,['^BZ982.*$'],YV4,Volvo
+XC90,"['^BC0P.*$', '^A22P.*$']",YV4,Volvo
+RENEGADE,"['^NJC.*B$', '^NJB.*$', '^CJB.*$', '^NJD.*$', '^CJA.*$', '^NJA.*$']",ZAC,Jeep
+BITURBO,['^AL110.*$'],ZAM,Maserati
+GHIBLI,"['^45VMA.*$', '^57XS.*$', '^57R.*$', '^45V.*A$']",ZAM,Maserati
+GHILBI,['^XP56B.*$'],ZAM,Maserati
+GRANTURRISMO,['^.*45F$'],ZAM,Maserati
+GRANSPORT,"['^BB18B.*$', '^.*8B$']",ZAM,Maserati
+QUATTROPORTE,"['^.*F$', '^FK39.*$', '^JK39F.*$', '^SP56.*$', '^CD39.*$']",ZAM,Maserati
+MC STRADALE,['^UH45F.*$'],ZAM,Maserati
+QUATTROPORTE S Q4,['^RR56F.*$'],ZAM,Maserati
+GTS,['^MA39L.*$'],ZAP,Piaggio
+GTS 250,['^M459L.*$'],ZAP,Piaggio
+TYPHOON 50,['^C506B.*$'],ZAP,Piaggio
+4C,['^BAAA4.*$'],ZAR,Alfa
+75,['^162B1.*$'],ZAR,Alfa
+GIULIA,['^FAEDN.*$'],ZAR,Alfa
+ROMEO,"['^93000.*$', '^EA.*$', '^EAE.*N$']",ZAR,Alfa
+ROMEO 147,"['^9.*00$', '^93700.*$']",ZAR,Alfa
+ROMEO 156,['^93200.*$'],ZAR,Alfa
+ROMEO 166,['^93600.*$'],ZAR,Alfa
+ROMEO 4C,['^AADBD.*$'],ZAR,Alfa
+ROMEO GILULIETTA,['^CAB.*$'],ZAR,Alfa
+SPIDER,['^BA541.*$'],ZAR,Alfa
+TNT 15,['^PEKTE.*$'],ZBN,Benelli
+TNT 25,['^N2200.*$'],ZBN,Benelli
+1.35E+23,['^B1HF0.*$'],ZCF,Iveco
+1.70E+26,['^A1RJ0.*$'],ZCF,Iveco
+315/316,['^C135D.*$'],ZCF,Iveco
+380,['^C50A2.*$'],ZCF,Iveco
+7.50E+16,['^A75A1.*$'],ZCF,Iveco
+70C15H,"['^C70AD.*$', '^.*70AD$']",ZCF,Iveco
+DAILY,"['^C50.*$', '^C35.*$', '^C.*$']",ZCF,Iveco
+DUMP,['^A1TM0.*$'],ZCF,Iveco
+IVECO,['^B1HG8.*$'],ZCF,Iveco
+TRUCK,"['^A1E.*0$', '^B1H.*$', '^B1JJ.*$']",ZCF,Iveco
+MB40,['^C3580.*$'],ZCF,Iveco
+ML120E18,['^A1ED0.*$'],ZCF,Iveco
+ML150E25W,['^B1HF9.*$'],ZCF,Iveco
+PICK,['^A1EF0.*$'],ZCF,Iveco
+PICK UP,['^A7970.*$'],ZCF,Iveco
+TURBODAILY,['^C49.*0$'],ZCF,Iveco
+LIFT,['^435LO.*$'],ZD0,Scissor
+125 RS4,['^M5510.*$'],ZD4,Aprilia
+650CC,['^SM000.*$'],ZD4,Aprilia
+RST1000,['^VKA00.*$'],ZD4,Aprilia
+SCRAMBLER,"['^K100A.*$', '^.*A$']",ZDM,DUCATI
+848,['^H600A.*$'],ZDM,DUCATI
+848 EVO,['^H602A.*$'],ZDM,DUCATI
+DIAVEL,['^G100A.*$'],ZDM,DUCATI
+HYPERMOTARD,['^1YBTS.*$'],ZDM,DUCATI
+MONSTER 1200,['^MACFW.*$'],ZDM,DUCATI
+MONSTER 796,['^M5.*A$'],ZDM,DUCATI
+RR 16,['^D100A.*$'],ZDM,DUCATI
+500,"['^BFL.*$', '^HA328.*$']",ZFA,Fiat
+595,['^BFLEH.*$'],ZFA,Fiat
+ABARTH 595 COMP,"['^BFLKH.*$', '^BFL.*H$']",ZFA,Fiat
+ABARTH 695 TRIBUTO FERRARI,['^HA320.*$'],ZFA,Fiat
+BARCHETTA,['^18300.*$'],ZFA,Fiat
+BRAVA,['^18200.*$'],ZFA,Fiat
+DOBLO,['^26300.*$'],ZFA,Fiat
+DOUBLE,['^22300.*$'],ZFA,Fiat
+FULLBACK,['^KVJY1.*$'],ZFA,Fiat
+HYMER,['^25000.*$'],ZFA,Fiat
+LINEA,['^GA491.*$'],ZFA,Fiat
+NEON,['^CDA.*P$'],ZFA,Fiat
+PUNTO,['^1.*00$'],ZFA,Fiat
+ULYSSE 1.9 TD S,['^22000.*$'],ZFA,Fiat
+X 19,['^BS00A.*$'],ZFA,Fiat
+DUCATO,['^KFF.*$'],ZFC,Fiat
+FIORINO,['^VFE.*$'],ZFC,Fiat
+RAM,['^DREAB.*$'],ZFC,Fiat
+360,['^YR51J.*$'],ZFF,Ferrari
+360 CHALLENGE STRADALE,['^DT57B.*$'],ZFF,Ferrari
+430,['^KZ64B.*$'],ZFF,Ferrari
+456 GT,['^SD44B.*$'],ZFF,Ferrari
+458,"['^67N.*$', '^6.*$']",ZFF,Ferrari
+458 SPECIALE,['^75VHT.*$'],ZFF,Ferrari
+458 SPIDER,['^68NH.*$'],ZFF,Ferrari
+GTB 488,"['^79AMT.*$', '^79A.*$']",ZFF,Ferrari
+488,['^90HMT.*$'],ZFF,Ferrari
+512,['^JA09B.*$'],ZFF,Ferrari
+550 BARCHETTA,['^ZR52B.*$'],ZFF,Ferrari
+575 SUPERAMERICA,['^GT61B.*$'],ZFF,Ferrari
+599 GTB,"['^FD60.*$', '^F.*$']",ZFF,Ferrari
+CALIFORNIA,"['^.*T$', '^77XJ.*$']",ZFF,Ferrari
+612,['^AA54A.*$'],ZFF,Ferrari
+812 SUPERFAST,['^83CMT.*$'],ZFF,Ferrari
+F 12,"['^74UH.*$', '^74UHT.*$']",ZFF,Ferrari
+F 151,['^WP50B.*$'],ZFF,Ferrari
+F 355,['^PR41A.*$'],ZFF,Ferrari
+F 430,['^EW5.*$'],ZFF,Ferrari
+F 430 SCUDERIA SPIDER 16M,['^KW66T.*$'],ZFF,Ferrari
+F 599 GTO,['^70RDB.*$'],ZFF,Ferrari
+F599,['^FC60A.*$'],ZFF,Ferrari
+FF,['^73SK.*$'],ZFF,Ferrari
+GTC4LUSSO,['^82WNT.*$'],ZFF,Ferrari
+MODENA360,['^YR51B.*$'],ZFF,Ferrari
+MONDAIL,['^UC15A.*$'],ZFF,Ferrari
+PORTOFINO,['^89FPT.*$'],ZFF,Ferrari
+UNKNOWN,['^77XJB.*$'],ZFF,Ferrari
+AVENTADOR,['^.*ZD$'],ZHW,Lamborghini
+AVENTADOR LP 7004 ROADSTER,['^ER1ZD.*$'],ZHW,Lamborghini
+AVENTADOR ROADSTER,['^EV4ZD.*$'],ZHW,Lamborghini
+GALLARDO,['^G.*$'],ZHW,Lamborghini
+GALLARDO LP 5604 SPYDER,"['^GE5B.*$', '^GE.*$', '^GE6.*$']",ZHW,Lamborghini
+GALLARDO LP5704 SUPER TROFEO STRADALE,['^GE71J.*$'],ZHW,Lamborghini
+HURACAN,['^EC1.*$'],ZHW,Lamborghini
+MURCIELAGO,['^BA37S.*$'],ZHW,Lamborghini
+MURCIELAGO LP6704 SV,['^BA81H.*$'],ZHW,Lamborghini
+KAPPA,['^83800.*$'],ZLA,Lancia
+,"['^84100.*$', '^8.*00$']",ZLA,Lancia
+LIBRA,['^83900.*$'],ZLA,Lancia
