@@ -6,8 +6,8 @@ phases:
       - pip install -t dependencies -r requirements.txt
   build:
     commands:
-      - (cd dependencies; zip ../aws_lambda_artifact.zip -r .)
-      - zip aws_lambda_artifact.zip -u *.py
+      - (cd dependencies; zip ../vin_decoder_artifact.zip -r .)
+      - zip vin_decoder_artifact.zip -u *.py
 
 artifacts:
   files:
