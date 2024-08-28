@@ -13,3 +13,4 @@ phases:
 artifacts:
   files:
     - vin_decoder_artifact.zip
+    
